@@ -1,0 +1,2521 @@
+machine learning	0.0090004302794	884	True
+speech recognition	0.00819582107169	196	True
+artificial intelligence	0.00817767645839	223	True
+algorithm	0.00797830886876	137	True
+information retrieval	0.00785270323066	735	True
+natural language processing	0.00753379107924	330	True
+data mining	0.00738986626165	1120	True
+supervised learning	0.00681238684566	247	True
+xml	0.00646343530041	785	True
+hidden markov model	0.00610800891092	122	True
+cluster analysis	0.00610697701248	157	True
+probability distribution	0.00583725368064	117	True
+neural network	0.00581273906537	154	True
+relational database	0.00578627002343	215	True
+sql	0.00571156378766	391	True
+support vector machine	0.00564540613274	524	True
+machine translation	0.00562169833744	282	True
+bayesian network	0.00560877527396	305	True
+semantics	0.00559655409804	256	True
+semantic web	0.00558028118068	120	True
+unsupervised learning	0.00551513806936	120	True
+metadata	0.00549157792579	165	True
+document classification	0.00545398609045	212	True
+naive bayes classifier	0.00543603995934	212	True
+mixture model	0.00542978569651	133	True
+dynamic programming	0.00538457839859	185	True
+wordnet	0.00535052755606	114	True
+information extraction	0.00532188199255	224	True
+bioinformatics	0.00532066400225	126	True
+text mining	0.00527567728895	120	True
+computer vision	0.00526208696138	206	True
+reinforcement learning	0.00524024766714	292	True
+prolog	0.00523587501677	146	True
+maximum likelihood	0.00523312147037	155	True
+logistic regression	0.00520655296211	121	True
+database management system	0.00520551371918	228	True
+np-complete	0.00519667202481	143	True
+expert system	0.00518387961745	144	True
+first-order logic	0.00517189912906	138	True
+knowledge representation and reasoning	0.00512668235422	226	True
+perceptron	0.00512439481375	191	True
+question answering	0.00508093174385	178	True
+np-hard	0.00507422659405	145	True
+n-gram	0.00505129204313	148	True
+mutual information	0.00503588343061	124	True
+collaborative filtering	0.00502319532924	181	True
+feature selection	0.00499508335931	217	True
+dimension reduction	0.00498386419087	179	True
+tuple	0.00497946993593	105	True
+data structure	0.00495070136607	139	True
+data warehouse	0.00494925894221	114	True
+pagerank	0.00494622291983	133	True
+xquery	0.00494482144824	174	True
+overfitting	0.00493927338246	113	True
+linear programming	0.00490260477333	135	True
+association for computing machinery	0.00489736483596	229	True
+logic programming	0.00489067347906	120	True
+time complexity	0.00488833017106	254	True
+semi-supervised learning	0.00485445939542	142	True
+markov decision process	0.00483633156389	116	True
+online analytical processing	0.00483616831042	160	True
+heuristic	0.00478923946851	409	True
+generative model	0.00478506773821	101	True
+k-means clustering	0.00477360738573	113	True
+social network	0.00475417664503	173	True
+xpath	0.0047499580608	131	True
+quicktime	0.0047363817225	114	True
+decision tree	0.00472950514239	373	True
+eigenvalues and eigenvectors	0.00469822866556	108	True
+markov random field	0.0046803165378	107	True
+treebank	0.00468003508431	108	True
+ontology	0.00467109278464	221	True
+windows media player	0.00465986837717	114	True
+library	0.0046363038355	183	True
+entropy	0.00462661942768	152	True
+precision and recall	0.00462620372676	119	True
+adaboost	0.00461540576404	115	True
+linearity	0.00461397175644	1257	True
+histogram	0.00458878784448	101	True
+query expansion	0.00455652266514	137	True
+query optimization	0.00455469338585	160	True
+relevance feedback	0.00451908534284	154	True
+synthetic data	0.00444665552352	193	True
+order of magnitude	0.00442002374	202	True
+basel problem	0.0044039986578	523	True
+the power (snap! song)	0.00439766373195	128	True
+adobe acrobat	0.00435171787047	115	True
+ade easily	0.00431224883225	521	False
+mathematical optimization	0.00430940883225	237	False
+the t.o. show	0.00430924883225	221	False
+for but not with	0.00430856883225	153	False
+realplayer	0.00430817883225	114	False
+statistics	0.00356721292371	5	True
+computer science	0.00352365020096	55	True
+pattern recognition	0.00319792925044	82	True
+database	0.00230056164995	3	True
+mathematics	0.00205529971403	4	True
+statistical classification	0.00195787154947	12	True
+artificial neural network	0.00180147362885	22	True
+microsoft	0.00160798199348	31	True
+computational linguistics	0.00147416838744	48	True
+world wide web	0.00144899118084	76	True
+javascript	0.00142227894527	9	True
+linguistics	0.0013698734018	5	True
+bayesian inference	0.00135414475162	61	True
+java (programming language)	0.00134115301144	47	True
+information theory	0.00133783294536	43	True
+predictive analytics	0.00132104141227	3	True
+markov chain	0.00129071413504	57	True
+regression analysis	0.00123348446856	20	True
+parsing	0.00121959894231	84	True
+programming language	0.00121128543517	60	True
+microsoft sql server	0.00119921325809	34	True
+probability	0.00119546653897	15	True
+integer	0.00119252125758	5	True
+logarithm	0.00118752693937	9	True
+scripting language	0.00114487718682	4	True
+text corpus	0.00110146008848	9	True
+linear classifier	0.00104325112572	12	True
+data model	0.00104303489027	27	True
+logic	0.00103310208241	5	True
+c (programming language)	0.00102670888425	3	True
+probability density function	0.00102187874391	25	True
+matrix (mathematics)	0.00101592088838	33	True
+graph theory	0.00101548159564	22	True
+graph (mathematics)	0.00101524551438	59	True
+data compression	0.00100823993254	37	True
+expected value	0.00100780719891	18	True
+vector space	0.00100563685696	63	True
+learning to rank	0.00100078096254	66	True
+random variable	0.00100055020405	12	True
+boosting	0.000994878783984	8	True
+operating system	0.000972523132862	29	True
+ibm	0.000972383988076	87	True
+html	0.000972257618671	42	True
+normal distribution	0.000955363172586	44	True
+open source	0.000940690892442	20	True
+inference	0.000940395555998	26	True
+relational model	0.000936846215936	84	True
+categorization	0.000932459769913	4	True
+statistical model	0.00093052213199	67	True
+variance	0.000921146714304	8	True
+business intelligence	0.000920307794007	35	True
+k-nearest neighbor algorithm	0.000919830306418	24	True
+decision tree learning	0.000918937357775	50	True
+text retrieval conference	0.000914070253328	5	True
+python (programming language)	0.000908031560843	11	True
+occam's razor	0.000902940721305	20	True
+document retrieval	0.000893140325946	13	True
+social search	0.00088746933031	6	True
+scale space	0.000885757980875	28	True
+syntax	0.000878505298771	39	True
+cognitive science	0.000871428393584	18	True
+curse of dimensionality	0.00086590025822	29	True
+part-of-speech tagging	0.00086307465479	81	True
+indeterminism	0.000862962550649	4	True
+web search engine	0.00085842693682	97	True
+gibbs sampling	0.000856775087451	49	True
+ontology (information science)	0.000844283915912	95	True
+discriminative model	0.000834635535866	12	True
+query language	0.000834002575798	19	True
+operations research	0.000829020463974	14	True
+optical character recognition	0.000824704981187	14	True
+principal component analysis	0.000818231691657	99	True
+web 2.0	0.000807818864417	21	True
+probability theory	0.000803827533032	9	True
+polynomial	0.000798715276418	20	True
+sentiment analysis	0.000790621059595	21	True
+computational complexity theory	0.000788455192836	49	True
+resource description framework	0.000776051124072	37	True
+perl	0.000762765632219	4	True
+genetic algorithm	0.0007627254028	77	True
+postgresql	0.000761870941945	27	True
+matlab	0.000761161679353	14	True
+conditional random field	0.00076104321564	27	True
+conditional probability	0.000760705021147	52	True
+superposition principle	0.000744812080506	3	True
+computer program	0.000744092473528	24	True
+linear regression	0.000743249339362	68	True
+application programming interface	0.000743029871326	7	True
+linear discriminant analysis	0.000733828704253	72	True
+graphical model	0.000726318431636	93	True
+ibm db2	0.000717220137671	53	True
+stemming	0.000715852230549	8	True
+transformer	0.000714100580951	4	True
+tilde	0.000713496684101	5	True
+subset	0.000711491864946	8	True
+gradient boosting	0.00070824837079	28	True
+statistical inference	0.000707481894452	14	True
+unix	0.000700388747862	38	True
+web ontology language	0.000697080257651	7	True
+query optimizer	0.000685177184809	88	True
+singular value decomposition	0.000680516180596	67	True
+mp3	0.000677993654466	4	True
+likelihood function	0.000673957002834	40	True
+quantum mechanics	0.000672892230314	6	True
+google search	0.00067208455134	10	True
+formal language	0.000668248882662	31	True
+speech synthesis	0.000664217440686	16	True
+oracle corporation	0.000662709294588	6	True
+latent semantic analysis	0.00066211489787	23	True
+relational database management system	0.000661732992597	72	True
+fuzzy logic	0.000659848487424	22	True
+game theory	0.00065574676789	25	True
+discounted cumulative gain	0.000655004769563	70	True
+markov process	0.000652286902814	11	True
+signal processing	0.000645405835315	3	True
+language model	0.000642892759993	45	True
+directed acyclic graph	0.00064221060456	26	True
+natural number	0.000636769328218	3	True
+jpeg	0.000632267153613	7	True
+ensemble learning	0.000623694943423	36	True
+functional programming	0.000621143469449	13	True
+knowledge management	0.000620030202767	38	True
+cross-validation (statistics)	0.000618920628258	82	True
+data dictionary	0.000614767011842	9	True
+tree structure	0.000612200482172	4	True
+compiler	0.00060325403948	10	True
+morphology (linguistics)	0.00060093510366	7	True
+weka (machine learning)	0.000600893797128	6	True
+latent dirichlet allocation	0.000600480092385	58	True
+margin classifier	0.000599141674794	8	True
+database theory	0.000598595289174	8	True
+greedy algorithm	0.00059800875455	88	True
+binary classification	0.000596132743544	72	True
+sequence alignment	0.000595526824534	11	True
+feature extraction	0.000589305287842	26	True
+web query classification	0.000588532181178	28	True
+database normalization	0.00058832000777	3	True
+world wide web consortium	0.000587590888718	29	True
+automated planning and scheduling	0.000587068493039	12	True
+relational algebra	0.000585070151922	87	True
+bayesian probability	0.000584713377664	10	True
+if and only if	0.000583787247208	8	True
+global serializability	0.000583757460887	4	True
+bayes' theorem	0.00058004575725	13	True
+spreadsheet	0.000578747961349	12	True
+nearest neighbor search	0.000577042813901	31	True
+boltzmann machine	0.0005765288361	6	True
+multivariate normal distribution	0.000575527860517	8	True
+travelling salesman problem	0.000574479233401	9	True
+covariance matrix	0.000573749031575	48	True
+last.fm	0.000570622033041	8	True
+deep web	0.000569284192003	27	True
+algorithmic efficiency	0.000569102790382	3	True
+semantic network	0.00056820944604	77	True
+segmentation (image processing)	0.000567547737479	7	True
+stop words	0.000567529691992	10	True
+web browser	0.000566224756007	9	True
+simulated annealing	0.000565874934254	39	True
+euclidean space	0.000564206693355	42	True
+object database	0.000562239948378	61	True
+bootstrap aggregating	0.000561378557601	5	True
+object-oriented programming	0.000557954552605	39	True
+regular expression	0.000555541286005	14	True
+causality	0.00055007364169	38	True
+dirichlet process	0.000549992362703	28	True
+monte carlo method	0.000547774089641	41	True
+enterprise search	0.000545890517477	11	True
+set theory	0.00054580697441	4	True
+feedforward neural network	0.0005457882896	12	True
+outlier	0.000542923690991	5	True
+discrete mathematics	0.000541777256008	3	True
+stanford university	0.000541678045329	5	True
+darpa	0.000540638011822	15	True
+text analytics	0.000540497406512	6	True
+linux	0.000537273260779	22	True
+calculus	0.000532420261021	4	True
+chess	0.000532330862515	8	True
+receiver operating characteristic	0.000530059587152	59	True
+belief propagation	0.000529015910727	88	True
+time series	0.000528671734438	32	True
+non-negative matrix factorization	0.000528192632115	46	True
+theoretical computer science	0.00052567999073	3	True
+standard deviation	0.000520272570256	14	True
+enterprise information integration	0.000519047579919	4	True
+image processing	0.000514789085379	15	True
+hilbert space	0.000514110814417	17	True
+tree decomposition	0.000513261344704	69	True
+mathematical model	0.000511494114347	11	True
+recursion	0.000509323344356	33	True
+assembly language	0.000503625813812	4	True
+type i and type ii errors	0.000501156957488	34	True
+xml database	0.00050099065447	41	True
+run-length encoding	0.000499741169404	4	True
+number theory	0.000497811059914	3	True
+database model	0.000497092276757	10	True
+backpropagation	0.00049690895309	36	True
+conditional independence	0.000496502540252	62	True
+geometric mean	0.000496339866337	10	True
+factorial	0.000496184887093	3	True
+decision support system	0.00049614398956	13	True
+clique (graph theory)	0.000495635418423	6	True
+convolution	0.000494043368494	36	True
+factor graph	0.000493764536183	5	True
+kalman filter	0.000491513793001	34	True
+convex set	0.000491480540862	6	True
+graph isomorphism problem	0.000490297300533	3	True
+xslt	0.000489974241607	13	True
+probabilistic latent semantic analysis	0.000488451855095	72	True
+kernel methods	0.000486266902379	92	True
+principle of maximum entropy	0.000485837434515	29	True
+kernel trick	0.000485630861677	10	True
+control theory	0.00048554132821	7	True
+memoization	0.000484211926631	13	True
+arabic language	0.000483993184915	12	True
+branch and bound	0.00048377075307	47	True
+declarative programming	0.000483661697973	15	True
+joint probability distribution	0.00048245382264	14	True
+multiple sequence alignment	0.00048157266272	6	True
+web crawler	0.00048103880908	6	True
+inductive bias	0.000478710322971	12	True
+combinatorics	0.000476533453335	10	True
+stochastic context-free grammar	0.000476312396391	28	True
+coreference	0.000475825210289	17	True
+mathematical logic	0.000475608959602	8	True
+terminology extraction	0.00047458048891	8	True
+central processing unit	0.000472887263398	18	True
+euclidean distance	0.000472622240527	53	True
+sociology	0.000471751159332	3	True
+regularization (mathematics)	0.000471559015058	38	True
+statistical relational learning	0.000466040926453	20	True
+dna	0.000465441370913	3	True
+extract, transform, load	0.00046434416791	5	True
+linear algebra	0.000462759746177	14	True
+latent variable	0.000462494498018	22	True
+cognitive psychology	0.00046049722041	12	True
+mathematical induction	0.000459957022225	10	True
+autocorrelation	0.000459650278836	20	True
+noun	0.00045657115997	6	True
+viterbi algorithm	0.000456428902544	22	True
+data integration	0.000456379004504	22	True
+subroutine	0.000453274904603	11	True
+protein	0.000451767412867	77	True
+decision problem	0.000451663000946	47	True
+multilayer perceptron	0.000449555752176	6	True
+common lisp	0.000449208324752	5	True
+lisp (programming language)	0.000448056309006	58	True
+numerical analysis	0.000447441164075	7	True
+tree (graph theory)	0.000447189848873	7	True
+markov chain monte carlo	0.000447108745406	51	True
+graph coloring	0.000446416934592	10	True
+fourier series	0.000445173029897	3	True
+combinatorial optimization	0.000445042878784	53	True
+cyc	0.000444620126429	7	True
+dimension	0.000444440098121	9	True
+random graph	0.000443947988596	5	True
+truth value	0.00044186550997	14	True
+myspace	0.000441845489958	7	True
+triangle inequality	0.00044114813	16	True
+cosine similarity	0.000440124278408	28	True
+independent component analysis	0.000438337929748	33	True
+taylor series	0.000437796343261	6	True
+p versus np problem	0.00043773488757	12	True
+dot product	0.000437122850563	14	True
+visualization (computer graphics)	0.000437113020386	7	True
+youtube	0.000436749498933	13	True
+case-based reasoning	0.00043588770371	59	True
+latent semantic indexing	0.000435108443419	46	True
+approximation algorithm	0.000434709699864	41	True
+string kernel	0.000434090762269	5	True
+abductive reasoning	0.00043405222186	22	True
+genetic programming	0.000433192338061	15	True
+search algorithm	0.000431423499815	28	True
+controlled vocabulary	0.000430867446339	7	True
+entropy (information theory)	0.000429611977837	86	True
+minimum description length	0.00042724281042	42	True
+fortran	0.000426949828592	13	True
+differential equation	0.000425492622253	6	True
+dirichlet distribution	0.000424910817961	7	True
+simrank	0.00042460283199	16	True
+computer network	0.000423871713237	9	True
+generative topographic map	0.000423598698433	3	True
+statistical machine translation	0.000423167943641	71	True
+f1 score	0.000422762947387	67	True
+amazon.com	0.000422417890042	9	True
+connectionism	0.000420515048688	27	True
+transduction (machine learning)	0.000419636751167	17	True
+dependency grammar	0.000418802382622	17	True
+hyperplane	0.000418410970959	37	True
+lpboost	0.000416501647055	6	True
+xml schema (w3c)	0.000415775935136	26	True
+id3	0.000413426924922	9	True
+a* search algorithm	0.000413326880467	17	True
+university of california, berkeley	0.000411860683323	5	True
+multinomial distribution	0.000411567596857	8	True
+emergence	0.00041093975217	3	True
+computer graphics	0.00041034861629	9	True
+logitboost	0.00041002498997	3	True
+nonlinear dimensionality reduction	0.000409468743039	62	True
+context-free grammar	0.000409344869799	38	True
+natural language understanding	0.000408431006896	16	True
+bag of words model	0.000407995290417	4	True
+acm computing classification system	0.000407754541407	3	True
+semantic memory	0.000407686385583	7	True
+poisson distribution	0.000407217380832	7	True
+ip address	0.000407043269774	3	True
+interval (mathematics)	0.000407036739667	5	True
+generalized linear model	0.000406321018301	9	True
+monetdb	0.000404410804766	3	True
+wavelet	0.000403969198619	22	True
+intelligent agent	0.000401727113395	20	True
+software engineering	0.00040088868591	17	True
+tree-adjoining grammar	0.000399498216165	30	True
+modal logic	0.000398861411854	41	True
+hyperlink	0.000398358099282	33	True
+column-oriented dbms	0.000397837945229	10	True
+brute-force search	0.000397303114302	15	True
+data modeling	0.000396324795898	24	True
+mysql	0.000396130660162	7	True
+electrical engineering	0.000394444506192	3	True
+least squares	0.000393852032541	45	True
+commonsense knowledge base	0.000393428696158	15	True
+web service	0.00039240160598	46	True
+database schema	0.000390947037793	8	True
+fourier transform	0.000390923162706	15	True
+phrase structure rules	0.00039018903403	8	True
+multinomial logit	0.000389698064615	6	True
+prior probability	0.00038781391146	58	True
+semantic similarity	0.000386252871562	45	True
+query plan	0.000384837520569	54	True
+p (complexity)	0.000384824291706	3	True
+personal computer	0.000384760241714	10	True
+boolean satisfiability problem	0.00038423263729	43	True
+constraint satisfaction	0.000383678588397	25	True
+conjugate prior	0.000383470408467	4	True
+large margin nearest neighbor	0.000382958244137	5	True
+social bookmarking	0.000381405570035	17	True
+gradient descent	0.000380639202637	87	True
+web mining	0.000378284648947	46	True
+protein structure prediction	0.000377243144721	4	True
+backtracking	0.000376250025237	5	True
+computational learning theory	0.000375743997807	31	True
+turing completeness	0.000375289615516	3	True
+phylogenetic tree	0.000373400120483	8	True
+independent set (graph theory)	0.000372829110211	5	True
+predictive model markup language	0.000372721141882	3	True
+convex function	0.000372506882508	8	True
+national institute of standards and technology	0.000371555324158	19	True
+sri international	0.000371421400692	7	True
+continuous function	0.000371153433105	9	True
+graphical user interface	0.000371083913394	19	True
+logit	0.000371067591645	5	True
+cloud computing	0.000370474822863	7	True
+star schema	0.000369933173785	5	True
+darpa agent markup language	0.000369492303896	3	True
+logical conjunction	0.000368391418769	5	True
+stochastic gradient descent	0.000367902401649	19	True
+cryptography	0.000367602714303	8	True
+mereology	0.000366585687332	4	True
+minimum message length	0.000366002928446	4	True
+datalog	0.000365884181141	40	True
+class membership probabilities	0.000365635204509	3	True
+ascii	0.000364138360813	5	True
+cascading style sheets	0.000363669588867	5	True
+computer chess	0.000363545141344	3	True
+network theory	0.00036318647608	3	True
+dynamical system	0.000362138862009	46	True
+facebook	0.000361696769506	12	True
+description logic	0.000361514254481	86	True
+microsoft visual studio	0.000361500185943	4	True
+bayesian information criterion	0.000360755800299	5	True
+service-oriented architecture	0.00035979299035	13	True
+flwor	0.000359693046534	7	True
+analogy	0.000359540527249	5	True
+timesten	0.000358729015689	3	True
+recommender system	0.000358536631292	50	True
+pattern matching	0.000358027895052	33	True
+equivalence relation	0.000355433926952	8	True
+distributed computing	0.000355375188587	16	True
+variational bayesian methods	0.000355276824371	12	True
+partially observable markov decision process	0.000354817864916	12	True
+view (database)	0.000354170445569	3	True
+bipartite graph	0.000354130165858	38	True
+sun microsystems	0.000353798061182	3	True
+inductive logic programming	0.000353110157946	64	True
+automatic summarization	0.00035190026251	7	True
+f-logic	0.000351845201232	3	True
+lambda calculus	0.000351587749414	19	True
+complex analysis	0.0003511882172	3	True
+linear combination	0.00035055670938	33	True
+computer go	0.000349941132427	10	True
+medical imaging	0.00034898229163	7	True
+robotics	0.00034847116783	3	True
+metaheuristic	0.000348150743003	32	True
+epistemology	0.000347884254521	6	True
+automated theorem proving	0.000347806460926	36	True
+loss function	0.000347636887204	99	True
+exponential distribution	0.000347478351127	3	True
+data-oriented parsing	0.000346909033487	6	True
+digital camera	0.000345769106636	3	True
+yahoo!	0.000345754850812	14	True
+oracle database	0.000345410004709	24	True
+fisher kernel	0.000345096103448	10	True
+unicode	0.000342754036683	4	True
+spamdexing	0.000342653942195	28	True
+aaqua	0.000342611195598	4	True
+twitter	0.000342080463469	16	True
+empirical risk minimization	0.000342050829713	15	True
+xpath 2.0	0.000341992084951	3	True
+q-learning	0.000341853866064	53	True
+xml-retrieval	0.000341110397631	30	True
+sorting algorithm	0.000340618286362	4	True
+complexity class	0.000340603103318	10	True
+confidence interval	0.000340399590439	9	True
+local search (optimization)	0.000340295284507	13	True
+ontology learning	0.000340077198893	5	True
+vector space model	0.000339277582894	42	True
+formal grammar	0.000338887283892	8	True
+partial differential equation	0.000338549979398	6	True
+propositional calculus	0.000338327175314	35	True
+sensitivity and specificity	0.000338031105455	7	True
+akaike information criterion	0.000336869138404	7	True
+cheminformatics	0.000336289632192	18	True
+scientific visualization	0.000335934878337	4	True
+estimator	0.000335891602617	18	True
+faceted search	0.00033546865803	10	True
+quicksort	0.000335320108146	5	True
+dna microarray	0.000334780508315	15	True
+standard generalized markup language	0.000334718620441	13	True
+closed-form expression	0.000333584601751	4	True
+music information retrieval	0.000333377347883	14	True
+customer relationship management	0.000332599176999	14	True
+binary decision diagram	0.000332587151251	7	True
+bayes factor	0.000332315070809	5	True
+emml	0.000331388121909	3	True
+directed graph	0.000331053151609	29	True
+conjunctive query	0.000331000487012	5	True
+determinism	0.00032843845929	5	True
+open directory project	0.000327891888229	26	True
+hypertext	0.000327068729909	22	True
+expert system s.p.a.	0.000325247079608	3	True
+stochastic process	0.000323374185976	17	True
+exploratory data analysis	0.000323095289523	14	True
+arity	0.000321780771225	12	True
+gnu general public license	0.000321368010199	5	True
+tree (data structure)	0.000320623584717	20	True
+semeval	0.000319926337598	6	True
+non-parametric statistics	0.000319863771176	23	True
+xml schema	0.000319788852548	6	True
+workflow	0.000319724389403	6	True
+quadratic programming	0.00031899695725	51	True
+personal digital assistant	0.000318913475566	13	True
+multivariate statistics	0.000318363897697	4	True
+phoneme	0.000318182658327	23	True
+stepwise regression	0.000317658076338	11	True
+levenshtein distance	0.000317621401592	40	True
+metric space	0.000316198829045	13	True
+multi-armed bandit	0.000316008068772	21	True
+hash table	0.000315968590218	18	True
+ambiguity	0.000315761596614	10	True
+hierarchical clustering	0.000315344708885	8	True
+software agent	0.000314827723512	10	True
+sparse matrix	0.000314772391013	14	True
+rete algorithm	0.000314701979222	4	True
+model theory	0.000314610928148	19	True
+self-organizing map	0.000313423280322	23	True
+knapsack problem	0.000312880227244	4	True
+estimation theory	0.000312770904464	12	True
+formal system	0.000311327955481	18	True
+document management system	0.000311277463807	6	True
+structural equation modeling	0.000310449788253	3	True
+pearson product-moment correlation coefficient	0.000309780003011	13	True
+adjacency matrix	0.000309727845775	11	True
+frame language	0.000309626358092	4	True
+incremental search	0.000308470575958	9	True
+constraint satisfaction problem	0.00030802886014	62	True
+india	0.000307951249499	3	True
+simd	0.000307154360948	21	True
+data type	0.000306975207018	9	True
+middleware	0.000306844627823	39	True
+evolutionary computation	0.000306400334469	14	True
+ibm lotus notes	0.00030550779943	3	True
+automatic programming	0.000305037442037	19	True
+geographic information system	0.000304950486151	14	True
+density estimation	0.000304875560741	37	True
+type theory	0.000304670031152	6	True
+knowledge engineering	0.000304665370262	8	True
+arithmetic mean	0.000304571062407	7	True
+gene regulatory network	0.000304396531999	10	True
+topology	0.00030381922737	17	True
+entropy estimation	0.000303752080489	4	True
+statistical hypothesis testing	0.000303741511615	24	True
+utility	0.000303367451756	42	True
+ibm informix	0.000302903493337	8	True
+confusion matrix	0.000302655485792	5	True
+concept learning	0.000302496541436	55	True
+neuroevolution	0.000301673729662	9	True
+verbmobil	0.000301318526476	23	True
+recurrent neural network	0.000299409433405	21	True
+multidimensional scaling	0.000299404518587	22	True
+randomized algorithm	0.000299338875896	24	True
+search engine technology	0.00029928201939	4	True
+personal information management	0.000297015635205	12	True
+hypergraph	0.000296961243251	41	True
+action selection	0.000296775241151	10	True
+kolmogorov complexity	0.000296678761585	17	True
+agent-based model	0.000295945214636	5	True
+wi-fi	0.000295653820497	4	True
+decision theory	0.000295339739543	49	True
+html element	0.000295279111829	3	True
+cartesian product	0.000295249908609	12	True
+exponentiation	0.000294375784153	4	True
+type system	0.000294168889196	14	True
+statistical significance	0.000293816216601	21	True
+email	0.000292830848114	3	True
+speech processing	0.000292668718242	7	True
+computational geometry	0.000292517787619	15	True
+procedural knowledge	0.000292401487148	14	True
+floating point	0.000292171257382	4	True
+computational biology	0.000292108150405	4	True
+cumulative distribution function	0.000291828933316	3	True
+exponential family	0.000291610713206	42	True
+systems biology	0.000291397596612	13	True
+norm (mathematics)	0.000290722242745	20	True
+matching (graph theory)	0.000289765043114	11	True
+national science foundation	0.000289676952826	5	True
+answer set programming	0.00028944456363	29	True
+hyponymy	0.000289238781886	18	True
+inner product space	0.000288809589074	14	True
+earth mover's distance	0.000287411339677	6	True
+descriptive statistics	0.000287115135078	3	True
+anaphora (linguistics)	0.000286549054697	92	True
+correlation and dependence	0.000286158890466	12	True
+dialog system	0.000285548781623	32	True
+log-normal distribution	0.000284472631819	3	True
+computer simulation	0.000284316898257	11	True
+conceptual clustering	0.000284239354179	27	True
+deductive database	0.000283459016093	15	True
+object-relational database	0.000283056327538	28	True
+inference engine	0.000282217594758	27	True
+marginal distribution	0.000281817766612	18	True
+cobol	0.000281217857493	6	True
+smalltalk	0.000280721398677	7	True
+k-medoids	0.000280364802213	7	True
+molecular dynamics	0.000280129423844	3	True
+posterior probability	0.000279523653068	85	True
+metadatabase	0.000279366413721	3	True
+k-medians clustering	0.000279154168547	4	True
+language integrated query	0.000279056730777	11	True
+ontology engineering	0.000278220242675	5	True
+cardinality	0.000277740569652	92	True
+kernel density estimation	0.000277577538243	26	True
+dynamic time warping	0.000277391657265	24	True
+the new york times	0.000277352592635	3	True
+entailment	0.000276879446256	91	True
+hash function	0.000276555628153	3	True
+odds ratio	0.000276327014972	4	True
+join (sql)	0.000276126748865	66	True
+precision (statistics)	0.000275810922808	3	True
+radio-frequency identification	0.000275518504384	55	True
+self-organization	0.000274744106958	7	True
+purexml	0.000274630952763	3	True
+factor analysis	0.000274059755172	12	True
+voronoi diagram	0.000274021843524	3	True
+computer data storage	0.000273277180462	46	True
+shortest path problem	0.000273007056566	13	True
+modular arithmetic	0.000272772437048	3	True
+part of speech	0.000272579971405	24	True
+finite-state machine	0.00027216503978	41	True
+binary relation	0.000271413071729	9	True
+automatic image annotation	0.000271395667749	15	True
+teradata	0.000270797837038	10	True
+cluster labeling	0.000270431105392	3	True
+rule of inference	0.000270145867996	37	True
+web document	0.000270069092517	20	True
+probabilistic logic	0.000269918395166	15	True
+particle filter	0.000269680534196	23	True
+heuristic function	0.000268822313029	22	True
+planar graph	0.000268583025585	3	True
+syntax (logic)	0.000268448525947	3	True
+convex optimization	0.000268410399905	75	True
+spell checker	0.000267999696308	3	True
+functional generative description	0.000267780551675	8	True
+software as a service	0.000267302273851	4	True
+topic maps	0.000266397396405	3	True
+constraint programming	0.000266346426061	31	True
+os/2	0.000266220260475	4	True
+object-relational mapping	0.000266201499797	3	True
+ordinary least squares	0.000266007790562	9	True
+field-programmable gate array	0.00026585099081	16	True
+vc dimension	0.000265184812557	49	True
+fisher information	0.000265177812811	7	True
+neuroscience	0.000265102271432	5	True
+foaf (software)	0.000264975840768	5	True
+h.264/mpeg-4 avc	0.000264752306155	32	True
+rough set	0.00026473497177	26	True
+statistical mechanics	0.000264690884413	8	True
+instant messaging	0.000264656463853	7	True
+noisy channel model	0.000264646661825	5	True
+clustering high-dimensional data	0.000263372266715	41	True
+2-satisfiability	0.000263309042277	5	True
+handwriting recognition	0.000263193373793	20	True
+semantic translation	0.000263054354352	3	True
+mycin	0.000262833731876	7	True
+document type definition	0.000262415060478	4	True
+maximum a posteriori estimation	0.000262011781379	52	True
+predicate logic	0.000261760690599	54	True
+influence diagram	0.000261675904799	15	True
+scale-free network	0.000261534993646	4	True
+uncertainty	0.000261354827528	3	True
+generalization error	0.000261035183572	88	True
+stored procedure	0.00026076905114	5	True
+structure mining	0.000260269807881	61	True
+data stream clustering	0.000260097571915	8	True
+theorem	0.000260076209214	3	True
+cumulant	0.000260010895997	3	True
+basis (linear algebra)	0.000259579537625	3	True
+genre	0.000259381124469	3	True
+vertex cover	0.000258632284697	3	True
+gpgpu	0.000258588126762	3	True
+backgammon	0.000257939390893	7	True
+backward chaining	0.000257800946267	6	True
+xquery update facility	0.00025762112326	4	True
+glossary of graph theory	0.000257505459355	19	True
+constrained clustering	0.000257402256828	10	True
+scale-invariant feature transform	0.000256988772803	4	True
+decision boundary	0.000256843323153	24	True
+least squares support vector machine	0.000256646794938	3	True
+propositional formula	0.000256564655744	7	True
+unified modeling language	0.000256516782218	6	True
+list of google products	0.000255862539518	4	True
+spreading activation	0.000255791476095	14	True
+manifold	0.000255781742042	3	True
+modular programming	0.000254639803047	7	True
+convex hull	0.000254576479502	23	True
+consensus clustering	0.000254377247673	10	True
+bigram	0.000254294201319	28	True
+feature vector	0.000253716899357	5	True
+robust statistics	0.000253486118623	15	True
+federated database system	0.000253236954142	5	True
+concurrency control	0.000253236517167	87	True
+semidefinite programming	0.000252468814098	47	True
+horn clause	0.000252407979749	27	True
+dbpedia	0.000252071434329	5	True
+minimax	0.000251424963032	70	True
+sequence labeling	0.000251168536465	22	True
+linear logic	0.000251081253982	9	True
+array data type	0.000250545873278	3	True
+distance matrix	0.000250503803054	7	True
+hamming distance	0.000250432274192	5	True
+non-monotonic logic	0.000249676789135	63	True
+student's t-test	0.00024959397217	12	True
+analysis of algorithms	0.000249500021098	14	True
+depth-first search	0.000248301758203	22	True
+z39.50	0.000248191927516	4	True
+differential geometry	0.000247719945136	7	True
+web server	0.000247050816917	6	True
+gamma distribution	0.000246611135784	3	True
+database tuning	0.000246464813501	3	True
+steiner tree problem	0.00024646220474	4	True
+virtual machine	0.000246395840227	9	True
+inheritance (object-oriented programming)	0.000246115080776	3	True
+psycholinguistics	0.000245495288881	5	True
+information filtering system	0.000244519819496	4	True
+parameterized complexity	0.000244331700878	8	True
+paraconsistent logic	0.000243928427991	8	True
+iterative method	0.000243090201211	16	True
+lookup table	0.000242964095608	8	True
+inductive reasoning	0.000242672130838	38	True
+mixture distribution	0.000242281569357	7	True
+multiset	0.000241887453596	9	True
+jaccard index	0.000241328380943	7	True
+loose coupling	0.000241216253946	3	True
+mahalanobis distance	0.000241127557073	17	True
+data visualization	0.000240231843333	4	True
+hill climbing	0.000240132327658	9	True
+data definition language	0.000239463737876	7	True
+kernel principal component analysis	0.000239440110248	31	True
+subgraph isomorphism problem	0.000239356918111	9	True
+physical symbol system	0.000238452952631	3	True
+multiclass classification	0.000238325536298	88	True
+machine-readable dictionary	0.00023749464032	13	True
+second-order logic	0.000237205090488	8	True
+dynamic bayesian network	0.000236508987154	29	True
+conceptual graph	0.000236191006867	11	True
+statistical graphics	0.000235878016729	3	True
+controlled natural language	0.000235196835917	3	True
+grammar induction	0.000234483766062	36	True
+sybase	0.000234101817879	6	True
+sampling (statistics)	0.000233744481439	12	True
+binary tree	0.000233595257567	9	True
+defeasible reasoning	0.000233551830334	4	True
+semantic web services	0.000233482751941	8	True
+source code	0.000233035671617	3	True
+biclustering	0.000232873848172	88	True
+morpheme	0.000232010116784	16	True
+new york city	0.000231851155128	3	True
+japan	0.000230814435341	6	True
+interior point method	0.000230186613764	4	True
+quantification	0.000230174129248	18	True
+ingres (database)	0.000230053820877	7	True
+stochastic optimization	0.000229988415346	13	True
+compact space	0.000229404474599	4	True
+lexical semantics	0.000229403684253	15	True
+model selection	0.000229064838951	98	True
+turing test	0.000228781574843	7	True
+programming paradigm	0.000228774861352	16	True
+phonetics	0.000228623475869	3	True
+centrality	0.000228366090349	4	True
+computer-assisted translation	0.000228095537904	9	True
+mathematical analysis	0.000227923492728	3	True
+generative grammar	0.000227776447181	5	True
+sparql	0.000227260366053	9	True
+video compression picture types	0.000227246340271	4	True
+codasyl	0.000226869077873	25	True
+inverse problem	0.000226778100375	7	True
+text segmentation	0.000226155969384	49	True
+vladimir vapnik	0.000226101887192	3	True
+john mccarthy (computer scientist)	0.000225945336723	3	True
+example-based machine translation	0.000225840866812	8	True
+set cover problem	0.000225692586947	9	True
+isomorphism	0.000225562884153	8	True
+co-training	0.000225507739486	10	True
+mapreduce	0.000225426399447	49	True
+first normal form	0.000225126200675	6	True
+logical disjunction	0.000225023326079	8	True
+structure (mathematical logic)	0.000224399816061	7	True
+personalization	0.000224288117305	3	True
+deductive reasoning	0.00022428344385	12	True
+parallel algorithm	0.000224219847682	22	True
+information graphics	0.000224204108709	11	True
+neuroevolution of augmenting topologies	0.00022407429839	3	True
+gene expression	0.000224047095506	8	True
+rdf schema	0.000223839416999	3	True
+stable model semantics	0.000223778467997	21	True
+orthogonality	0.000223616128583	5	True
+huffman coding	0.000223093360226	7	True
+evolutionary algorithm	0.000222751086408	12	True
+flickr	0.000222590072791	44	True
+discrete cosine transform	0.000222400483831	8	True
+dijkstra's algorithm	0.000222187014015	4	True
+hierarchical classifier	0.000222034023665	4	True
+function space	0.000221919755165	8	True
+rss	0.000221828922595	18	True
+library classification	0.000221388487996	4	True
+peer-to-peer	0.000221281043562	91	True
+aqualogic	0.00022110572564	6	True
+entropy rate	0.00022108043391	3	True
+image registration	0.000220533148198	9	True
+approximate string matching	0.00021961834897	7	True
+structural risk minimization	0.000219056491714	9	True
+eigenface	0.00021900883223	4	True
+universal quantification	0.000218507994308	16	True
+inverted index	0.000218497572312	70	True
+online algorithm	0.000218264404145	58	True
+tuple relational calculus	0.000218102098204	3	True
+threading (protein sequence)	0.000217841464307	3	True
+structure editor	0.00021784023557	3	True
+econometrics	0.000217135793809	7	True
+symmetric matrix	0.000216702709566	5	True
+countable set	0.000216680440751	11	True
+spatial analysis	0.0002165900074	5	True
+computational semantics	0.000216521274624	5	True
+algebraic structure	0.000216449800513	4	True
+ajax (programming)	0.000215948491633	10	True
+abstraction (computer science)	0.000215855160792	4	True
+ontology alignment	0.000215754974379	13	True
+union (set theory)	0.000215501517807	5	True
+topic model	0.000214848496265	57	True
+tikhonov regularization	0.000214452639148	30	True
+uniform distribution (continuous)	0.000213688636658	4	True
+optimal control	0.000213641246461	14	True
+streaming simd extensions	0.00021294410789	4	True
+six sigma	0.000212852698068	3	True
+malware	0.000212736889366	21	True
+autodidacticism	0.000212521399224	7	True
+brown corpus	0.000212408071045	13	True
+total order	0.000212216857568	14	True
+false discovery rate	0.000211714526899	8	True
+grouplens research	0.000211317947109	3	True
+oracle weblogic server	0.000211309336017	3	True
+finite set	0.000211291953183	4	True
+conditional probability distribution	0.000210969373765	15	True
+optimal design	0.000210968446044	11	True
+gene prediction	0.00021087503201	5	True
+random walk	0.000210577853855	78	True
+stochastic game	0.000210549463819	22	True
+tensor	0.000210371119302	5	True
+information bottleneck method	0.000210331535305	6	True
+null hypothesis	0.000210135431901	10	True
+usenet	0.000209835537432	10	True
+functional analysis	0.000209688562391	5	True
+distributed constraint optimization	0.000209506868018	28	True
+sharp-p-complete	0.000209188467885	8	True
+gibbs measure	0.000208979110689	3	True
+index term	0.000208907140686	6	True
+supercomputer	0.000208552441535	9	True
+nasa	0.000208522076858	21	True
+common object request broker architecture	0.000208345752296	5	True
+temporal difference learning	0.000208079537149	21	True
+kriging	0.000207910613762	9	True
+online machine learning	0.000207830794674	3	True
+blind signal separation	0.000207695860764	12	True
+amino acid	0.000207615310536	8	True
+lexical functional grammar	0.000207005934933	8	True
+latex	0.000206907015792	3	True
+completeness	0.00020668419146	3	True
+sufficient dimension reduction	0.000206652276484	3	True
+hewlett-packard	0.000206268075015	5	True
+select (sql)	0.00020609420664	3	True
+memory	0.00020608661712	3	True
+possible world	0.000205893384239	25	True
+simplex algorithm	0.000205770255296	5	True
+online transaction processing	0.000205722764599	27	True
+word error rate	0.000205566910374	11	True
+reactive planning	0.000205483812807	5	True
+terabyte	0.000205139230671	19	True
+random matrix	0.000204910909449	4	True
+mobile phone	0.000204861028936	8	True
+maxima and minima	0.000204423027237	9	True
+root mean square	0.000204185761451	3	True
+biological database	0.000204164511191	3	True
+folksonomy	0.000203977196801	37	True
+alpha-beta pruning	0.000203320784705	8	True
+forward chaining	0.000203042976453	10	True
+earley parser	0.000202857797593	4	True
+blogosphere	0.000202778593374	5	True
+conjunctive normal form	0.000202612780729	7	True
+transaction processing	0.000202545184074	10	True
+integer programming	0.00020234566543	4	True
+nonlinear system	0.000202297983092	4	True
+macintosh	0.000202088633601	3	True
+mainframe computer	0.000201966415254	3	True
+swoogle	0.000201794044997	3	True
+abductive logic programming	0.000201680874331	4	True
+quadratic classifier	0.000201430057469	3	True
+graph embedding	0.000201289314179	9	True
+classical logic	0.000200914604141	23	True
+software architecture	0.000200913777942	4	True
+random forest	0.000200774516863	23	True
+complement (set theory)	0.000200483303119	4	True
+longest common subsequence problem	0.000200474358918	3	True
+speaker recognition	0.000200376921724	5	True
+parallel text	0.000200191133578	13	True
+formal methods	0.000199906318502	7	True
+weighted mean	0.00019953173769	4	True
+hash join	0.000198599040614	10	True
+reuters	0.000198343112565	5	True
+system of linear equations	0.000198016248319	5	True
+ransac	0.000197837747901	13	True
+linear programming relaxation	0.000197361205524	10	True
+binary search tree	0.000197312792298	3	True
+multimodal interaction	0.000197101721861	4	True
+foreign key	0.000196419596151	7	True
+linear functional	0.0001964035816	4	True
+pseudoforest	0.000196244466697	7	True
+particle physics	0.000196047890631	7	True
+commonsense reasoning	0.000195917728771	25	True
+bayes estimator	0.000195327925122	15	True
+lazy evaluation	0.000194764730882	5	True
+semiring	0.000194742791155	5	True
+brown university	0.000194556622815	3	True
+higher-order logic	0.000194516658994	8	True
+cross-correlation	0.000194492359188	15	True
+probably approximately correct learning	0.000194246481339	55	True
+lp space	0.000194040184452	11	True
+netflix prize	0.000193806296528	9	True
+inductive transfer	0.000193728406554	16	True
+pragmatics	0.000193358506745	31	True
+errors and residuals in statistics	0.00019247626842	4	True
+logical schema	0.000192431643828	8	True
+william of ockham	0.000191959893585	11	True
+bounded rationality	0.000191807826364	3	True
+autoepistemic logic	0.00019178261784	21	True
+petri net	0.000191701929274	15	True
+bell labs	0.000191444668663	10	True
+business process execution language	0.000191047685861	11	True
+edge detection	0.000191007721779	18	True
+power law	0.000190641255631	15	True
+abstract data type	0.000190544704483	11	True
+softmax activation function	0.000190337727007	3	True
+garbage collection (computer science)	0.000189621240924	10	True
+content-addressable memory	0.000189357084366	3	True
+learning classifier system	0.000188779721556	3	True
+negation as failure	0.000188730186061	9	True
+descriptive knowledge	0.000188241309329	8	True
+computer-assisted language learning	0.000187901356445	4	True
+social graph	0.00018755599871	7	True
+control flow	0.000187318365942	7	True
+rotation matrix	0.00018716783657	3	True
+binary independence model	0.000187161575907	3	True
+id3 algorithm	0.000187087005839	11	True
+pruning (decision trees)	0.000186977609919	10	True
+collaborative software	0.000186637107222	3	True
+bias of an estimator	0.000186532481189	4	True
+transfer-based machine translation	0.000186100907799	7	True
+lexical analysis	0.000186006186035	9	True
+resolution (logic)	0.000185954758128	17	True
+discrete fourier transform	0.000185580256709	3	True
+self-balancing binary search tree	0.000184988040771	5	True
+diagonal matrix	0.000184076179221	3	True
+association rule learning	0.000183827899392	84	True
+empty set	0.000183572055369	3	True
+random field	0.000183529031294	6	True
+default logic	0.000183520131083	47	True
+serializability	0.000182869426827	17	True
+stream processing	0.000182687092051	36	True
+polysemy	0.000182235818329	43	True
+preference elicitation	0.000181980661342	24	True
+trie	0.000181538688483	15	True
+power set	0.000181298761909	7	True
+sql/xml	0.000181296775839	24	True
+semantic data model	0.000180581199186	8	True
+positive-definite matrix	0.000180278149667	25	True
+class (computer programming)	0.000180210144918	3	True
+sort-merge join	0.000179554569011	8	True
+event calculus	0.000179483809672	12	True
+constraint grammar	0.000179204339306	3	True
+indicator function	0.000178726143125	8	True
+importance sampling	0.000178223110888	12	True
+exptime	0.000178174169939	14	True
+partition function (mathematics)	0.000178084653063	9	True
+suffix tree	0.000178071530009	31	True
+synonym ring	0.000178010962325	10	True
+facility location	0.000177959057984	3	True
+graphics processing unit	0.000177813003276	20	True
+fluid dynamics	0.000177709651439	3	True
+biostatistics	0.000177689949891	4	True
+dipmeter advisor	0.000177615595383	3	True
+moore's law	0.00017757837281	3	True
+query by example	0.000177369988781	7	True
+binary search algorithm	0.000177337720924	5	True
+latent class model	0.000177082950221	6	True
+density matrix	0.000177005751298	5	True
+citeseer	0.000176338584806	26	True
+winnow (algorithm)	0.000176125536281	16	True
+situation calculus	0.000175701322948	56	True
+corner detection	0.00017557745472	4	True
+c4.5 algorithm	0.000175419608987	23	True
+fact table	0.000175066908626	11	True
+existential quantification	0.000175036549829	3	True
+path expression	0.000174880647484	13	True
+computational humor	0.000174726501251	3	True
+likelihood-ratio test	0.000174693599474	5	True
+encryption	0.0001745725158	4	True
+logical connective	0.000174511540885	5	True
+web annotation	0.000174033622809	7	True
+color histogram	0.000173882307297	5	True
+unified medical language system	0.00017369363943	4	True
+boolean algebra (structure)	0.000173638145923	5	True
+abstract object	0.000173435263764	6	True
+complete graph	0.000173210263881	4	True
+computability theory	0.000173172301145	6	True
+relevance vector machine	0.000172384944742	7	True
+interpretation (logic)	0.000172210052337	6	True
+spectral theorem	0.000172079442215	7	True
+polynomial-time approximation scheme	0.00017206058563	4	True
+predictive state representation	0.000171696406943	4	True
+inflection	0.000171694295006	4	True
+partially ordered set	0.000171588112397	38	True
+structured prediction	0.000171490324029	35	True
+hits algorithm	0.000171455636396	11	True
+file system	0.000171260457195	12	True
+analysis of variance	0.000170939920595	14	True
+partition function (statistical mechanics)	0.000170859303487	8	True
+adverb	0.000170344566106	3	True
+the wisdom of crowds	0.000170315783983	3	True
+hessian matrix	0.000170299802864	3	True
+cognitive architecture	0.000169969596293	12	True
+semantic search	0.000169953377454	14	True
+lossy compression	0.0001698931797	6	True
+multiversion concurrency control	0.000169876063841	4	True
+numerical linear algebra	0.000169190955299	3	True
+latent variable model	0.000169122895025	15	True
+heavy-tailed distribution	0.000168853967821	3	True
+partial least squares regression	0.00016882833853	10	True
+linear subspace	0.000168778934815	11	True
+euclidean geometry	0.000168753690486	4	True
+degrees of freedom (statistics)	0.000168666619365	9	True
+fractal	0.000167987607079	13	True
+admissible heuristic	0.000167979515278	8	True
+quadratic form	0.000167961056237	5	True
+permutation	0.00016778928916	17	True
+microprocessor	0.000167772591517	16	True
+multitier architecture	0.000167563667751	3	True
+mean reciprocal rank	0.00016749145595	8	True
+independence (probability theory)	0.000167289276067	23	True
+factoid	0.0001672373905	13	True
+multivariate random variable	0.00016709712424	5	True
+determiner (linguistics)	0.000167025957192	5	True
+bootstrapping (statistics)	0.000166590727816	27	True
+bit array	0.000166273228886	9	True
+isomap	0.000166022795092	18	True
+rgb color model	0.000165734505491	3	True
+constraint logic programming	0.000165598210251	18	True
+semantic integration	0.000165432715286	4	True
+phonology	0.00016542128129	5	True
+magnetic resonance imaging	0.000164996215266	14	True
+curve	0.000164906498458	3	True
+bilingual dictionary	0.000164736555172	20	True
+computer-aided design	0.000164599712913	41	True
+microarray	0.000164539411523	3	True
+data scraping	0.00016442222382	12	True
+linear map	0.000164282860953	19	True
+survival analysis	0.000164110359425	10	True
+biometrics	0.000163868930131	4	True
+kripke semantics	0.000163851546793	10	True
+logical equivalence	0.000163589330959	17	True
+grid computing	0.000163412969006	6	True
+semantic mapper	0.000163359457329	4	True
+conceptual schema	0.000163227418432	38	True
+proof theory	0.000163068461433	9	True
+radial basis function	0.000162957725749	19	True
+monoid	0.000162577640322	7	True
+pspace	0.000162451414479	9	True
+augmented reality	0.000162381601635	4	True
+maximum satisfiability problem	0.000162048569336	19	True
+web search query	0.000161916916303	27	True
+record linkage	0.000161325640912	28	True
+merge sort	0.000161269888665	8	True
+gene ontology	0.000160900461037	8	True
+molecular biology	0.000160653376678	3	True
+decidability (logic)	0.00016044887641	24	True
+tokenization	0.000160430124649	14	True
+statistical power	0.00016004100327	8	True
+integrated circuit	0.00015981805221	8	True
+rewriting	0.000159803798318	11	True
+hypertext transfer protocol	0.000159756441796	53	True
+dense graph	0.00015963354584	5	True
+rule-based system	0.00015909915013	7	True
+data manipulation language	0.000159022844307	11	True
+pubmed	0.000158697307847	13	True
+domain name system	0.000158493936361	5	True
+local consistency	0.000158444136357	95	True
+tower of hanoi	0.000158440914893	7	True
+color space	0.000158434894543	3	True
+automata theory	0.000158263191509	11	True
+document-term matrix	0.000158069130691	7	True
+high-level programming language	0.000157993324591	5	True
+interlisp	0.000157737359534	5	True
+formal concept analysis	0.000157467926347	13	True
+bitmap index	0.000157197221659	6	True
+lie group	0.000156974398187	7	True
+in-memory database	0.000156900071439	7	True
+swarm intelligence	0.000156895761007	4	True
+drug design	0.000156839371535	14	True
+pspace-complete	0.000156620982596	14	True
+computable function	0.000156515721477	10	True
+stationary distribution	0.000156264946001	3	True
+signal-to-noise ratio	0.000156253350594	8	True
+true quantified boolean formula	0.000156214048474	4	True
+visual basic	0.000156206699337	3	True
+snapshot isolation	0.000156172605778	17	True
+concurrency (computer science)	0.000155777442797	10	True
+learning automata	0.000155744346997	3	True
+chinese room	0.000155566411526	4	True
+degrees of freedom (physics and chemistry)	0.000155534606533	3	True
+frame problem	0.000155224038056	11	True
+backlink	0.000154962511216	5	True
+microsoft word	0.000154858818221	5	True
+chemical reaction	0.000154135284237	6	True
+discourse analysis	0.000153812605571	5	True
+positive predictive value	0.000153770272938	8	True
+p-value	0.00015371785008	7	True
+materialized view	0.000153616828833	23	True
+distributed database	0.000153398324041	20	True
+deterministic algorithm	0.000153120593439	8	True
+information overload	0.000153080368916	7	True
+separation of concerns	0.000152578870084	3	True
+locality of reference	0.000152563303105	21	True
+how to solve it	0.000152512958331	3	True
+program optimization	0.00015214146316	4	True
+xsb	0.000152082333501	5	True
+prisoner's dilemma	0.000151994371262	6	True
+b-tree	0.000151815313893	57	True
+cepstrum	0.000151116310586	3	True
+humanoid robot	0.000150941137865	3	True
+natural language generation	0.000150010066297	53	True
+sequence mining	0.000149374969528	12	True
+sql anywhere	0.000149305670392	4	True
+structured document	0.000149198794966	5	True
+natural deduction	0.000148474308625	7	True
+federated search	0.000148401723056	31	True
+representation theory	0.000148374364392	6	True
+wrapper (data mining)	0.000148319545805	8	True
+polyhedron	0.00014810234476	9	True
+bin packing problem	0.000148052865425	5	True
+optimality theory	0.000147914316697	5	True
+data transformation	0.000147802110409	15	True
+conditional expectation	0.000147737484222	6	True
+denotational semantics	0.000147705687968	6	True
+functional magnetic resonance imaging	0.000147506048642	22	True
+movielens	0.00014737620097	16	True
+biomolecular structure	0.000147320743775	17	True
+kernel (computing)	0.000147176285312	3	True
+delicious (website)	0.000147029748605	24	True
+laplace operator	0.000147011066495	23	True
+subject-matter expert	0.000146978390938	21	True
+google news	0.00014690134802	3	True
+tabu search	0.000146871321491	14	True
+harmonic analysis	0.000146855374974	3	True
+axiomatic system	0.00014658346775	22	True
+optical flow	0.000146303540795	74	True
+invertible matrix	0.000146273283941	3	True
+viral marketing	0.000146227806407	9	True
+mimo	0.000146141060535	8	True
+intrusion detection system	0.000146049616786	4	True
+spam (electronic)	0.000145990330231	30	True
+conjugate gradient method	0.000145938966738	6	True
+proteomics	0.000145865081855	5	True
+transitive closure	0.000145556013002	30	True
+translation memory	0.000145514807647	8	True
+pseudolikelihood	0.000145456489635	17	True
+bacteria	0.000145374004335	5	True
+skewness	0.000145238965411	8	True
+empirical bayes method	0.000145189257805	10	True
+vector field	0.000145174343828	15	True
+electroencephalography	0.000145048233458	29	True
+quantile function	0.000145028031528	5	True
+anytime algorithm	0.000145021919256	16	True
+cyk algorithm	0.000144972027642	6	True
+ellipsis	0.000144962223528	36	True
+ms-dos	0.000144837333531	3	True
+aol	0.000144790458899	3	True
+spearman's rank correlation coefficient	0.000144688607641	4	True
+breadth-first search	0.000144495542829	19	True
+affine transformation	0.000144413351585	14	True
+sample mean and sample covariance	0.000144211986805	4	True
+wh-movement	0.000144141686456	5	True
+head-driven phrase structure grammar	0.000143632100569	12	True
+hyperparameter	0.000143552366174	13	True
+relational operator	0.000143145571926	3	True
+web services description language	0.000143124186387	4	True
+abstract interpretation	0.000142742903992	5	True
+supremum	0.000142735714061	3	True
+connectivity (graph theory)	0.000142698468771	3	True
+point estimation	0.000142146053553	3	True
+function word	0.000141906915838	3	True
+centroid	0.000141879608344	35	True
+rand index	0.000141814670577	4	True
+gesture recognition	0.000141758578049	6	True
+nonlinear programming	0.000141650806651	13	True
+markov blanket	0.000141378787369	16	True
+von neumann architecture	0.000140891261591	4	True
+correspondence problem	0.000140726944224	19	True
+global optimization	0.000140597250312	22	True
+quantifier elimination	0.000140376795417	3	True
+poisson regression	0.000140321371251	5	True
+rigid body	0.000140264290257	10	True
+nash equilibrium	0.000140235825204	58	True
+linear interpolation	0.000140227545721	3	True
+spectral graph theory	0.000140089580617	4	True
+referential integrity	0.000139900060689	3	True
+line (geometry)	0.000139831424889	3	True
+data domain	0.000139680922957	10	True
+immune system	0.000139603897373	3	True
+co-occurrence	0.000138489578278	4	True
+visual perception	0.000138273316684	15	True
+homoscedasticity	0.0001382109708	4	True
+computer cluster	0.000137932965597	12	True
+monotonic function	0.00013758367748	11	True
+retina	0.000137380379288	12	True
+equivalence class	0.00013713592214	19	True
+statistical parsing	0.000137015125155	15	True
+network-attached storage	0.000136890806174	3	True
+artificial immune system	0.000136781750817	5	True
+desktop search	0.000136727068082	13	True
+bundle adjustment	0.000136659928397	9	True
+modus ponens	0.000136375219967	4	True
+game tree	0.000136329268713	30	True
+parametric model	0.000136239307141	10	True
+multi-core processor	0.000136004612929	18	True
+arxiv	0.000135837981223	8	True
+automated reasoning	0.000135470346374	23	True
+vax	0.000135352449641	8	True
+clustering coefficient	0.000135242181334	6	True
+pierre-simon laplace	0.000135240385675	26	True
+cardinal number	0.000135143670618	13	True
+white noise	0.000135134959422	4	True
+ops5	0.000135102405103	6	True
+cpu cache	0.00013506561739	7	True
+finnish language	0.000134864487788	11	True
+content-based image retrieval	0.00013474871949	29	True
+truecasing	0.000134656762344	3	True
+genome	0.000134622970501	3	True
+rolap	0.000134552944516	13	True
+linear dynamical system	0.000134489525705	8	True
+lr parser	0.000134340199324	20	True
+constraint (mathematics)	0.000134259650384	3	True
+bloom filter	0.000134030871153	4	True
+collocation extraction	0.000133939384459	6	True
+portuguese language	0.000133717965454	7	True
+graph rewriting	0.000133546689083	13	True
+evaluation strategy	0.000133499442205	12	True
+orders of magnitude (numbers)	0.000133240859992	3	True
+job shop scheduling	0.000133161130517	7	True
+definite clause grammar	0.000132764936912	10	True
+chart parser	0.000132666188416	41	True
+gaussian process	0.00013245985229	72	True
+independent and identically distributed random variables	0.000132314470104	24	True
+java database connectivity	0.000132276775332	3	True
+programming in the large and programming in the small	0.000132138886031	3	True
+unique key	0.000131960018766	6	True
+denial-of-service attack	0.000131926819741	4	True
+bengali language	0.000130950832552	3	True
+concept map	0.000130897941303	4	True
+differentiable manifold	0.000130807232465	4	True
+trustrank	0.000130784926034	4	True
+speech corpus	0.000130569189494	8	True
+semi-structured model	0.000130247198692	5	True
+complete bipartite graph	0.000130160570223	3	True
+edit distance	0.000130097705852	20	True
+product data management	0.000129613947211	3	True
+ibm almaden research center	0.000129381010055	4	True
+boolean function	0.000129168284084	14	True
+act-r	0.000128389429448	6	True
+autonomous robot	0.000128232269713	16	True
+syllogism	0.000128138921426	5	True
+computational trust	0.000128065285252	3	True
+eurotra	0.000127980448877	11	True
+multi-document summarization	0.000127934447638	32	True
+satisfiability	0.000127933648428	10	True
+function model	0.000127855719047	4	True
+t-tree	0.000127837666326	5	True
+electronic commerce	0.000127763443744	14	True
+microblogging	0.00012709518326	7	True
+probability measure	0.000127081434147	6	True
+nucleotide	0.000126887705274	3	True
+systran	0.000126657833317	3	True
+error exponent	0.000126401179545	3	True
+programming tool	0.000125759122325	4	True
+string metric	0.000125557540125	11	True
+sneps	0.000125422694345	4	True
+netflix	0.000125402190836	26	True
+robust optimization	0.000125298183005	5	True
+resampling (statistics)	0.000125228111653	17	True
+fuzzy set	0.000125117854217	14	True
+british national corpus	0.000125085223052	5	True
+digg	0.00012505155101	4	True
+functional dependency	0.000124826660327	6	True
+semantic role labeling	0.00012481965639	20	True
+belief revision	0.000124797953932	61	True
+remote procedure call	0.00012471071934	3	True
+romance languages	0.000124640995073	5	True
+code coverage	0.000124609062484	3	True
+dpll algorithm	0.000124607188599	3	True
+conditional entropy	0.000124388744377	9	True
+orkut	0.000124316992677	4	True
+intelligent tutoring system	0.000124009236606	15	True
+beam search	0.00012399306172	19	True
+branch predictor	0.000123651220948	7	True
+orthonormal basis	0.000123605680814	3	True
+template matching	0.000123046041245	20	True
+fifteen puzzle	0.000122994223639	11	True
+okapi bm25	0.000122807312544	11	True
+information security	0.000122650738759	15	True
+cnn	0.000122563712444	3	True
+conjoint analysis (marketing)	0.000122233115182	4	True
+ebxml	0.000122111037039	4	True
+polynomial hierarchy	0.000122040888269	6	True
+batch processing	0.000122005987785	4	True
+metaknowledge	0.000121904481171	9	True
+sequential minimal optimization	0.000121832704611	10	True
+concept drift	0.000121807360261	26	True
+spectral method	0.000121748146466	3	True
+pointwise mutual information	0.000121671247884	3	True
+nvidia	0.000121659775347	3	True
+contingency table	0.000121623914791	8	True
+lagrange multiplier	0.000121569728151	7	True
+parametric family	0.000121226937051	8	True
+motorola	0.000121030639109	4	True
+asymptotic analysis	0.000120982611573	3	True
+conditional mutual information	0.00012074654953	6	True
+asymptotic computational complexity	0.00012066896868	3	True
+model elimination	0.000120657128534	3	True
+ranking function	0.000120494647617	26	True
+well-formed formula	0.000120307338892	3	True
+machine vision	0.000120031202425	17	True
+universal description discovery and integration	0.000119999736417	3	True
+noun phrase	0.000119789253673	34	True
+context-sensitive grammar	0.000119587982897	3	True
+mutual exclusion	0.000119492176106	8	True
+bigtable	0.000119463523806	3	True
+heuristic evaluation	0.000119342214173	6	True
+multiword expression	0.000119230588688	3	True
+matrix decomposition	0.000118547337087	9	True
+stereopsis	0.000118544523561	6	True
+relational calculus	0.000118514628312	13	True
+spam mass	0.00011850603936	3	True
+network science	0.000118501163621	3	True
+string searching algorithm	0.00011840825421	4	True
+cma-es	0.000118387629706	6	True
+spatial database	0.000118241441832	21	True
+buffer overflow	0.000117935349053	3	True
+verbnet	0.000117929170611	4	True
+query string	0.000117862972615	9	True
+low-density parity-check code	0.00011781069644	9	True
+packing problem	0.000117755057498	3	True
+density of states	0.00011753720249	4	True
+database administrator	0.000117481736984	4	True
+phrase structure grammar	0.000117444997064	4	True
+atomicity (database systems)	0.000117251800943	5	True
+magnetic tape	0.000117129414611	3	True
+data stream mining	0.000116881277731	7	True
+zipf's law	0.000116868546984	11	True
+shrinkage estimator	0.000116659720355	3	True
+statistical physics	0.000116527832391	3	True
+2-exptime	0.000116431549734	4	True
+spam blog	0.000116223615879	9	True
+computer security	0.000116126540622	8	True
+punjabi language	0.000116017984552	3	True
+voxel	0.000115954248908	9	True
+local area network	0.000115743650305	3	True
+decomposition method (constraint satisfaction)	0.000115653022091	5	True
+probabilistic database	0.000115559524807	10	True
+correlation clustering	0.000115390570899	10	True
+integral transform	0.000115235797345	3	True
+martingale (probability theory)	0.000115233850426	7	True
+similarity matrix	0.000115155831531	5	True
+m-estimator	0.000115109698131	7	True
+feature detection (computer vision)	0.000115067561281	11	True
+level of measurement	0.000115050564017	9	True
+citation analysis	0.000114931750349	3	True
+formal proof	0.00011486478351	3	True
+cplex	0.000114841337471	4	True
+polytope	0.000114747786179	3	True
+user-generated content	0.000114715812939	7	True
+homography	0.000114678836069	24	True
+agnosticism	0.000114635491479	25	True
+qr algorithm	0.000114575744731	4	True
+computer architecture	0.000114552004998	9	True
+sequence clustering	0.000114293829574	3	True
+feature (linguistics)	0.000114068488929	4	True
+statistical learning theory	0.000113986390139	9	True
+best, worst and average case	0.000113408063931	4	True
+shared memory	0.000113371573109	6	True
+sensitivity analysis	0.00011336603215	4	True
+poisson process	0.000113361261238	4	True
+domain of discourse	0.000113159412285	17	True
+taxicab geometry	0.000113149702087	9	True
+power iteration	0.000113109272583	3	True
+citeulike	0.000113100928564	3	True
+predicate (mathematical logic)	0.000113037031501	13	True
+ole db	0.000112979390243	4	True
+hypercube	0.000112792673844	11	True
+internet movie database	0.000112768507089	8	True
+visual cortex	0.000112535666187	7	True
+virtual memory	0.000112116799902	10	True
+social capital	0.000111960858658	3	True
+parallel random access machine	0.00011188585378	3	True
+symposium on foundations of computer science	0.000111879607125	4	True
+bzip2	0.000111737848912	3	True
+quantile	0.000111632205808	13	True
+polytree	0.000111507779073	3	True
+formal verification	0.000110885296828	8	True
+center of mass	0.000110639122172	4	True
+heteroscedasticity	0.000110497591405	5	True
+compound (linguistics)	0.000110443520526	6	True
+metasearch engine	0.000110357193102	21	True
+sparc	0.000110313365871	7	True
+graph database	0.000110159516963	28	True
+regular language	0.000109983098	3	True
+hough transform	0.000109523688407	8	True
+line segment	0.000109061376156	4	True
+message passing	0.000108544583627	3	True
+amazon mechanical turk	0.000108413565258	3	True
+multiple comparisons	0.000108366124875	9	True
+inside-outside algorithm	0.000108279258414	10	True
+vector quantization	0.000108257821525	9	True
+cognitive model	0.000108193868926	18	True
+qualia	0.000108167228107	6	True
+hierarchical hidden markov model	0.000108118821948	3	True
+multivalued dependency	0.000108037001805	12	True
+onset (audio)	0.000107785903169	8	True
+arpanet	0.000107512355709	5	True
+speech act	0.000107478271335	34	True
+interlingua	0.000107410070192	12	True
+optimal stopping	0.000107322714622	3	True
+entropy encoding	0.000106978595656	4	True
+google scholar	0.000106855034894	3	True
+selection algorithm	0.000106800525772	44	True
+microeconomics	0.000106735046468	3	True
+theoretical linguistics	0.000106669789835	4	True
+linked data	0.000106596320524	5	True
+generalized quantifier	0.000106555810897	3	True
+network topology	0.000106045493261	12	True
+diffusion mri	0.000105989860415	5	True
+feature structure	0.000105946391659	25	True
+ordinary differential equation	0.000105848151333	24	True
+degrees of freedom (mechanics)	0.000105795460411	10	True
+partition (database)	0.000105708566268	3	True
+ado.net entity framework	0.00010557071333	3	True
+preposition and postposition	0.00010554982885	9	True
+estimating equations	0.000105405941606	5	True
+metonymy	0.000105343219264	19	True
+geographic information retrieval	0.000105208228124	5	True
+virtual reality	0.000105198864353	7	True
+montague grammar	0.000105126970265	7	True
+cell (microprocessor)	0.00010497895893	6	True
+ubiquitous computing	0.000104797836624	12	True
+gnutella	0.000104761151413	11	True
+branching factor	0.000104608296203	13	True
+concurrent computing	0.000104380925152	4	True
+transaction processing performance council	0.000104318507011	54	True
+quantile regression	0.00010425358427	6	True
+product of experts	0.000104228613844	4	True
+wavelet transform	0.000104146034396	14	True
+dictation machine	0.000104125679335	3	True
+block nested loop	0.000103724592439	3	True
+projection (linear algebra)	0.00010367783946	6	True
+software testing	0.00010332507067	8	True
+focused crawler	0.00010332051462	17	True
+metaclass	0.000103133786943	8	True
+poisson's equation	0.000103125400616	3	True
+error function	0.000102985328911	12	True
+instance-based learning	0.000102968558661	59	True
+grammar checker	0.000102637094177	7	True
+computer terminal	0.000102571967526	3	True
+topological sorting	0.000102450602688	4	True
+epistemic modal logic	0.000102436970722	15	True
+similarity (geometry)	0.000102262266688	3	True
+combinatorial explosion	0.000102100890698	19	True
+chomsky hierarchy	0.000102099036435	5	True
+spherical harmonics	0.000102092579624	5	True
+almost surely	0.000101999305752	4	True
+steganography	0.000101951777936	4	True
+anisotropic diffusion	0.000101922211018	11	True
+soundness	0.000101905267219	3	True
+file manager	0.00010189989048	3	True
+framenet	0.000101810416135	15	True
+audio-visual speech recognition	0.000101675508839	5	True
+vistrails	0.000101587552065	3	True
+university of michigan	0.000101072276903	3	True
+laplacian matrix	0.000100959439006	6	True
+distributed hash table	0.000100870659645	5	True
+protein folding	0.000100726200133	3	True
+pivot language	0.000100717406514	6	True
+knowledge engineer	0.00010034349833	10	True
+probabilistic method	0.000100093365467	11	True
+multiple-instance learning	9.99221315079e-05	14	True
+convex combination	9.9530353173e-05	15	True
+eigendecomposition of a matrix	9.94348390024e-05	24	True
+homonym	9.94101885032e-05	3	True
+rademacher complexity	9.9191041164e-05	4	True
+dendrogram	9.90432146183e-05	5	True
+unimodality	9.90280362619e-05	3	True
+deterministic parsing	9.86261862427e-05	8	True
+motion compensation	9.84443532768e-05	27	True
+metalanguage	9.83160014315e-05	6	True
+uniprot	9.8138990078e-05	8	True
+query by humming	9.79132856488e-05	3	True
+quadratically constrained quadratic program	9.77045549323e-05	12	True
+affine space	9.76834747636e-05	4	True
+best-first search	9.75497344192e-05	36	True
+firewall (computing)	9.72968005449e-05	3	True
+compressed sensing	9.72529757343e-05	9	True
+projective space	9.71003293271e-05	3	True
+microcomputer	9.69732334788e-05	4	True
+newton's method	9.69291660767e-05	11	True
+precomputation	9.68727684915e-05	18	True
+exploratory search	9.67429585191e-05	5	True
+digital electronics	9.63983995561e-05	5	True
+apriori algorithm	9.63182173432e-05	12	True
+deductive system	9.62210551754e-05	4	True
+spline (mathematics)	9.60841180214e-05	5	True
+temporal logic	9.59112402119e-05	30	True
+crowdsourcing	9.57567234225e-05	3	True
+version space	9.57495923504e-05	40	True
+dual space	9.56393889926e-05	7	True
+domain theory	9.56068305462e-05	46	True
+fictitious play	9.55415010274e-05	6	True
+language interpretation	9.54589720412e-05	3	True
+global positioning system	9.53327954458e-05	32	True
+magnetoencephalography	9.52082780243e-05	3	True
+sampling distribution	9.51112521655e-05	4	True
+simultaneous localization and mapping	9.50417356137e-05	10	True
+diacritic	9.50039319778e-05	3	True
+scatter matrix	9.45321586278e-05	5	True
+projective geometry	9.42690305048e-05	8	True
+syntactic ambiguity	9.42394273376e-05	8	True
+universal serial bus	9.40709569262e-05	7	True
+one-way function	9.39667101906e-05	3	True
+european parliament	9.39572250572e-05	3	True
+episodic memory	9.39126736744e-05	13	True
+gramian matrix	9.38410011967e-05	6	True
+normal-form game	9.36916988767e-05	3	True
+top-down parsing	9.36231976314e-05	5	True
+tree alignment	9.33529341797e-05	5	True
+mass spectrometry	9.31100636372e-05	5	True
+mathematical morphology	9.30684221428e-05	3	True
+intensional logic	9.30651114473e-05	5	True
+clinical trial	9.30275018984e-05	6	True
+vertical search	9.29203755788e-05	12	True
+homophily	9.24615053313e-05	4	True
+marginal likelihood	9.2393708396e-05	17	True
+fundamental matrix (computer vision)	9.23628112159e-05	8	True
+wiktionary	9.22710492868e-05	4	True
+expectation propagation	9.21768247577e-05	13	True
+referring expression	9.20798235793e-05	4	True
+dependency graph	9.20198084606e-05	8	True
+rejection sampling	9.19873891393e-05	3	True
+geometric hashing	9.16874302004e-05	5	True
+isotonic regression	9.16246968848e-05	6	True
+frequency domain	9.1370406949e-05	15	True
+web cache	9.13490011174e-05	12	True
+auxiliary verb	9.12540433528e-05	9	True
+theory (mathematical logic)	9.12430098028e-05	21	True
+flash memory	9.08396739518e-05	20	True
+tree traversal	9.07019084843e-05	11	True
+load balancing (computing)	9.06474828092e-05	5	True
+categorial grammar	9.06248097379e-05	27	True
+r-tree	9.0601722528e-05	64	True
+configuration space	9.05874309466e-05	8	True
+scatter plot	9.05597062122e-05	4	True
+nextstep	9.03578052447e-05	3	True
+image denoising	9.03133036713e-05	6	True
+hausdorff distance	9.02590268447e-05	3	True
+cross product	9.01262471799e-05	6	True
+stratified sampling	8.98397889368e-05	6	True
+identity management	8.98330973675e-05	6	True
+non-classical logic	8.97535451693e-05	3	True
+netflow	8.96368028424e-05	3	True
+apx	8.96344328252e-05	4	True
+web feed	8.92044821819e-05	7	True
+moving average	8.91648153827e-05	5	True
+radix sort	8.90831847615e-05	6	True
+blue gene	8.90115460045e-05	3	True
+nucleic acid sequence	8.88973508575e-05	5	True
+rule induction	8.88437848934e-05	39	True
+problem of induction	8.88426077269e-05	4	True
+evolutionary programming	8.85870361998e-05	3	True
+closure operator	8.8579254215e-05	9	True
+binocular disparity	8.85692633442e-05	4	True
+self-similarity	8.85524774977e-05	5	True
+hong kong	8.85472564932e-05	7	True
+motion estimation	8.85192555784e-05	12	True
+multiprocessing	8.84534760579e-05	3	True
+interaction (statistics)	8.84493380776e-05	3	True
+monte carlo integration	8.83890248962e-05	3	True
+cellular automaton	8.8079204646e-05	4	True
+functor	8.80742688935e-05	3	True
+disjunctive normal form	8.80717482632e-05	17	True
+interval estimation	8.79797046809e-05	4	True
+co-np-complete	8.79419938171e-05	12	True
+local regression	8.79396793019e-05	15	True
+modal operator	8.77625562543e-05	4	True
+cross-language information retrieval	8.77064491146e-05	51	True
+numerical stability	8.75767939146e-05	4	True
+universal algebra	8.75152760652e-05	6	True
+strategy (game theory)	8.72789015452e-05	14	True
+trecvid	8.72664491146e-05	7	True
+kernelization	8.72304512241e-05	4	True
+tensor product	8.70036352609e-05	6	True
+correlation function	8.68910337246e-05	4	True
+transitive relation	8.67737389915e-05	9	True
+mercer's theorem	8.66504005867e-05	3	True
+digital watermarking	8.64799765838e-05	5	True
+genotype	8.61939795785e-05	8	True
+object data management group	8.60927365862e-05	3	True
+random subspace method	8.59552934711e-05	3	True
+gigabyte	8.5733048443e-05	3	True
+random-access memory	8.56512474854e-05	3	True
+linear temporal logic	8.5446526228e-05	6	True
+dbscan	8.53952624451e-05	6	True
+enterprise data management	8.52441208977e-05	3	True
+orthonormality	8.51138736224e-05	3	True
+operational semantics	8.50485745906e-05	11	True
+arabic alphabet	8.50126134036e-05	12	True
+kernel (matrix)	8.49901729402e-05	4	True
+web directory	8.49370416441e-05	7	True
+transistor	8.49042300847e-05	4	True
+deontic logic	8.47987858273e-05	6	True
+quantization (signal processing)	8.46015191741e-05	3	True
+odysseus	8.45412879257e-05	3	True
+universal grammar	8.43265798634e-05	3	True
+nonlinear regression	8.42801285197e-05	12	True
+single-nucleotide polymorphism	8.39339366583e-05	4	True
+visual odometry	8.38663620603e-05	5	True
+shape parameter	8.38551276218e-05	3	True
+parallax	8.38155623229e-05	23	True
+operational definition	8.37884078573e-05	7	True
+ellipse	8.37875338652e-05	3	True
+mpeg-7	8.36750966912e-05	5	True
+tic-tac-toe	8.3266963201e-05	4	True
+messenger rna	8.30705284064e-05	4	True
+a priori and a posteriori	8.3053739791e-05	56	True
+pfam	8.30243475712e-05	3	True
+glue language	8.29805021685e-05	3	True
+intranet	8.26177934082e-05	5	True
+dynamic logic (modal logic)	8.25640996607e-05	15	True
+lexicography	8.2410606716e-05	7	True
+valency (linguistics)	8.24075086128e-05	8	True
+situation semantics	8.19795928196e-05	8	True
+relational data mining	8.19490236317e-05	4	True
+assignment problem	8.19452694914e-05	12	True
+riemannian manifold	8.16938277358e-05	11	True
+linear inequality	8.16074296623e-05	3	True
+cross-covariance	8.15712957957e-05	4	True
+computational fluid dynamics	8.15625821594e-05	3	True
+bottom-up parsing	8.15471191299e-05	9	True
+shallow parsing	8.12099317929e-05	17	True
+quasi-newton method	8.12080824664e-05	10	True
+datr	8.10085348109e-05	8	True
+protein domain	8.09825969589e-05	3	True
+multi-task learning	8.05140990652e-05	63	True
+consistent heuristic	8.04264402861e-05	3	True
+fluent calculus	8.02403186007e-05	3	True
+quality of service	8.02144843993e-05	5	True
+binary large object	8.01888672794e-05	3	True
+generalized normal distribution	8.00670912053e-05	3	True
+reduplication	7.99535871099e-05	5	True
+reproducing kernel hilbert space	7.99348308769e-05	45	True
+bayesian linear regression	7.98100319066e-05	5	True
+ebay	7.95599954734e-05	8	True
+metric tree	7.95358095627e-05	4	True
+semantic architecture	7.95002507419e-05	3	True
+peer-to-peer file sharing	7.93498754316e-05	3	True
+indexed grammar	7.91801579841e-05	5	True
+calculus of variations	7.91306405506e-05	4	True
+robust regression	7.91234446323e-05	4	True
+surface web	7.91032013819e-05	5	True
+rubik's cube	7.88891724168e-05	6	True
+wired glove	7.88740083178e-05	3	True
+multiple inheritance	7.87927618884e-05	15	True
+co-np	7.87401630763e-05	9	True
+phase space	7.84566865169e-05	13	True
+active appearance model	7.83022745532e-05	3	True
+conic section	7.8058779484e-05	5	True
+reflexive relation	7.79185244959e-05	3	True
+profiling (computer programming)	7.78658580906e-05	3	True
+skolem normal form	7.78652560802e-05	3	True
+sentence extraction	7.7539563024e-05	9	True
+cell cycle	7.74628391546e-05	3	True
+multi-user mimo	7.74373989416e-05	3	True
+minicomputer	7.73173502739e-05	12	True
+sketch recognition	7.72411473962e-05	11	True
+max-flow min-cut theorem	7.72108528015e-05	7	True
+nexptime	7.72005060535e-05	3	True
+two-phase commit protocol	7.71122565882e-05	5	True
+agent architecture	7.663182223e-05	5	True
+recursively enumerable set	7.62985475481e-05	4	True
+distributed transaction	7.62439779994e-05	6	True
+cross entropy	7.55587358508e-05	9	True
+frequentist inference	7.5470141322e-05	5	True
+uniform convergence	7.52103016834e-05	13	True
+sql-92	7.49130629958e-05	3	True
+active set	7.48957426301e-05	4	True
+working memory	7.48408581005e-05	8	True
+correlogram	7.47749257282e-05	6	True
+altavista	7.46756524056e-05	5	True
+multigraph	7.46563546579e-05	3	True
+iterator	7.44772715923e-05	5	True
+bregman divergence	7.42919959137e-05	11	True
+video server	7.42554536977e-05	5	True
+geodesic	7.42346190406e-05	7	True
+correspondence analysis	7.41805379876e-05	9	True
+formal specification	7.41327751214e-05	6	True
+range searching	7.38754698106e-05	3	True
+american sign language	7.34345554293e-05	4	True
+aibo	7.34316651565e-05	3	True
+single-linkage clustering	7.33703488184e-05	3	True
+closure (topology)	7.33434469958e-05	3	True
+orthogonal frequency-division multiplexing	7.32317161595e-05	4	True
+camera resectioning	7.32148228268e-05	10	True
+adverse drug reaction	7.2999606039e-05	3	True
+third normal form	7.2923900061e-05	10	True
+canonical correlation	7.28826505071e-05	23	True
+hippocampus	7.28767731761e-05	5	True
+markedness	7.27572362679e-05	6	True
+scheduling (computing)	7.23625544377e-05	16	True
+semantic class	7.16739487352e-05	6	True
+shared nothing architecture	7.16231267134e-05	5	True
+cognitive robotics	7.15620590867e-05	4	True
+gzip	7.15552840981e-05	5	True
+intermediate language	7.15013547256e-05	5	True
+qr decomposition	7.14661434858e-05	3	True
+bisimulation	7.12993433311e-05	14	True
+molap	7.1168856027e-05	10	True
+topological graph theory	7.11166845968e-05	4	True
+principle of compositionality	7.09925213949e-05	9	True
+sourceforge	7.07531563332e-05	5	True
+exponential decay	7.06183675999e-05	3	True
+the wall street journal	7.06027998687e-05	45	True
+lemmatisation	7.04755823313e-05	9	True
+laplace's method	7.04250139794e-05	6	True
+augmented transition network	7.03973734914e-05	5	True
+node (networking)	7.01940003181e-05	5	True
+zip code	7.01277401326e-05	6	True
+graph partition	7.011622147e-05	10	True
+b-spline	7.01076926526e-05	6	True
+generalized phrase structure grammar	7.0024777645e-05	6	True
+memory hierarchy	7.00112184804e-05	10	True
+image noise	7.00032400741e-05	10	True
+self-interpreter	6.9926140329e-05	3	True
+propbank	6.98970830601e-05	9	True
+context-free language	6.98929800379e-05	4	True
+kendall tau rank correlation coefficient	6.98764120617e-05	4	True
+affinity analysis	6.98618732729e-05	3	True
+internet archive	6.98177242188e-05	4	True
+internet slang	6.96348298313e-05	4	True
+structure from motion	6.95758330094e-05	26	True
+multi-agent planning	6.95695462271e-05	6	True
+computational problem	6.95638206055e-05	15	True
+horizon effect	6.95168578845e-05	4	True
+phenotype	6.9314887702e-05	6	True
+wilcoxon signed-rank test	6.92534137333e-05	4	True
+backjumping	6.91940917481e-05	9	True
+neocortex	6.91426099184e-05	3	True
+stopping time	6.89399487823e-05	3	True
+bidirectional reflectance distribution function	6.86681043382e-05	7	True
+action description language	6.86426182831e-05	5	True
+pdp-11	6.84617605286e-05	3	True
+receptive field	6.82406106483e-05	3	True
+dryad (programming)	6.82282931378e-05	3	True
+explanation facility	6.81772790387e-05	5	True
+object query language	6.80596668976e-05	8	True
+correctness (computer science)	6.79808993397e-05	5	True
+spectrogram	6.79337962663e-05	3	True
+finite difference	6.78606974382e-05	4	True
+distributed database management system	6.77949107968e-05	5	True
+stochastic approximation	6.76798444194e-05	9	True
+user modeling	6.74800871344e-05	5	True
+spanning tree	6.7166124751e-05	6	True
+projective plane	6.70390139245e-05	4	True
+discrete wavelet transform	6.70366387826e-05	6	True
+local optimum	6.68606290573e-05	17	True
+dec alpha	6.68304502577e-05	4	True
+motion capture	6.68273637112e-05	25	True
+haskell 98 features	6.67048206265e-05	3	True
+underspecification	6.6645550704e-05	15	True
+wireless sensor network	6.66112971476e-05	19	True
+kinematics	6.61494319766e-05	5	True
+degree distribution	6.60668745064e-05	3	True
+cooperative coevolution	6.58709676901e-05	6	True
+tacit knowledge	6.58608939786e-05	4	True
+voice over ip	6.5737973406e-05	9	True
+mean-shift	6.55697720904e-05	26	True
+teleology	6.55504585705e-05	3	True
+document clustering	6.55182786044e-05	32	True
+luminance	6.54251376315e-05	6	True
+system identification	6.5424957669e-05	10	True
+dependent and independent variables	6.53729300145e-05	20	True
+accessibility relation	6.53533237452e-05	4	True
+social security number	6.5087597211e-05	4	True
+cmos	6.50704975941e-05	9	True
+n-sphere	6.50358665394e-05	14	True
+constructivism (mathematics)	6.49721768676e-05	3	True
+relational classification	6.48253625838e-05	4	True
+quadric	6.48192690025e-05	6	True
+convergence of random variables	6.46832686787e-05	3	True
+blocks world	6.43077708177e-05	23	True
+diffeomorphism	6.42964953597e-05	8	True
+simple network management protocol	6.41297591337e-05	5	True
+application-specific integrated circuit	6.38997659441e-05	5	True
+software development process	6.37232403858e-05	4	True
+general linear model	6.37005874302e-05	4	True
+nested loop join	6.36266196091e-05	3	True
+trifocal tensor	6.36175627324e-05	9	True
+chess endgame	6.34145723842e-05	3	True
+biological neuron model	6.3320287057e-05	4	True
+high availability	6.3173785932e-05	3	True
+minimalist program	6.30974752742e-05	3	True
+systemic functional grammar	6.29244502849e-05	3	True
+higher-order statistics	6.27270592193e-05	4	True
+recaptcha	6.26648150688e-05	3	True
+rewrite rule	6.25211237069e-05	3	True
+satplan	6.25153245176e-05	5	True
+microtargeting	6.24542716966e-05	4	True
+virtual storage access method	6.24358965888e-05	6	True
+speedup	6.2391612444e-05	4	True
+neuroimaging	6.22544365101e-05	3	True
+japanese grammar	6.22008558859e-05	4	True
+binocular vision	6.20590872313e-05	5	True
+relative clause	6.15830638776e-05	4	True
+motion planning	6.14507833789e-05	11	True
+constraint graph	6.14445876814e-05	12	True
+perturbation theory	6.14057508891e-05	3	True
+international space station	6.13016483894e-05	3	True
+gabor filter	6.11355724743e-05	5	True
+behavioral targeting	6.11109194837e-05	3	True
+user interface design	6.10627368753e-05	4	True
+phonotactics	6.10548184514e-05	4	True
+aggregate function	6.09395953166e-05	3	True
+queueing model	6.08581203447e-05	3	True
+relevance logic	6.07266926151e-05	4	True
+approximation error	6.05821571149e-05	20	True
+pareto efficiency	6.03875578767e-05	40	True
+matching pursuit	6.03045350836e-05	8	True
+dual graph	6.01367293102e-05	3	True
+anchor text	6.01359335993e-05	36	True
+partition (number theory)	6.01252568093e-05	8	True
+fisher information metric	5.99456713119e-05	3	True
+second-order cone programming	5.98962246497e-05	8	True
+motion perception	5.98614102929e-05	6	True
+queueing theory	5.96056885731e-05	3	True
+lazy learning	5.95851842183e-05	4	True
+pairwise independence	5.95710256047e-05	4	True
+voting system	5.95041464197e-05	4	True
+macroblock	5.94731043626e-05	5	True
+sudoku	5.93603600724e-05	6	True
+motion field	5.92781083944e-05	9	True
+ion channel	5.91443026774e-05	8	True
+connection machine	5.90832745861e-05	7	True
+mobile social network	5.88921734898e-05	3	True
+two-phase locking	5.88453733642e-05	18	True
+fault-tolerant system	5.88052547721e-05	4	True
+general game playing	5.84943075477e-05	11	True
+graph labeling	5.82658052543e-05	11	True
+counterfactual conditional	5.8159946813e-05	3	True
+minimum mean square error	5.8011160223e-05	3	True
+lipschitz continuity	5.79904609897e-05	6	True
+non-volatile memory	5.79165489082e-05	3	True
+commodity computing	5.78214944345e-05	3	True
+general topology	5.77787536344e-05	3	True
+schema matching	5.77580976766e-05	48	True
+pentium 4	5.77259802551e-05	3	True
+sample space	5.75126415896e-05	6	True
+mandarin chinese	5.75063254912e-05	5	True
+cuboid	5.74064786586e-05	5	True
+terminal and nonterminal symbols	5.73794766511e-05	4	True
+suffix array	5.71377013055e-05	6	True
+multilevel model	5.70848632664e-05	4	True
+look-ahead (backtracking)	5.70501247239e-05	5	True
+offline learning	5.70062462915e-05	7	True
+quadtree	5.69928516327e-05	12	True
+remote sensing	5.69715095458e-05	9	True
+supply chain management	5.68743504877e-05	7	True
+hebbian theory	5.66483387225e-05	4	True
+chain rule	5.6624079792e-05	3	True
+verb phrase	5.65356154845e-05	4	True
+gini coefficient	5.65316458481e-05	7	True
+chrominance	5.64697797327e-05	3	True
+autoregressive model	5.63967437405e-05	3	True
+egomotion	5.63805329228e-05	19	True
+subderivative	5.62119303657e-05	7	True
+distributed artificial intelligence	5.62082665725e-05	7	True
+saddle point	5.59779049498e-05	4	True
+context-sensitive language	5.58797556802e-05	3	True
+grassmannian	5.58760047572e-05	4	True
+united airlines	5.58460705299e-05	17	True
+fourth normal form	5.57412632427e-05	4	True
+covariance function	5.56885360876e-05	9	True
+pursuit-evasion	5.56432860929e-05	8	True
+glr parser	5.55913315866e-05	16	True
+asynchronous i/o	5.55155008114e-05	6	True
+adpositional phrase	5.53766664892e-05	6	True
+cross industry standard process for data mining	5.52843260052e-05	3	True
+mean integrated squared error	5.52522237507e-05	4	True
+bitap algorithm	5.52163642804e-05	8	True
+mechanism design	5.51974769894e-05	24	True
+pinyin	5.51853913767e-05	3	True
+prostate cancer	5.50340070426e-05	3	True
+solution concept	5.49804708841e-05	15	True
+external sorting	5.49650874145e-05	5	True
+photometric stereo	5.49265164919e-05	27	True
+computer-aided diagnosis	5.48741262432e-05	9	True
+inpainting	5.48389180283e-05	6	True
+thematic relation	5.47080699801e-05	7	True
+evolution strategy	5.46917597069e-05	4	True
+categorical data	5.46853674674e-05	14	True
+steganalysis	5.45564504111e-05	3	True
+stochastic dominance	5.45363229799e-05	5	True
+point process	5.4481500524e-05	4	True
+fitness function	5.44796869123e-05	14	True
+mammal	5.43774878783e-05	3	True
+least fixed point	5.42514505873e-05	13	True
+compressed data structure	5.42163651786e-05	3	True
+protein data bank	5.40313956553e-05	9	True
+unit propagation	5.40149519308e-05	7	True
+human factors	5.38612453903e-05	3	True
+graph traversal	5.38119507315e-05	5	True
+dcop	5.38022570236e-05	14	True
+mimd	5.36645648506e-05	6	True
+active contour model	5.35917547369e-05	20	True
+texture mapping	5.35667078839e-05	7	True
+linearizability	5.35032001179e-05	7	True
+resource allocation	5.34739628639e-05	10	True
+filtering problem (stochastic processes)	5.34215027712e-05	7	True
+quasigroup	5.33393401427e-05	6	True
+social choice theory	5.33303367189e-05	3	True
+combinatorial auction	5.32801794653e-05	7	True
+eye tracking	5.30823650574e-05	7	True
+semantic interpretation	5.30778841188e-05	4	True
+complex event processing	5.30629109147e-05	3	True
+recursive least squares filter	5.29059047915e-05	4	True
+symbolic integration	5.27683193719e-05	3	True
+compiler-compiler	5.26266676121e-05	3	True
+partial-order planning	5.25501401044e-05	4	True
+granger causality	5.25019675654e-05	5	True
+memory management	5.24227740154e-05	3	True
+kanji	5.24123222834e-05	12	True
+semitic languages	5.24091501335e-05	3	True
+data independence	5.21277714305e-05	27	True
+overlay network	5.20714610062e-05	17	True
+naver	5.16389895425e-05	4	True
+livejournal	5.16325972799e-05	5	True
+subgame perfect equilibrium	5.15617128093e-05	3	True
+color constancy	5.15266933233e-05	19	True
+haar-like features	5.14882303183e-05	3	True
+discourse representation theory	5.14554632526e-05	15	True
+software prototyping	5.12957271359e-05	10	True
+lexical resource	5.12740211357e-05	3	True
+matrix norm	5.12687209649e-05	11	True
+text normalization	5.12246008067e-05	4	True
+utility computing	5.10556493603e-05	3	True
+photo-consistency	5.10148562444e-05	4	True
+walksat	5.09557814031e-05	14	True
+conceptual model	5.08879570105e-05	3	True
+texture synthesis	5.08372215899e-05	4	True
+evaluation function	5.07239818043e-05	3	True
+haplotype	5.07117838629e-05	11	True
+national university of ireland, galway	5.06111814867e-05	5	True
+kernel regression	5.04972936751e-05	11	True
+nonprocedural language	5.04006559028e-05	3	True
+bibliographic database	5.03387545513e-05	7	True
+code reuse	5.02699333548e-05	4	True
+knowledge compilation	5.02672000778e-05	19	True
+clisp	5.0102552655e-05	4	True
+measure word	5.00747724422e-05	6	True
+semantic feature	5.00569111408e-05	5	True
+myocardial infarction	4.99980952427e-05	4	True
+morphophonology	4.96928895704e-05	6	True
+shape context	4.96118936545e-05	3	True
+page fault	4.96104107588e-05	3	True
+graphplan	4.95957780467e-05	15	True
+constraint learning	4.95555791082e-05	15	True
+asymptotic distribution	4.93899584824e-05	4	True
+social media marketing	4.91012348246e-05	4	True
+cp decomposition	4.90920501417e-05	5	True
+axon	4.90479848583e-05	3	True
+type inference	4.89244169872e-05	3	True
+slovene language	4.88683010416e-05	3	True
+space-filling curve	4.88644457979e-05	4	True
+algebraic connectivity	4.86288669169e-05	3	True
+distributed computing environment	4.86194513649e-05	6	True
+metabolic network	4.85396660882e-05	3	True
+phase transition	4.85347854165e-05	37	True
+delaunay triangulation	4.85088831237e-05	4	True
+ecml pkdd	4.84580179587e-05	4	True
+xeon	4.84507383546e-05	5	True
+continental airlines	4.82425790353e-05	12	True
+perfect information	4.81855916945e-05	7	True
+mobile robot	4.8139007902e-05	8	True
+conceptual semantics	4.80671032513e-05	4	True
+probabilistic automaton	4.80513707593e-05	11	True
+sss*	4.8003697127e-05	9	True
+mass noun	4.80031295384e-05	4	True
+least-angle regression	4.79415352604e-05	4	True
+wireless lan	4.79037493862e-05	3	True
+interactive visualization	4.78793774625e-05	9	True
+proportional hazards models	4.76539917178e-05	6	True
+generalized singular value decomposition	4.76498757753e-05	8	True
+manfred k. warmuth	4.76246558014e-05	13	True
+prosody (linguistics)	4.75177026347e-05	3	True
+explanation-based learning	4.74524862126e-05	58	True
+nasdaq	4.72479937448e-05	3	True
+enron	4.71705128775e-05	13	True
+white matter	4.71426722016e-05	3	True
+multiple correspondence analysis	4.69697605334e-05	3	True
+combinatory categorial grammar	4.65867951425e-05	17	True
+depth of field	4.6483126049e-05	5	True
+escherichia coli	4.63893068919e-05	6	True
+tessellation	4.63636108784e-05	4	True
+qualification problem	4.60536726839e-05	6	True
+chemical compound	4.60132858986e-05	5	True
+contextual advertising	4.59011598713e-05	12	True
+hitting time	4.58843934996e-05	7	True
+lung cancer	4.58653422653e-05	7	True
+possibility theory	4.58138918862e-05	12	True
+observational learning	4.57870837318e-05	3	True
+simply connected space	4.56317406144e-05	7	True
+multiple buffering	4.56278914045e-05	3	True
+causal structure	4.55163223187e-05	16	True
+x-ray computed tomography	4.54700489481e-05	8	True
+file server	4.53698535046e-05	3	True
+epilepsy	4.52970949297e-05	3	True
+petabyte	4.5179817953e-05	6	True
+optimistic concurrency control	4.5118703239e-05	8	True
+focal length	4.49541233171e-05	14	True
+covariance and correlation	4.48420746619e-05	7	True
+observer pattern	4.4669873609e-05	3	True
+linear separability	4.46415815974e-05	13	True
+means-ends analysis	4.45795836601e-05	7	True
+hierarchical task network	4.44742433335e-05	14	True
+covariate	4.44505315889e-05	8	True
+lambertian reflectance	4.44397800061e-05	14	True
+isosurface	4.43833927635e-05	3	True
+bidirectional search	4.42693465641e-05	6	True
+open class (linguistics)	4.42469346872e-05	3	True
+well-known text	4.41350370863e-05	3	True
+yahoo! buzz	4.4038089904e-05	3	True
+space shuttle	4.39489794172e-05	7	True
+beijing	4.38740125701e-05	3	True
+tree model	4.37971882715e-05	9	True
+lyapunov stability	4.37059824473e-05	3	True
+autonomous agent	4.36570029554e-05	13	True
+underlying representation	4.36531905264e-05	7	True
+tropical cyclone	4.352168935e-05	3	True
+weighted majority algorithm	4.34783404818e-05	4	True
+pitch accent	4.34415991084e-05	5	True
+total cost of ownership	4.34221767119e-05	7	True
+cache algorithms	4.34027160524e-05	3	True
+constraint satisfaction dual problem	4.33450549023e-05	4	True
+additive white gaussian noise	4.32634810637e-05	6	True
+pushdown automaton	4.31984367386e-05	7	True
+level set method	4.30899595826e-05	3	True
+coarticulation	4.30094765161e-05	6	True
+canonicalization	4.29038062869e-05	5	True
+portlet	4.27508874368e-05	3	True
+view synthesis	4.2725740942e-05	4	True
+bayesian game	4.26610357076e-05	5	True
+simple random sample	4.26435630427e-05	3	True
+generative lexicon	4.25760367011e-05	5	True
+implicature	4.25706719258e-05	5	True
+synchronous context-free grammar	4.23052094442e-05	3	True
+system dynamics	4.22537101259e-05	6	True
+recursive partitioning	4.21134660285e-05	6	True
+image stitching	4.17871558488e-05	3	True
+government and binding theory	4.17485264482e-05	11	True
+cognitive load	4.16259595576e-05	6	True
+streaming xml	4.15340356668e-05	6	True
+definite description	4.14823627602e-05	3	True
+control variates	4.14057191976e-05	4	True
+innodb	4.13949048221e-05	4	True
+proof procedure	4.1387896525e-05	15	True
+regret (decision theory)	4.13300420378e-05	9	True
+stochastic control	4.11769593797e-05	5	True
+albedo	4.10783515926e-05	25	True
+chi-squared distribution	4.10190738731e-05	4	True
+university of washington	4.08253196927e-05	4	True
+ancestral graph	4.06684839401e-05	6	True
+meta-analysis	4.06501936435e-05	4	True
+reliability (statistics)	4.05820546276e-05	3	True
+macromolecule	4.04240040742e-05	3	True
+variable-length code	4.0299165964e-05	3	True
+click fraud	4.02759176226e-05	3	True
+tree automaton	4.02708316067e-05	4	True
+gene expression programming	4.02658883693e-05	3	True
+partial plan	4.02461617185e-05	4	True
+radiation therapy	4.02236619478e-05	8	True
+one-class classification	4.00359139146e-05	13	True
+vocal tract	3.98528409681e-05	3	True
+minimum cut	3.97569862063e-05	3	True
+yahoo! directory	3.96305553689e-05	4	True
+temporal database	3.96089855675e-05	8	True
+beta sheet	3.95183781608e-05	4	True
+missing data	3.94703470441e-05	8	True
+bootstrapping	3.9306106872e-05	17	True
+linguistic description	3.89199526008e-05	7	True
+logisim	3.88909981098e-05	5	True
+deixis	3.88151032187e-05	6	True
+monadic predicate calculus	3.88125583403e-05	5	True
+frame rate	3.8746306973e-05	4	True
+robocup	3.86891152364e-05	15	True
+jorma rissanen	3.85666173586e-05	4	True
+mean curvature	3.84766193197e-05	3	True
+strongly connected component	3.8430105513e-05	3	True
+texel (graphics)	3.81495633132e-05	4	True
+constraint optimization	3.81485049331e-05	14	True
+negation normal form	3.81031830892e-05	5	True
+thrashing (computer science)	3.80996172929e-05	4	True
+precoding	3.80406713095e-05	3	True
+texas hold 'em	3.79836201462e-05	12	True
+multilevel security	3.78935042779e-05	5	True
+case grammar	3.76702246884e-05	25	True
+i, robot (film)	3.74997712232e-05	3	True
+database caching	3.74743415986e-05	8	True
+distributional hypothesis	3.72276462962e-05	3	True
+prior art	3.72251597585e-05	3	True
+nonparametric regression	3.71870600363e-05	4	True
+seriation (archaeology)	3.70819390911e-05	4	True
+extended memory	3.69847044759e-05	3	True
+penalty method	3.69381494553e-05	3	True
+parallel database	3.68298818495e-05	7	True
+worst-case execution time	3.6672592178e-05	4	True
+logical form	3.65815083324e-05	25	True
+model-based reasoning	3.65273828202e-05	6	True
+diphone	3.65086198901e-05	4	True
+metamathematics	3.63618369506e-05	4	True
+software deployment	3.63576768744e-05	3	True
+medline	3.59553705996e-05	25	True
+oregon state university	3.59476952411e-05	3	True
+standard model	3.5836520562e-05	11	True
+sign test	3.56041881704e-05	4	True
+tivo	3.55252350116e-05	4	True
+orthogonal wavelet	3.54077761634e-05	4	True
+symbolic computation	3.53760261495e-05	5	True
+incentive compatibility	3.51785977961e-05	5	True
+knowledge worker	3.49581826005e-05	3	True
+higher-order singular value decomposition	3.48369260803e-05	14	True
+dependency relation	3.47238380411e-05	6	True
+medial axis	3.47182978218e-05	16	True
+head grammar	3.46584846322e-05	4	True
+very-large-scale integration	3.4561185845e-05	5	True
+aperture	3.44921104357e-05	3	True
+usenet newsgroup	3.42553288627e-05	3	True
+principal curvature	3.4137503801e-05	3	True
+page cache	3.40278914297e-05	6	True
+lexical item	3.39647179375e-05	8	True
+2.5d	3.39507674044e-05	3	True
+gaussian curvature	3.38702663687e-05	7	True
+molecular graph	3.36915419551e-05	3	True
+cognitive map	3.36538291512e-05	6	True
+greibach normal form	3.34710925125e-05	4	True
+allele	3.33283578632e-05	3	True
+inverted pendulum	3.33111109216e-05	9	True
+syntactic methods	3.32001738415e-05	3	True
+preferential attachment	3.30391769065e-05	4	True
+cross-ratio	3.30255731764e-05	6	True
+mobile ad hoc network	3.29831315872e-05	3	True
+pnuts	3.29337031948e-05	3	True
+blackboard system	3.29128857266e-05	8	True
+binary constraint	3.27273013393e-05	5	True
+scrabble	3.26826883911e-05	4	True
+sentence processing	3.26402888868e-05	9	True
+katakana	3.26336804097e-05	8	True
+patr-ii	3.25843673829e-05	8	True
+deeppeep	3.25237500029e-05	3	True
+electronic nose	3.24919757989e-05	4	True
+process graph	3.24697908643e-05	3	True
+dementia	3.24242447173e-05	5	True
+content analysis	3.23152707448e-05	3	True
+query throughput	3.2245264463e-05	8	True
+spoken dialog system	3.20957293212e-05	13	True
+kriegspiel (chess)	3.20219927357e-05	6	True
+standard hindi	3.189228947e-05	6	True
+nonconcatenative morphology	3.18585439504e-05	4	True
+blogscope	3.17480637594e-05	3	True
+factorial experiment	3.17407901728e-05	9	True
+agglutination	3.15953187734e-05	9	True
+supply and demand	3.15073767446e-05	3	True
+action theory (philosophy)	3.14822930843e-05	4	True
+noncommutative logic	3.14497219744e-05	11	True
+multicategory	3.13829967663e-05	8	True
+focus (optics)	3.12902309314e-05	6	True
+linguistic performance	3.12272819093e-05	4	True
+sparse pca	3.11375839852e-05	4	True
+colorectal cancer	3.1012045996e-05	4	True
+displacement (vector)	3.09668051218e-05	3	True
+sparse grid	3.09210563139e-05	6	True
+peak signal-to-noise ratio	3.08099189398e-05	5	True
+sampling bias	3.06485228e-05	9	True
+dynamic problem (algorithms)	3.04785181628e-05	4	True
+tektronix	3.03008004791e-05	4	True
+super-resolution	3.01470587899e-05	10	True
+weshow	3.00371764144e-05	6	True
+program transformation	3.00002942165e-05	9	True
+multicast	2.99469302186e-05	10	True
+write-ahead logging	2.97922017242e-05	3	True
+dataspaces	2.9651083961e-05	6	True
+mobile agent	2.95948860551e-05	3	True
+soybean	2.92183017186e-05	3	True
+fibre channel	2.92108679732e-05	4	True
+projection pursuit	2.91048896927e-05	4	True
+use case	2.90007844619e-05	5	True
+cardinal direction	2.89340495133e-05	3	True
+pattern search (optimization)	2.8580969724e-05	3	True
+computer-aided technologies	2.84948951709e-05	3	True
+hamming space	2.83697594569e-05	3	True
+center embedding	2.83555331996e-05	4	True
+interobject	2.83419501853e-05	5	True
+ordinal regression	2.82435500042e-05	13	True
+probcons	2.81897537188e-05	3	True
+disk array	2.80984090988e-05	3	True
+phenylalanine	2.80305048218e-05	4	True
+data dependency	2.80132671303e-05	4	True
+epipolar geometry	2.79961237221e-05	28	True
+verbal behavior	2.79438700196e-05	3	True
+national institute for research in computer science and control	2.7890463685e-05	3	True
+chromaticity	2.78701431091e-05	8	True
+melanoma	2.78608155636e-05	3	True
+3d projection	2.78252643897e-05	28	True
+two-level grammar	2.77783821597e-05	3	True
+selection bias	2.77622036494e-05	20	True
+idisk	2.76109606715e-05	3	True
+planning domain definition language	2.75463677013e-05	5	True
+software maintenance	2.75153148779e-05	3	True
+specular reflection	2.74646492751e-05	12	True
+cooperative principle	2.73044236321e-05	5	True
+progol	2.72363543991e-05	9	True
+q-function	2.72022387247e-05	9	True
+science 2.0	2.71214106694e-05	5	True
+osteopontin	2.70615258832e-05	3	True
+group extension	2.68915191305e-05	3	True
+border gateway protocol	2.67844331266e-05	8	True
+opposite (semantics)	2.67577236504e-05	4	True
+arrow (symbol)	2.66448826658e-05	15	True
+hierarchical dirichlet process	2.6592585777e-05	7	True
+defeasible logic	2.65134041243e-05	6	True
+motor learning	2.64411383716e-05	3	True
+vectorization (image tracing)	2.63690916047e-05	3	True
+multi-index notation	2.63392902584e-05	4	True
+autonomic computing	2.6298012657e-05	7	True
+strategic dominance	2.59789571676e-05	3	True
+pairwise comparison	2.59242203033e-05	8	True
+irradiance	2.57826415281e-05	9	True
+referring expression generation	2.57766366521e-05	3	True
+variance reduction	2.57766050708e-05	24	True
+u-matrix	2.55591340249e-05	3	True
+myopia	2.55585309613e-05	4	True
+grey matter	2.55201236181e-05	3	True
+entrepreneurship	2.53067979018e-05	10	True
+partial evaluation	2.53009816784e-05	5	True
+combinatorial design	2.5186088653e-05	5	True
+geocoding	2.51839716684e-05	5	True
+lachesis (mythology)	2.50544159419e-05	5	True
+clotho	2.50444159419e-05	4	True
+risk-neutral measure	2.49028789334e-05	3	True
+fovea centralis	2.48908741222e-05	11	True
+lowest common ancestor	2.48600637488e-05	5	True
+hoeffding's inequality	2.48437281941e-05	6	True
+premature convergence	2.47331939466e-05	3	True
+nomad	2.47279496905e-05	5	True
+htree	2.45756394387e-05	4	True
+page view	2.45650924685e-05	3	True
+rationalizability	2.45400667234e-05	4	True
+fractal dimension	2.45297225065e-05	5	True
+active database	2.45163723859e-05	7	True
+servomechanism	2.44743478083e-05	3	True
+feret database	2.44261550684e-05	6	True
+unicast	2.43375940322e-05	3	True
+covering set	2.42350922078e-05	4	True
+fisheye lens	2.41456240661e-05	4	True
+differential privacy	2.39793898112e-05	13	True
+ieee 802	2.37946973871e-05	4	True
+microelectromechanical systems	2.37489923302e-05	4	True
+gridworld	2.37253360425e-05	6	True
+semiconductor memory	2.33353467054e-05	3	True
+opportunity cost	2.33278257399e-05	4	True
+bayes error rate	2.31752607675e-05	3	True
+strategyproof	2.29926164567e-05	13	True
+tiresias	2.29675509727e-05	3	True
+dfa minimization	2.29535128665e-05	3	True
+vanishing point	2.29337342442e-05	7	True
+weak generative capacity	2.29118855628e-05	4	True
+scanline rendering	2.28673743643e-05	3	True
+postal codes in canada	2.27996203491e-05	5	True
+mercer's condition	2.26302177604e-05	4	True
+tukwila, washington	2.25840500906e-05	3	True
+situation theory	2.25700358843e-05	5	True
+distortion (optics)	2.24781425218e-05	3	True
+lambert's cosine law	2.24452335789e-05	4	True
+ranked pairs	2.24006543338e-05	3	True
+principal angles	2.2203378226e-05	3	True
+kojak	2.21639584242e-05	3	True
+data base task group	2.21266554834e-05	5	True
+scalable video coding	2.20119655955e-05	3	True
+subdivision surface	2.19281008827e-05	8	True
+open list	2.18824491179e-05	5	True
+strong prior	2.18624141527e-05	4	True
+occupancy grid mapping	2.18350146186e-05	3	True
+real-time strategy	2.17987860338e-05	13	True
+symbolic execution	2.17426424531e-05	5	True
+autotutor	2.17315524348e-05	3	True
+postcondition	2.17227039832e-05	3	True
+preferential entailment	2.16925543567e-05	3	True
+toponymy	2.16819148903e-05	3	True
+gram-negative bacteria	2.13271731959e-05	3	True
+microarray and gene expression	2.1262789554e-05	3	True
+reversi	2.12005025764e-05	4	True
+syslog	2.10932688144e-05	4	True
+superquadrics	2.10201760736e-05	3	True
+x-height	2.07690232325e-05	10	True
+sparse coding	2.07375588814e-05	12	True
+hinge loss	2.0722657892e-05	18	True
+glaucoma	2.05896730224e-05	4	True
+majority function	2.05095709659e-05	3	True
+insider trading	2.05093666982e-05	3	True
+data parallelism	2.04749181745e-05	7	True
+friendship graph	2.04149405224e-05	3	True
+correlated equilibrium	2.04122533229e-05	10	True
+japanese honorifics	2.03005839078e-05	5	True
+sparse image	2.02291547088e-05	3	True
+diffuse reflection	2.02263158724e-05	3	True
+brandeis university	2.00936969135e-05	3	True
+epinions	1.99520151058e-05	4	True
+ideogram	1.98635953561e-05	3	True
+citation graph	1.9794054615e-05	5	True
+sloan digital sky survey	1.97631747517e-05	13	True
+constraint automaton	1.96914800762e-05	4	True
+perspective distortion (photography)	1.92136664996e-05	3	True
+catadioptric system	1.90084213955e-05	13	True
+planetlab	1.89683288777e-05	7	True
+thread (computing)	1.89513129377e-05	4	True
+list of php accelerators	1.89017655163e-05	3	True
+geometric flow	1.88541431192e-05	4	True
+parity function	1.87840345945e-05	6	True
+allen's interval algebra	1.87343689398e-05	4	True
+simultaneous perturbation stochastic approximation	1.8691043303e-05	3	True
+downsampling	1.86606041299e-05	3	True
+lview	1.86606041299e-05	3	True
+yahoo! answers	1.85450114278e-05	25	True
+cache coherence	1.84248590056e-05	6	True
+bing xrank	1.84189629017e-05	3	True
+kawasaki disease	1.83442775203e-05	29	True
+selective dissemination of information	1.81944906064e-05	4	True
+join dependency	1.81644855059e-05	5	True
+matryoshka doll	1.81230119211e-05	3	True
+motion blur	1.80165391314e-05	3	True
+motor skill	1.74891799399e-05	6	True
+budget constraint	1.7459210797e-05	8	True
+metrical task system	1.74408058411e-05	4	True
+rapid prototyping	1.73871000669e-05	3	True
+information cascade	1.73651702295e-05	4	True
+spatial network	1.73263813915e-05	7	True
+bitonic sorter	1.73113143988e-05	5	True
+inverse resolution	1.71732278975e-05	6	True
+knowledge query and manipulation language	1.71614363234e-05	6	True
+magical objects in harry potter	1.7161289361e-05	4	True
+pseudoword	1.70523941585e-05	5	True
+adsorption	1.70306666022e-05	3	True
+price/performance ratio	1.69088128336e-05	3	True
+deforestation	1.6768083767e-05	6	True
+lifting scheme	1.67075840975e-05	3	True
+agent communications language	1.66268793503e-05	3	True
+gamma andromedae	1.66244532579e-05	27	True
+timit	1.64470711128e-05	3	True
+similarity relation	1.64208825681e-05	3	True
+chi-squared test	1.63215093603e-05	5	True
+teaching dimension	1.62395068203e-05	10	True
+setun	1.61890303572e-05	3	True
+multiple-scale analysis	1.61575585812e-05	3	True
+vector flow	1.60962243973e-05	3	True
+shapley value	1.59993199514e-05	3	True
+ifilter	1.59685976242e-05	3	True
+manifold integration	1.57436319598e-05	3	True
+film format	1.56082031357e-05	7	True
+visual reasoning	1.56060777264e-05	3	True
+variational method	1.55581844101e-05	8	True
+diagonally dominant matrix	1.55247574641e-05	3	True
+zero-suppressed decision diagram	1.55022803816e-05	3	True
+meta learning	1.54132954479e-05	32	True
+clickthrough rate	1.53888341243e-05	14	True
+reprojection error	1.51295996609e-05	3	True
+scientific time sharing corporation	1.51235607146e-05	3	True
+orthographic projection	1.50123904009e-05	8	True
+ksds	1.48541993309e-05	3	True
+i/o scheduling	1.47521627172e-05	5	True
+linear hashing	1.4694219774e-05	5	True
+anthrax	1.45264646562e-05	4	True
+lexical gap	1.45144186552e-05	3	True
+local tangent space alignment	1.44101464148e-05	3	True
+james bond (character)	1.43597059228e-05	4	True
+cooperative database	1.42981368089e-05	4	True
+flexible single master operation	1.42462554088e-05	3	True
+missing completely at random	1.42241398541e-05	6	True
+object manager (windows)	1.42169143961e-05	3	True
+p-laplacian	1.40405269705e-05	4	True
+consumer-to-consumer	1.396421104e-05	4	True
+brier score	1.38650956508e-05	4	True
+multi-objective optimization	1.38295740546e-05	6	True
+illusory contours	1.37346528644e-05	6	True
+game show network	1.36886234749e-05	4	True
+naplps	1.36650539872e-05	4	True
+bilateral filter	1.36571171406e-05	3	True
+protein function prediction	1.35484874476e-05	3	True
+region connection calculus	1.34025238578e-05	4	True
+the real news	1.32904497237e-05	3	True
+symmetry set	1.32319290249e-05	5	True
+animat	1.31322890703e-05	6	True
+verb phrase ellipsis	1.29458137273e-05	6	True
+tpc-w	1.29109640028e-05	3	True
+kaist	1.26358291241e-05	3	True
+beliefnet	1.25758179182e-05	3	True
+distortion problem	1.24198395109e-05	3	True
+nomogram	1.24118888727e-05	4	True
+west germany	1.23948065202e-05	3	True
+collineation	1.23764884278e-05	4	True
+undersampling	1.23460525337e-05	4	True
+nalidixic acid	1.23178921e-05	5	True
+three-finger salute (serbian)	1.23086232982e-05	4	True
+knowledge space	1.22947809277e-05	4	True
+envy-free	1.228612944e-05	5	True
+kuhn poker	1.227612944e-05	4	True
+catadioptric sensor	1.21714137629e-05	4	True
+nucleolus	1.21672036625e-05	5	True
+visual hull	1.21185035373e-05	4	True
+surface of revolution	1.21174187437e-05	3	True
+two in a million/you're my number one	1.19954344196e-05	5	True
+going for the one	1.19754344196e-05	3	True
+g-index	1.1889243566e-05	3	True
+selection rule	1.17858529366e-05	4	True
+s-process	1.17758529366e-05	3	True
+xbase	1.14183802131e-05	3	True
+dialog act	1.13998083294e-05	4	True
+morphological parsing	1.13753030246e-05	3	True
+complex sentence	1.1281965378e-05	3	True
+personalized search	1.12526825052e-05	15	True
+email spam	1.12515062854e-05	17	True
+international securities identification number	1.1170447197e-05	11	True
+puretext	1.11587538833e-05	3	True
+tree (descriptive set theory)	1.10965797951e-05	6	True
+plant stem	1.09765654035e-05	4	True
+eikonal equation	1.0627515286e-05	3	True
+lair2	1.05754369101e-05	6	True
+muc7	1.05654369101e-05	5	True
+muc4	1.05554369101e-05	4	True
+coko	1.05500025129e-05	5	True
+context awareness	1.05188289292e-05	5	True
+matrix games	1.04788112512e-05	4	True
+lysergic acid diethylamide	1.04621330266e-05	5	True
+boolean algebra	1.0351700654e-05	20	True
+secure multi-party computation	1.0347872331e-05	5	True
+tlc (tv channel)	1.02631221834e-05	4	True
+chamfer	1.02531221834e-05	3	True
+jump process	1.02322472784e-05	3	True
+chinese verbs	1.01201726206e-05	4	True
+restricted representation	1.00199688897e-05	5	True
+perry drug stores	1.00133884312e-05	4	True
+opsm	9.89728403587e-06	11	True
+subcategorization	9.8864276288e-06	10	True
+the heaven sword and dragon saber	9.81728403587e-06	3	True
+rigid transformation	9.64150285522e-06	6	True
+aggregation problem	9.6137329205e-06	5	True
+financial industry regulatory authority	9.58763584734e-06	3	True
+electrode	9.5363546088e-06	4	True
+vergence	9.49951775895e-06	6	True
+earth observing-1	9.45740915472e-06	7	True
+near-earth asteroid tracking	9.45740915472e-06	7	True
+requirements management	9.44177961497e-06	3	True
+smoothing spline	9.42758876334e-06	5	True
+siding spring survey	9.41740915472e-06	3	True
+serfdom	9.40027426368e-06	8	True
+hiroshima university	9.35027426368e-06	3	True
+bengali alphabet	9.24416543705e-06	3	True
+call admission control	9.23099266505e-06	3	True
+backpacking (wilderness)	9.19296509593e-06	3	True
+concretion	9.19296509593e-06	3	True
+implicant	9.11639333927e-06	3	True
+non-linear sigma model	8.46050058096e-06	5	True

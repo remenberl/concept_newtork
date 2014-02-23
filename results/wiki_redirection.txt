@@ -1,0 +1,89 @@
+human-computer interaction	human–computer interaction
+noah	noah (disambiguation)
+client-server model	client–server model
+shift-reduce parser	bottom-up parsing
+t-statistic	student's t-statistic
+nondeterministic finite automaton	nondeterministic finite-state machine
+bayesian statistics	bayesian inference
+betweenness centrality	centrality
+hamilton-jacobi-bellman equation	hamilton–jacobi–bellman equation
+p:in	portal:india
+averaged one-dependence estimators	aode
+hopfield network	hopfield net
+axiom	axiom (computer algebra system)
+magnetoresistive random-access memory	magnetoresistive random access memory
+good-turing frequency estimation	good–turing frequency estimation
+information visualization	information graphics
+laplace-beltrami operator	laplace–beltrami operator
+mean squared error	mean square error
+k-d tree	kd-tree
+spectral clustering	cluster_analysis
+metropolis-hastings algorithm	metropolis–hastings algorithm
+intel	intel corporation
+language acquisition	language acquisition: a journal of developmental linguistics
+vapnik-chervonenkis theory	vapnik–chervonenkis theory
+human-computer information retrieval	human–computer information retrieval
+tf*idf	tf–idf
+social networking service	social network service
+neverwinter nights	neverwinter_nights
+deterministic finite automaton	deterministic finite-state machine
+model checking	model checking (disambiguation)
+acid	acid productions
+hilbert-schmidt operator	hilbert–schmidt operator
+fixed-point combinator	fixed point combinator
+associative property	associativity
+social network analysis	social network
+information geometry	information_geometry
+rose tree	rhododendron maximum
+polymorphism (computer science)	type polymorphism
+markov property	markov process
+davis-putnam algorithm	davis–putnam algorithm
+cache (computing)	cache
+locality-sensitive hashing	locality sensitive hashing
+email filtering	e-mail filtering
+three-valued logic	ternary logic
+baum-welch algorithm	baum–welch algorithm
+markov renewal process	semi-markov process
+pitman-yor process	pitman–yor process
+spacetime	spacetime (software)
+distributed algorithm	distributed algorithms
+rate-distortion theory	rate–distortion theory
+autoencoder	auto-encoder
+bijection	bijection, injection and surjection
+jensen-shannon divergence	jensen–shannon divergence
+ontology language	ontology (information science)
+realplayer	realjukebox
+parse tree	concrete syntax tree
+many-valued logic	multi-valued logic
+word-sense disambiguation	word sense disambiguation
+vickrey-clarke-groves auction	vickrey–clarke–groves auction
+msn	msn (disambiguation)
+integrated development environment	idle (python)
+signature file	signature files
+is-a	inheritance (object-oriented programming)
+alzheimer's disease	category:unprintworthy redirects
+dempster-shafer theory	dempster–shafer theory
+multi-agent system	agent-based model
+gear	gear (disambiguation)
+protein-protein interaction	protein–protein interaction
+mathematical formulation of quantum mechanics	mathematical formulations of quantum mechanics
+parallel computing	parallel_computing
+first-class citizen	first-class object
+neuron	dassault neuron
+normal (geometry)	surface normal
+programming by demonstration	programming by example
+and-or tree	and–or tree
+brain-computer interface	brain–computer interface
+short message service	sms
+apache hadoop	hadoop
+multi-label classification	multiclass classification
+walmart	wal-mart
+named-entity recognition	named entity recognition
+mathematical optimization	optimization_(mathematics)
+php	philippine peso
+dblp	digital bibliography & library project
+bing	bing (search engine)
+platypus	open-pool australian lightwater reactor
+os x	mac os x
+okapi	okapi (disambiguation)
+kullback-leibler divergence	kullback–leibler divergence

@@ -1,0 +1,92 @@
+knowledge base |knowledge base 			4.995150196826525
+#1.txt 
+general knowledge base |general knowledge base 			3.264536430999026
+#1.txt 
+generated new knowledge graph representation |generated new knowledge graph representation 			2.3504972470841334
+#1.txt 
+document archive |document archive 			2.140778655782796
+#1.txt 
+concept network |concept network 			2.140778655782796
+#1.txt 
+network model |network model 			2.140778655782796
+#1.txt 
+spectral clustering algorithm |spectral clustering algorithms 			1.632268215499513
+#2.txt 
+existing knowledge base |existing knowledge base 			1.632268215499513
+#1.txt 
+underlying network-based representation |underlying network-based representation 			1.632268215499513
+#1.txt 
+external knowledge base |External knowledge base 			1.632268215499513
+#1.txt 
+past decade |past decade 			1.070389327891398
+#2.txt 
+latent topic |latent topics 			1.070389327891398
+#1.txt 
+query expansion |query expansion 			1.070389327891398
+#1.txt 
+good number |good number 			1.070389327891398
+#2.txt 
+mining framework |mining framework 			1.070389327891398
+#1.txt 
+entity resolution |entity resolution 			1.070389327891398
+#1.txt 
+scientific area |scientific areas 			1.070389327891398
+#1.txt 
+expert finding |expert finding 			1.070389327891398
+#1.txt 
+quantitative analysis |quantitative analysis 			1.070389327891398
+#1.txt 
+application test |application test 			1.070389327891398
+#1.txt 
+extensive experiment |extensive experiments 			1.070389327891398
+#1.txt 
+domain preference |domain preferences 			1.070389327891398
+#1.txt 
+focused domain |focused domain 			1.070389327891398
+#1.txt 
+semantic link |semantic links 			1.070389327891398
+#1.txt 
+intent discovery |intent discovery 			1.070389327891398
+#1.txt 
+proposed framework |proposed framework 			1.070389327891398
+#1.txt 
+explosive development |explosive development 			1.070389327891398
+#2.txt 
+specific domain |specific domains 			1.070389327891398
+#1.txt 
+human evaluation |human evaluation 			1.070389327891398
+#1.txt 
+bibliographic archive |bibliographic archive 			1.070389327891398
+#1.txt 
+paper |paper |papers 			0.27500704749987004
+#1.txt #2.txt 
+link |links 			0.13750352374993502
+#1.txt 
+dblp |DBLP 			0.13750352374993502
+#1.txt 
+line |line 			0.13750352374993502
+#2.txt 
+politics |politics 			0.13750352374993502
+#1.txt 
+chapter |chapter 			0.13750352374993502
+#2.txt 
+effectiveness |effectiveness 			0.13750352374993502
+#1.txt 
+family |family 			0.13750352374993502
+#2.txt 
+intersection |intersection 			0.13750352374993502
+#1.txt 
+problem |problem 			0.13750352374993502
+#1.txt 
+studying |studying 			0.13750352374993502
+#1.txt 
+coverage |coverage 			0.13750352374993502
+#1.txt 
+term |terms 			0.13750352374993502
+#1.txt 
+wikipedia |Wikipedia 			0.13750352374993502
+#1.txt 
+concept |concepts 			0.0
+#1.txt 
+application |applications 			0.0
+#1.txt 

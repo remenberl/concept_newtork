@@ -1,0 +1,1 @@
+In this chapter, we introduce the family of spectral clustering algorithms which have seen an explosive development over the past decade and a good number of papers have been published along this line, especially after [37] and [43].

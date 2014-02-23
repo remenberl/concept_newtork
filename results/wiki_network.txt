@@ -1,0 +1,3642 @@
+22442	9842	1	trie	directed acyclic graph
+16496	20155	1	relational calculus	relational algebra
+11345	502	1	signal processing	image processing
+16851	11815	1	virtual memory	computer architecture
+22920	16989	1	stemming	google search
+17986	18995	1	undirected graphical model	conditional random field
+8181	2750	1	permutation	factorial
+8150	17011	1	mp3	amazon.com
+1897	5355	1	lpboost	adaboost
+12676	14092	1	probability distribution	exponentially
+8293	8658	1	wilcoxon signed-rank test	non-parametric
+9146	9291	1	longest common subsequence	edit distance
+18346	3188	1	semiring	natural number
+4160	3932	1	ontologically	mereology
+819	7808	1	lazy learning	k-nearest neighbor
+12787	4715	1	xpath	query language
+182	50	1	gene finding	dna
+1109	13076	1	stochastic process	entropy rate
+8241	11432	1	representation theory	fourier transform
+21546	10906	1	stratified sampling	sampling
+6908	8839	1	ontological engineering	artificial intelligence
+15351	11117	1	svm	relevance vector machine
+4660	8070	1	mean reciprocal rank	information retrieval
+8620	11845	1	co-np-complete	boolean satisfiability
+6623	21314	1	point estimates	interval estimation
+23191	12714	1	markov chain monte carlo	bayesian inference
+5987	21023	1	lambda calculus	functional programming
+5478	6522	1	roc curves	data mining
+14197	1916	1	fuzzy logic	expert system
+22459	3829	1	uniformly	normally distributed
+7780	4886	1	propositional formula	conjunctive normal form
+22227	824	1	lazy evaluation	functional languages
+13181	17981	1	model theory	mathematical logic
+14300	50	1	genome	dna
+12830	7232	1	os/2	ms-dos
+21994	1426	1	multilayer perceptron	backpropagation
+4950	5892	1	object query language	object-oriented databases
+14606	16743	1	w3c	html
+19036	12144	1	marginal likelihood	bayes factor
+20181	23135	1	feature detection	edge
+19339	14387	1	partition function	gibbs measure
+117	12471	1	power set	finite set
+20287	14063	1	world wide web	deep web
+6529	16502	1	molecular biology	bacteria
+2170	828	1	microarrays	bioinformatics
+434	900	1	poisson regression	generalized linear model
+7024	15737	1	error function	closed form
+7708	82	1	database theory	conjunctive query
+10163	6362	1	earley parser	chart parser
+929	3280	1	object-oriented programming	inherit
+16325	13173	1	variance	distribution
+14294	6167	1	poisson process	exponential distribution
+468	4021	1	statistical graphics	information graphics
+10185	4138	1	inference rules	logical calculi
+9351	6528	1	language	context-free language
+10742	17792	1	vertex cover	independent set
+5395	929	1	sun microsystems	object-oriented programming
+15218	13342	1	data modeling	conceptual data model
+16726	828	1	single-nucleotide polymorphism	bioinformatics
+17375	9842	1	free tree	directed acyclic graph
+8152	23063	1	nodes	network topology
+20714	7448	1	spaces of square-integrable functions	hilbert space
+10404	3025	1	riemannian manifold	shortest path
+4634	20797	1	statistical machine translation	example-based machine translation
+8959	15650	1	truecasing	natural language processing
+12355	8596	1	smalltalk	object-oriented
+12102	6454	1	multiple comparisons	analysis of variance
+12355	1386	1	smalltalk	message passing
+10191	18918	1	stochastic context-free grammars	inside/outside algorithms
+13366	6861	1	stochastic optimization	simulated annealing
+23130	3160	1	functional analysis	calculus of variations
+19646	8839	1	learning	artificial intelligence
+3490	20724	1	normal populations	anovas
+8294	2750	1	recursively	factorial
+15983	7752	1	spectral theorem	diagonal matrix
+23413	5162	1	view	microsoft sql server
+19880	4594	1	zipf's law	corpus
+4126	2784	1	microprocessor	integrated circuit
+7835	18037	1	theoretical computer science	symposium on foundations of computer science
+7091	9730	1	graph theory	discrete mathematics
+4370	20123	1	data structure	data model
+1122	16743	1	web browser	html
+20489	14430	1	web feed	rss
+15687	16913	1	hash table	hash function
+12883	17703	1	asymptotic	analysis of
+11862	15687	1	self-balancing binary search tree	hash table
+19043	16743	1	world wide web consortium	html
+1307	22509	1	internet slang	instant messaging
+16851	13406	1	virtual memory	virtual machine
+15983	19027	1	spectral theorem	eigendecomposition
+16764	18884	1	mahalanobis distance	covariance matrix
+6095	20251	1	tikhonov	singular value decomposition
+11517	16980	1	linguistics	generativist theory
+15710	6858	1	resampling	particle filter
+739	6614	1	genetic algorithm	algorithm
+13636	5918	1	poisson	normal distribution
+3547	17704	1	formulas	syntactic
+17321	19373	1	occam's razor	akaike information criterion
+1770	16496	1	relational model	relational calculus
+4126	14505	1	microprocessor	central processing unit
+5413	16522	1	superposition principle	convolution
+2784	13567	1	integrated circuit	electrical engineering
+1373	8839	1	darpa	artificial intelligence
+12471	4468	1	finite set	empty set
+12646	6260	1	type i error	sensitivity and specificity
+13212	13580	1	concurrent computing	concurrent
+1258	7448	1	matrix	hilbert space
+20976	13869	1	linear dynamical system	hidden markov model
+22079	12614	1	operating system	microsoft
+1769	14197	1	rough set	fuzzy logic
+6720	10446	1	global serializability	federated database system
+1395	21671	1	markov decision	dynamic programming
+21012	4370	1	perl	data structure
+10808	1447	1	theory	decidable
+20501	16502	1	gene expression	bacteria
+16750	11002	1	web server	os
+12941	1210	1	oracle database	schemas
+1506	11232	1	linear discriminant analysis	kernel trick
+7544	19170	1	vector space	order
+18355	5948	1	national aeronautics and space administration	advanced research projects agency
+23088	16613	1	c	array
+12662	16743	1	javascript	html
+17678	4927	1	unix	pdp-11/50
+14463	19979	1	software engineering	software architecture
+2682	11065	1	programming tool	program
+11836	2110	1	partial differential equation	differential equation
+12284	21089	1	relational database	ibm almaden research center
+7822	17528	1	pointwise mutual information	information theory
+15030	7800	1	quasi-newton	hessian matrix
+4219	13543	1	shape parameter	gamma distribution
+2831	12601	1	usenet news	peer-to-peer
+10615	749	1	triangle inequality	norm
+13226	20719	1	standard deviation	robust
+8183	7952	1	microsoft visual studio	sql server
+13812	11857	1	linear map	linear functional
+20251	6458	1	singular value decomposition	curse of dimensionality
+23380	10217	1	kolmogorov complexity	grammar induction
+18899	10988	1	subroutine	programming language
+19946	3444	1	noun phrase	noun
+19880	19800	1	zipf's law	power law
+20910	15650	1	parsing	natural language processing
+19716	17565	1	statistical inference	econometrics
+8554	17	1	self-similarity	fractal
+23151	15147	1	theorem	derivation
+21816	3925	1	statistical power	null hypothesis
+5300	1199	1	personal information management	cognitive science
+11368	3233	1	medical imaging	image registration
+12355	5177	1	smalltalk	lisp
+16105	7990	1	unsupervised learning	artificial neural network
+10440	23568	1	how to solve it	heuristic
+18578	20845	1	xslt	declarative
+10277	15322	1	qr decomposition	decomposition
+6989	14860	1	independent component analysis	blind signal separation
+11444	3435	1	machine learning	computer vision
+23085	14196	1	nearest neighbor search	dimension reduction
+10858	1947	1	microsoft word	macintosh
+17261	7009	1	deductive reasoning	abductive reasoning
+17851	9653	1	simd	cell processor
+5918	8462	1	normal distribution	maximum likelihood
+16061	6416	1	forward chaining	backward chaining
+1916	6619	1	expert system	ai
+23450	12000	1	greedy algorithm	distributed hash table
+4612	7194	1	n-gram	language model
+1967	12147	1	ibm	hewlett-packard
+4799	17760	1	minimax algorithm	computer chess
+20287	12895	1	world wide web	semantic web
+11173	1506	1	principal component analysis	linear discriminant analysis
+8622	9574	1	boolean algebra	algebraic structure
+233	4468	1	union	empty set
+17434	17113	1	graphical user interface	computer-aided design
+22982	3838	1	posterior probability	bayes' theorem
+6186	9164	1	stored procedure	postgresql
+5604	17638	1	folding pathway	molecular dynamics
+1230	486	1	linear dynamic system	kalman filter
+13498	20300	1	visualization	vistrails
+10709	5445	1	statistical models for machine translation	machine translation
+21784	2524	1	temporal logic	modal logic
+8717	11990	1	quantifier	logic
+3297	11688	1	testers	software engineers
+10749	8467	1	tests of significance	test of significance
+11022	21673	1	multidimensional scaling	isotonic regression
+5162	1564	1	microsoft sql server	database management system
+8083	19397	1	ontology	abstract
+22767	9576	1	relational operator	common lisp
+12876	16848	1	function space	domain theory
+8383	21529	1	prolog	backtracking
+12589	13261	1	prior probability distributions	principle of maximum entropy
+3409	2524	1	propositional calculus	modal logic
+12942	6096	1	subset	line segment
+624	3435	1	edges	computer vision
+5610	12496	1	knapsack problem	complexity theory
+19979	11815	1	software architecture	computer architecture
+6510	11818	1	fundamental matrix	point correspondences
+12601	8152	1	peer-to-peer	nodes
+8733	5565	1	flickr	api
+10671	3838	1	prior probability	bayes' theorem
+8855	20154	1	regression analysis	linear regression
+11375	22922	1	w3c xml schema	xml schema languages
+19829	13416	1	modular	cryptography
+12942	8131	1	subset	mathematics
+8383	20845	1	prolog	declarative
+12818	8839	1	physical symbol system	artificial intelligence
+13416	6276	1	cryptography	computer science
+19642	3160	1	optimal control	calculus of variations
+13854	3154	1	numerical stability	numerical analysis
+2626	10801	1	metric space	closure
+10567	13986	1	dot product	cross-products
+4886	17913	1	conjunctive normal form	satisfiability
+8131	7091	1	mathematics	graph theory
+19176	1085	1	transitive closure	second-order logic
+16465	20155	1	sql	relational algebra
+16325	12676	1	variance	probability distribution
+16851	22079	1	virtual memory	operating system
+18526	21112	1	game theory	fictitious play
+20184	19506	1	behavioral targeting	aol
+4498	10466	1	web mining	text mining
+20545	13943	1	university of california, berkeley	stanford
+12895	20430	1	semantic web	ontologies
+15753	12662	1	scripting language	javascript
+21467	2666	1	uniformly convergent	compact
+21061	5162	1	views	microsoft sql server
+7886	8131	1	set theory	mathematics
+9620	7448	1	quantum mechanics	hilbert space
+4580	11050	1	analytic manifold	curve
+1059	6720	1	serializability	global serializability
+12793	2334	1	euclidean geometry	axiomatic system
+11815	14505	1	computer architecture	central processing unit
+10972	21209	1	pierre-simon laplace	bayesian
+8615	10967	1	database normalization	data warehouse
+7194	8070	1	language model	information retrieval
+21348	16463	1	certain axioms	superposition
+15192	15680	1	polynomial-time approximation	approximation algorithm
+10988	929	1	programming language	object-oriented programming
+9620	6019	1	quantum mechanics	particle physics
+22676	17851	1	sse	simd
+13366	13101	1	stochastic optimization	global optimization
+929	560	1	object-oriented programming	abstract data type
+20845	12619	1	declarative	control flow
+19716	11418	1	statistical inference	bayesian priors
+7695	13542	1	significance testing	confidence interval
+18463	11213	1	lexical functional grammar	generative grammar
+7356	11615	1	web crawler	search engine spamming
+20739	8507	1	analysis	discrete problems
+16913	6616	1	hash function	bloom filter
+12236	17995	1	trustrank	pagerank
+19638	8615	1	third normal form	database normalization
+20649	6180	1	translation memory	text corpus
+13977	10988	1	supercomputer	programming language
+15690	1373	1	nsf	darpa
+15511	9362	1	inner product	complete inner product space
+9604	14371	1	search	constraint satisfaction
+4372	6180	1	parsed corpora	text corpus
+1772	21431	1	k-medians clustering	k-means
+9601	2180	1	resource description	foaf
+11444	6614	1	machine learning	algorithm
+11309	1563	1	conditional probability	conditional expectation
+3154	2658	1	numerical analysis	floating point
+6074	21821	1	topological sorting	dag
+11065	702	1	program	batch process
+10671	13261	1	prior probability	principle of maximum entropy
+15473	18883	1	transitive relation	reflexive
+11091	11368	1	segmentation	medical imaging
+8131	12926	1	mathematics	lie group
+17464	22834	1	modulo	equivalence relation
+12529	2072	1	nvidia	gpgpu
+12355	4856	1	smalltalk	corba
+1277	10679	1	hosted services	web 2.0
+3154	2911	1	numerical analysis	mathematical analysis
+21648	9561	1	wsdl	web service
+21942	23455	1	densities	expected value
+15218	11850	1	data modeling	abstraction
+14905	11538	1	statistical classification	quadratic classifier
+13226	1955	1	standard deviation	log-normal distribution
+11815	16077	1	computer architecture	cpu
+7356	3730	1	web crawler	vertical search engines
+8106	12482	1	phrase structure rules	phrase structure grammar
+18227	22251	1	systems biology	proteomics
+20495	2377	1	fourier series	basis set
+20278	7765	1	hypergraph	graph
+6468	16496	1	tuple relational calculus	relational calculus
+19176	21888	1	transitive closure	binary relation
+7560	6483	1	logic programming	constraint logic programming
+22969	20184	1	personalization	behavioral targeting
+8308	18979	1	deductive database	datalog
+20087	19310	1	database	data manipulation language
+4929	19119	1	linear programming	interior-point techniques
+20251	11288	1	singular value decomposition	latent semantic analysis
+10108	12144	1	likelihood	bayes factor
+22647	21977	1	depth-first order	backtracks
+7855	6601	1	neuroimaging	image
+12986	18036	1	linear algebra	invertible matrix
+1109	1443	1	stochastic process	random field
+5041	7796	1	number theory	congruences
+19339	19339	1	partition function	partition function
+15268	3164	1	social bookmarking	digg
+10834	20495	1	orthonormal basis	fourier series
+23292	20923	1	steganography	watermarking
+5177	8839	1	lisp	artificial intelligence
+20495	3824	1	fourier series	basel problem
+18739	20045	1	oracle	linux
+6580	20353	1	planar graph	connected
+8241	20190	1	representation theory	matrices
+20943	16074	1	neuroscience	networks of neurons
+20115	1832	1	id3	c4.5 algorithm
+486	13869	1	kalman filter	hidden markov model
+5918	9872	1	normal distribution	generalized normal
+162	21671	1	memoization	dynamic programming
+5518	50	1	messenger rna	dna
+6235	18897	1	moore's law	digital camera
+22079	22726	1	operating system	nextstep
+5103	11432	1	mass spectrometry	fourier transform
+21462	4699	1	functor	differentiable manifold
+18959	224	1	etl	data integration
+22912	18931	1	topic maps	concept map
+10608	6461	1	vax-11	pdp-11
+20287	7101	1	world wide web	malware
+23292	13416	1	steganography	cryptography
+7544	2741	1	vector space	convex set
+19178	937	1	least squares	convex optimization
+8131	23130	1	mathematics	functional analysis
+4352	847	1	residuals	sample mean
+233	117	1	union	power set
+1569	11202	1	loss function	decision theory
+50	6522	1	dna	data mining
+20036	8885	1	type theory	first-order formula
+6416	8839	1	backward chaining	artificial intelligence
+19584	13051	1	semantics	pragmatics
+11987	22301	1	sketch recognition	gesture recognition
+11368	7018	1	medical imaging	inverse problem
+20116	5971	1	formal specification	formal methods
+16105	11444	1	unsupervised learning	machine learning
+23159	11288	1	probabilistic latent semantic analysis	latent semantic analysis
+19102	21239	1	statistical mechanics	probability theory
+10310	3779	1	supervised learning	boosting
+11923	8333	1	tree	trees
+7285	8124	1	soundness	completeness
+4523	4478	1	stopping time	martingale
+7491	2253	1	classifying	binary classification
+15983	4344	1	spectral theorem	eigendecomposition of a matrix
+21261	6481	1	syntactic rules	morphological
+6989	21851	1	independent component analysis	factor analysis
+1369	11065	1	source code	program
+9561	23417	1	web service	service-oriented architecture
+20251	14196	1	singular value decomposition	dimension reduction
+17877	10404	1	vector field	riemannian manifold
+559	20943	1	vision	neuroscience
+4036	7260	1	centroid	center of mass
+1829	20270	1	petri net	bipartite
+17528	18315	1	information theory	data compression
+8383	11990	1	prolog	logic
+6283	21547	1	recommender system	movielens
+17134	17082	1	java	compiled
+19107	18618	1	nonlinear programming	branch and bound
+6580	9672	1	planar graph	3-connected
+7124	13547	1	python	float
+12905	13979	1	neural network	connectionistic
+19102	8771	1	statistical mechanics	phase space
+17090	17517	1	compiler	abstract interpretation
+1814	5290	1	transaction processing	mainframes
+16105	10310	1	unsupervised learning	supervised learning
+8106	18463	1	phrase structure rules	lexical functional grammar
+15918	21195	1	projective space	affine space
+9967	18979	1	query	datalog
+21398	7025	1	correlation clustering	clustering process
+8131	11990	1	mathematics	logic
+7820	5918	1	poisson random variables	normal distribution
+16325	5628	1	variance	heavy-tailed distribution
+22079	7232	1	operating system	ms-dos
+23088	13761	1	c	arity
+17678	7232	1	unix	ms-dos
+11444	8839	1	machine learning	artificial intelligence
+16856	21564	1	temporal difference learning	reinforcement learning
+1831	1258	1	sparse	matrix
+649	4999	1	latent dirichlet allocation	bag of words model
+5041	2750	1	number theory	factorial
+12284	19917	1	relational database	object database
+22944	12326	1	extract, transform, load	data warehousing
+1209	18526	1	voting system	game theory
+11855	8885	1	types	first-order formula
+7124	929	1	python	object-oriented programming
+3409	5904	1	propositional calculus	logical connective
+23151	11603	1	theorem	formal language
+8070	16802	1	information retrieval	controlled vocabulary
+15272	9870	1	wordnet	machine-readable dictionary
+20181	15207	1	feature detection	corner
+3779	5355	1	boosting	adaboost
+1564	4265	1	database management system	column-oriented dbms
+13227	7448	1	spherical harmonics	hilbert space
+358	3409	1	well-formed formula	propositional calculus
+4886	5442	1	conjunctive normal form	2-sat
+17528	4966	1	information theory	cross entropy
+11517	5958	1	linguistics	computational linguistics
+16958	3574	1	continuous function	compact space
+9145	18207	1	quadratic programming	linear program
+12030	17134	1	oracle corporation	java
+21791	20116	1	formal verification	formal specification
+6191	3233	1	mutual information	image registration
+607	22133	1	heuristic function	admissible
+10466	5519	1	text mining	sentiment analysis
+9541	3925	1	rejects a true null hypothesis	null hypothesis
+14368	16855	1	lotus notes	collaborative
+10310	16351	1	supervised learning	empirical risk minimization
+2020	560	1	type system	abstract data type
+7448	2666	1	hilbert space	compact
+7091	14830	1	graph theory	breadth-first search
+2941	6473	1	xquery	xml
+23159	13135	1	probabilistic latent semantic analysis	latent class model
+23037	11288	1	latent semantic indexing	latent semantic analysis
+17703	6614	1	analysis of	algorithm
+14014	12905	1	perceptron	neural network
+7320	4143	1	visual perception	motion perception
+11793	17076	1	reduplication	inflection
+12895	7815	1	semantic web	inference
+23266	23151	1	formal theory	theorem
+7091	6249	1	graph theory	combinatorics
+11953	18884	1	multivariate normal distribution	covariance matrix
+20495	8726	1	fourier series	discrete cosine transform
+5987	16848	1	lambda calculus	domain theory
+13341	20740	1	multivalued dependency	functional dependencies
+18090	19946	1	relative clause	noun phrase
+3981	11309	1	likelihood function	conditional probability
+5952	7990	1	backpropagation algorithm	artificial neural network
+20278	23135	1	hypergraph	edge
+10033	15650	1	speech recognition	natural language processing
+23490	19101	1	np-complete	deterministic algorithm
+21500	2072	1	stream processing	gpgpu
+10042	10856	1	robust regression	m-estimation
+21239	8284	1	probability theory	probability
+3188	8131	1	natural number	mathematics
+16174	2334	1	recursion	axiomatic system
+9504	23455	1	random variable	expected value
+19472	9198	1	formal concept analysis	biclustering
+2030	21012	1	programming paradigm	perl
+19999	9213	1	grid computing	cloud computing
+5526	17090	1	languages	compiler
+16370	9517	1	power method	page rank
+3167	7990	1	connectionism	artificial neural network
+16325	2924	1	variance	density
+7091	15693	1	graph theory	coloring graphs
+19845	12030	1	timesten	oracle corporation
+6861	13101	1	simulated annealing	global optimization
+13075	14479	1	euclidean n-space	euclidean metric
+14003	23070	1	spearman's rank correlation coefficient	pearson product-moment correlation coefficient
+9086	6614	1	parallel algorithm	algorithm
+4929	22068	1	linear programming	linear inequality
+21239	21778	1	probability theory	probabilistic logic
+17528	13332	1	information theory	source coding
+14731	7090	1	antecedent distributions	decision rule
+11609	8143	1	qt	h.264/mpeg-4 avc
+9620	11421	1	quantum mechanics	deterministic
+14298	5987	1	rewriting	lambda calculus
+16549	13051	1	speech act theory	pragmatics
+2067	11581	1	john mccarthy	frame problem
+15984	12219	1	regression	multinomial logit
+9620	23052	1	quantum mechanics	causality
+1045	3167	1	emergence	connectionism
+6550	14410	1	data stream mining	concept drift
+11730	8383	1	owl	prolog
+9601	14643	1	resource description	rdf schema
+514	11859	1	multi-document summarization	summarizing a single document
+12638	17565	1	ordinary least squares	econometrics
+19245	20231	1	ip address	computer network
+9132	11755	1	transistor	cmos
+3050	20735	1	metadata	data dictionaries
+10863	20910	1	shallow parsing	parsing
+20196	6075	1	olap	business intelligence
+997	17090	1	top-down	compiler
+21990	23052	1	determinism	causality
+17528	2823	1	information theory	conditional entropy
+11836	20495	1	partial differential equation	fourier series
+15753	18111	1	scripting language	programming in the large and programming in the small
+6861	20081	1	simulated annealing	metaheuristic
+895	21471	1	mainframe computer	terminals
+12916	8701	1	protein structure prediction	multiple sequence alignment
+8383	8839	1	prolog	artificial intelligence
+11815	23088	1	computer architecture	c
+11923	7042	1	tree	spanning tree
+11836	20105	1	partial differential equation	ordinary differential equation
+741	23334	1	terminology extraction	information extraction
+749	15144	1	norm	convex function
+19716	16645	1	statistical inference	descriptive statistics
+19223	7124	1	regular expression	python
+17678	20545	1	unix	university of california, berkeley
+15944	12905	1	pattern	neural network
+11538	1506	1	quadratic classifier	linear discriminant analysis
+1602	9703	1	robust statistics	m-estimator
+22079	19823	1	operating system	batch processing
+5219	9112	1	head-driven phrase structure grammar	feature structure
+6186	13030	1	stored procedure	db2
+2109	14115	1	functional magnetic resonance imaging	electroencephalography
+11990	11603	1	logic	formal language
+10749	1880	1	tests of significance	test
+18304	5041	1	quadratic form	number theory
+23159	2583	1	probabilistic latent semantic analysis	non-negative matrix factorization
+20181	21501	1	feature detection	corner detection
+9620	11857	1	quantum mechanics	linear functional
+23085	16542	1	nearest neighbor search	cluster analysis
+7091	16525	1	graph theory	graph rewriting
+3154	9730	1	numerical analysis	discrete mathematics
+16487	16743	1	hypertext transfer protocol	html
+8620	21969	1	co-np-complete	co-np
+1164	13181	1	proof theory	model theory
+6473	14430	1	xml	rss
+17766	23052	1	counterfactual conditional	causality
+9538	2253	1	confusion matrix	binary classification
+13262	22919	1	orthonormality	orthogonal
+20753	12895	1	search engine	semantic web
+21582	1373	1	national science foundation	darpa
+6695	7009	1	inductive reasoning	abductive reasoning
+20719	11202	1	robust	decision theory
+13366	14785	1	stochastic optimization	cma-es
+8734	3435	1	content-based image retrieval	computer vision
+6522	22161	1	data mining	association rule learning
+15650	17528	1	natural language processing	information theory
+20172	3091	1	youtube	user-generated
+22718	6614	1	huffman tree	algorithm
+8131	18913	1	mathematics	calculus
+12788	8839	1	hill climbing	artificial intelligence
+14826	11517	1	syntax	linguistics
+2456	15916	1	strong strict two-phase locking	concurrency control
+12638	5918	1	ordinary least squares	normal distribution
+14470	14820	1	social network	social capital
+10404	2626	1	riemannian manifold	metric space
+17245	2792	1	statistical significance	powerful
+10988	4370	1	programming language	data structure
+17946	10423	1	support vector machine	least squares support vector machine
+20490	100	1	twitter	denial-of-service attack
+20136	14905	1	statistics	statistical classification
+10988	11367	1	programming language	flow of execution
+17704	19322	1	syntactic	part of speech
+16331	15650	1	part-of-speech tagging	natural language processing
+11990	17392	1	logic	inductive logic
+15307	19828	1	server	web cache
+12638	4888	1	ordinary least squares	unbiased
+22369	1705	1	probability density function	density estimation
+117	8622	1	power set	boolean algebra
+9504	22369	1	random variable	probability density function
+21267	21439	1	first order predicate calculus	automated theorem proving
+21233	21631	1	web search engine	google
+11432	5642	1	fourier transform	discrete fourier transform
+6096	11050	1	line segment	curve
+14826	6481	1	syntax	morphological
+21012	17432	1	perl	imdb
+5237	15621	1	spearman	correlation and dependence
+2353	937	1	semidefinite programming	convex optimization
+12988	10033	1	viterbi algorithm	speech recognition
+4729	8839	1	evolutionary computation	artificial intelligence
+19572	23029	1	sorting algorithm	quicksort
+2195	19521	1	influence diagram	probabilistic inference
+14371	14371	1	constraint satisfaction	constraint satisfaction
+749	10070	1	norm	lp
+7544	20190	1	vector space	matrices
+20713	22163	1	procedural knowledge	descriptive knowledge
+17995	2618	1	pagerank	open directory project
+12676	15917	1	probability distribution	normally
+608	16613	1	cobol	array
+6227	19571	1	sociology	variables
+1492	21671	1	tower of hanoi	dynamic programming
+4563	11252	1	graph labeling	graph coloring
+3188	420	1	natural number	cardinality
+10466	7694	1	text mining	text analytics
+502	6276	1	image processing	computer science
+7448	23130	1	hilbert space	functional analysis
+20613	20210	1	single-linkage clustering	hierarchical clustering
+19827	11845	1	horn clause	boolean satisfiability
+19999	7274	1	grid computing	computer cluster
+17134	23088	1	java	c
+15934	8296	1	spectral graph theory	adjacency matrix
+8658	12411	1	non-parametric	kernel density estimation
+14826	15864	1	syntax	optimality theory
+23151	3409	1	theorem	propositional calculus
+16481	1613	1	scientific visualization	computer simulation
+4715	17803	1	query language	oql
+17868	7886	1	topology	set theory
+7448	20495	1	hilbert space	fourier series
+17833	271	1	spamdexing	spam blog
+2741	7363	1	convex set	function
+21397	20606	1	field-programmable gate array	asic
+23100	12523	1	operations research	assignment problem
+11836	12926	1	partial differential equation	lie group
+9929	8330	1	context-sensitive grammar	context-free grammar
+7544	636	1	vector space	dimension
+16750	4865	1	web server	scripted
+8304	10033	1	word error rate	speech recognition
+1369	10988	1	source code	programming language
+10770	19626	1	software agent	intelligent agent
+8131	7806	1	mathematics	change
+17186	12408	1	maximum-likelihood	biased
+2480	19243	1	tree-adjoining grammars	indexed
+11202	21532	1	decision theory	decision support system
+18979	82	1	datalog	conjunctive query
+12238	14115	1	fmri	electroencephalography
+22079	20045	1	operating system	linux
+18648	18995	1	discriminative training	conditional random field
+7091	9691	1	graph theory	distance matrix
+2746	11990	1	temporal	logic
+16465	20087	1	sql	database
+2960	1045	1	self-organization	emergence
+8812	486	1	simultaneous localization and mapping	kalman filter
+23455	132	1	expected value	estimate
+7448	11432	1	hilbert space	fourier transform
+5274	5918	1	t-tests	normal distribution
+13072	19716	1	statistical model	statistical inference
+6111	18300	1	topological	manifold
+10163	3862	1	earley parser	cyk algorithm
+14014	2019	1	perceptron	logistic regression
+11776	23490	1	parameterization	np-complete
+20287	15384	1	world wide web	browsers
+929	22557	1	object-oriented programming	inheritance
+18089	18618	1	search algorithm	branch and bound
+19946	6797	1	noun phrase	determiner
+18714	8627	1	weighted mean	convex combination
+8142	22371	1	rete algorithm	inference engine
+4568	6837	1	cognitive architecture	act-r
+8181	4689	1	permutation	n
+12676	16522	1	probability distribution	convolution
+117	12876	1	power set	function space
+7856	7864	1	software as a service	customer relationship management
+9265	15144	1	positive semidefinite	convex function
+4718	1446	1	maximum likelihood estimates	fisher information
+9164	9196	1	postgresql	object-relational database management system
+20115	11752	1	id3	decision tree
+11803	8701	1	pairwise alignment	multiple sequence alignment
+12694	3435	1	optical character recognition	computer vision
+193	13543	1	poisson distribution	gamma distribution
+7832	18810	1	logarithm	isomorphism
+17884	21443	1	maximum a posteriori estimation	bayes estimator
+5642	16522	1	discrete fourier transform	convolution
+11923	8701	1	tree	multiple sequence alignment
+21023	5184	1	functional programming	denotational semantics
+10404	2171	1	riemannian manifold	metric
+21532	12326	1	decision support system	data warehousing
+21249	12223	1	multi-user mimo	mimo
+1770	5162	1	relational model	microsoft sql server
+5959	18315	1	vector quantization	data compression
+11517	1199	1	linguistics	cognitive science
+6235	4126	1	moore's law	microprocessor
+12676	11614	1	probability distribution	dirichlet distribution
+9292	13731	1	regularization	bayesian information criterion
+8696	2060	1	theoretical linguistics	morpheme
+2944	17704	1	wh-movement	syntactic
+22432	17703	1	upper bound or limit	analysis of
+1258	12986	1	matrix	linear algebra
+17372	9566	1	magnetic resonance imaging	diffusion mri
+12521	1006	1	exponential families	exponential
+7693	3327	1	portuguese	bengali
+7135	14539	1	hypothesis tests	bootstrapping
+16768	6619	1	chinese room	ai
+18173	14539	1	resamples	bootstrapping
+4881	10033	1	speech synthesis	speech recognition
+5041	17979	1	number theory	modular arithmetic
+19809	1199	1	connectionist/neural network models	cognitive science
+9291	20499	1	edit distance	approximate string matching
+8749	15234	1	symmetric positive-semidefinite matrices	design of optimal experiments
+5918	4850	1	normal distribution	gaussian process
+22676	16077	1	sse	cpu
+5395	19741	1	sun microsystems	processor
+22742	3233	1	medical image	image registration
+16174	2201	1	recursion	mathematical induction
+17678	20045	1	unix	linux
+5274	3829	1	t-tests	normally distributed
+5549	18452	1	separation of concerns	modular programming
+9504	12676	1	random variable	probability distribution
+20649	5445	1	translation memory	machine translation
+14146	1877	1	complete graph	complete bipartite graph
+15864	13845	1	optimality theory	linguistic
+1258	13812	1	matrix	linear map
+3154	14268	1	numerical analysis	finite precision
+16750	16487	1	web server	hypertext transfer protocol
+15561	13212	1	distributed	concurrent computing
+14014	21994	1	perceptron	multilayer perceptron
+6096	3969	1	line segment	convex hull
+8936	18510	1	type	differential geometry
+15268	13368	1	social bookmarking	delicious
+19043	18787	1	world wide web consortium	rdf
+678	4608	1	standard normal	jointly normal
+11444	828	1	machine learning	bioinformatics
+6276	4459	1	computer science	computational geometry
+10988	16743	1	programming language	html
+22647	21529	1	depth-first order	backtracking
+9954	17703	1	computational complexity theory	analysis of
+6323	12623	1	pareto optimal	nash equilibrium
+16325	19324	1	variance	independent
+13226	3829	1	standard deviation	normally distributed
+11752	7990	1	decision tree	artificial neural network
+3409	8622	1	propositional calculus	boolean algebra
+12662	10445	1	javascript	acrobat
+10988	5987	1	programming language	lambda calculus
+7320	11805	1	visual perception	perception of motion
+502	3435	1	image processing	computer vision
+13049	2019	1	multinomial logit model	logistic regression
+20519	12623	1	strategy	nash equilibrium
+21245	16645	1	inferential statistics	descriptive statistics
+2859	12787	1	xpath 2.0	xpath
+14905	23220	1	statistical classification	group membership probabilities
+17678	14463	1	unix	software engineering
+18330	10534	1	power	statistical test
+12403	9789	1	memories	hippocampus
+13435	17638	1	protein folding	molecular dynamics
+17186	8027	1	maximum-likelihood	bias
+20155	21642	1	relational algebra	aggregate function
+21398	3758	1	correlation clustering	clustering high-dimensional data
+3758	19286	1	clustering high-dimensional data	clustering algorithm
+12411	11523	1	kernel density estimation	estimating
+17927	18315	1	gzip	data compression
+21955	11805	1	visual cortex	perception of motion
+15218	640	1	data modeling	conceptual schema
+5394	21013	1	linked data	dbpedia
+9143	15239	1	program optimization	algorithmic efficiency
+12646	14205	1	type i error	tests
+22342	3779	1	margin classifier	boosting
+18089	8259	1	search algorithm	best-first
+20287	9656	1	world wide web	hypertext
+17090	13881	1	compiler	assembly language
+17464	11348	1	modulo	integer
+9561	17134	1	web service	java
+16465	14771	1	sql	ibm san jose research laboratory
+15063	5483	1	projective geometry	ellipse
+7174	420	1	equivalence class	cardinality
+6042	1258	1	sparse matrices	matrix
+22920	1990	1	stemming	lemmatisation
+19361	9371	1	lipschitz continuity	continuous
+16278	6619	1	cyc	ai
+9504	15015	1	random variable	multivariate random variable
+11857	21229	1	linear functional	dual space
+18027	23178	1	video compression picture types	macroblock
+4380	4126	1	minicomputer	microprocessor
+12355	1947	1	smalltalk	macintosh
+22917	17	1	recursive	fractal
+6841	18315	1	entropy encoding	data compression
+11730	14190	1	owl	daml
+11495	11202	1	hypothesis testing	decision theory
+1564	15916	1	database management system	concurrency control
+7009	19489	1	abductive reasoning	abductive logic programming
+2941	16465	1	xquery	sql
+23306	7355	1	outlier	mixture model
+17076	3327	1	inflection	bengali
+162	6614	1	memoization	algorithm
+19279	20181	1	scale-invariant feature transform	feature detection
+15690	20220	1	nsf	defense advanced research projects agency
+14183	9954	1	randomized algorithm	computational complexity theory
+6861	6899	1	simulated annealing	monte carlo
+21408	6588	1	predicate logic	universe under discussion
+16851	15610	1	virtual memory	ram
+8812	16252	1	simultaneous localization and mapping	kalman filtering
+21191	8083	1	ontology engineering	ontology
+16514	12979	1	system of linear equations	linear combination
+13258	16053	1	browsing	mobile phone
+15239	9783	1	algorithmic efficiency	well-defined procedure
+20287	2910	1	world wide web	http
+2649	8855	1	stepwise regression	regression analysis
+14470	12555	1	social network	knowledge management
+15272	20562	1	wordnet	similarity
+8297	17564	1	gpu	general purpose graphics processing unit
+22243	13051	1	speech act theory's	pragmatics
+19716	21314	1	statistical inference	interval estimation
+3657	11603	1	formal system	formal language
+7124	2658	1	python	floating point
+4676	9070	1	universal grammar	linguist
+21564	11601	1	reinforcement learning	q-learning
+13635	13133	1	software testing	code coverage
+3414	20837	1	polysemy	metonym
+16514	10067	1	system of linear equations	compressed sensing
+11688	9258	1	software engineers	software development
+17833	17995	1	spamdexing	pagerank
+17851	10578	1	simd	graphics processing unit
+15269	7091	1	planar	graph theory
+23451	11657	1	declarative programming	constraint programming
+9219	11517	1	morphology	linguistics
+3025	7091	1	shortest path	graph theory
+15997	11252	1	#p-hard	graph coloring
+7519	9290	1	classifier	random forest
+2784	8683	1	integrated circuit	asics
+19572	8181	1	sorting algorithm	permutation
+16745	8839	1	genetic programming	artificial intelligence
+13923	15280	1	supervised	discriminative model
+3719	11309	1	conditional probability distribution	conditional probability
+420	10221	1	cardinality	cardinal number
+9292	17332	1	regularization	overfitting
+16210	6967	1	query plan	query optimizer
+7886	12471	1	set theory	finite set
+10955	7124	1	unicode	python
+8145	12916	1	sequence alignment	protein structure prediction
+21132	12968	1	normal	exponential family
+7544	4931	1	vector space	lebesgue spaces
+564	17009	1	defeasible reasoning	belief revision
+6227	13845	1	sociology	linguistic
+10988	23088	1	programming language	c
+15780	8839	1	swarm intelligence	artificial intelligence
+18787	3050	1	rdf	metadata
+2444	12147	1	stanford university	hewlett-packard
+1059	8013	1	serializability	distributed transaction
+13731	13471	1	bayesian information criterion	aic
+10905	20104	1	robotics	humanoid robot
+14826	8106	1	syntax	phrase structure rules
+13151	19176	1	transitive	transitive closure
+20739	21360	1	analysis	harmonic analysis
+4463	11421	1	ontological	deterministic
+19361	16958	1	lipschitz continuity	continuous function
+9214	17760	1	computer go	computer chess
+2456	1059	1	strong strict two-phase locking	serializability
+12895	22444	1	semantic web	formal description
+2593	1199	1	eeg	cognitive science
+1079	7101	1	spam	malware
+5987	19739	1	lambda calculus	evaluation strategy
+7448	21360	1	hilbert space	harmonic analysis
+20287	13839	1	world wide web	publicly indexable web
+16465	18739	1	sql	oracle
+14291	20050	1	quantile function	quantile
+12759	19223	1	iso sgml	regular expression
+10087	11432	1	l1	fourier transform
+22194	18689	1	interpretation	domain of discourse
+10996	12993	1	formal grammar	chomsky hierarchy
+6239	10988	1	statically typed	programming language
+23029	14672	1	quicksort	merge sort
+17067	12802	1	treebank	parsed
+21315	12408	1	maximum likelihood estimator	biased
+929	18452	1	object-oriented programming	modular programming
+16465	10759	1	sql	declarative computer language
+2195	11752	1	influence diagram	decision tree
+10988	6614	1	programming language	algorithm
+23334	15551	1	information extraction	faceted search
+1524	23104	1	entropy	density of states
+14371	11657	1	constraint satisfaction	constraint programming
+9350	11466	1	wi-fi	usb
+7040	11444	1	predictive analytics	machine learning
+11173	14414	1	principal component analysis	eigenface
+20045	13842	1	linux	file system
+2627	13101	1	swarm-based optimization	global optimization
+3758	16542	1	clustering high-dimensional data	cluster analysis
+7091	6276	1	graph theory	computer science
+15969	6473	1	xml schema	xml
+20045	17134	1	linux	java
+20280	9954	1	exptime	computational complexity theory
+6853	14769	1	default logic	answer set programming
+240	7987	1	semeval	computational semantics
+13181	11990	1	model theory	logic
+23063	20231	1	network topology	computer network
+10949	9574	1	model	algebraic structure
+21807	22834	1	transitivity	equivalence relation
+10042	8855	1	robust regression	regression analysis
+12601	9213	1	peer-to-peer	cloud computing
+9836	2593	1	magnetoencephalography	eeg
+21239	124	1	probability theory	combinatorial
+17528	8516	1	information theory	compressing data
+16013	16525	1	match	graph rewriting
+12799	13317	1	uniform distribution	cumulant
+14294	193	1	poisson process	poisson distribution
+12714	12144	1	bayesian inference	bayes factor
+17766	17009	1	counterfactual conditional	belief revision
+3551	5179	1	phonotactics	phonology
+2019	7990	1	logistic regression	artificial neural network
+17321	11331	1	occam's razor	model selection
+11862	21025	1	self-balancing binary search tree	binary search tree
+5918	19952	1	normal distribution	log-normally
+6580	3911	1	planar graph	dual graph
+3838	12144	1	bayes' theorem	bayes factor
+1829	8732	1	petri net	bipartite graph
+20136	9504	1	statistics	random variable
+21763	23029	1	selection algorithm	quicksort
+22920	15650	1	stemming	natural language processing
+5987	18647	1	lambda calculus	computable function
+167	15751	1	rolap	molap
+1109	9504	1	stochastic process	random variable
+7544	17807	1	vector space	systems of linear equations
+14407	11990	1	truth value	logic
+23085	8734	1	nearest neighbor search	content-based image retrieval
+14971	18897	1	flash memory	digital camera
+11990	6276	1	logic	computer science
+9842	7633	1	directed acyclic graph	bayesian network
+15063	15140	1	projective geometry	conic section
+6580	17842	1	planar graph	colorable
+15473	2238	1	transitive relation	irreflexivity
+12905	3167	1	neural network	connectionism
+1602	10042	1	robust statistics	robust regression
+11517	8518	1	linguistics	generativist school
+11444	18774	1	machine learning	probabilistic graphical model
+6468	20155	1	tuple relational calculus	relational algebra
+14470	1956	1	social network	centrality
+15643	21397	1	lookup table	field-programmable gate array
+3167	13811	1	connectionism	cognitive psychologists
+16465	14107	1	sql	schema
+19178	1446	1	least squares	fisher information
+8695	6483	1	local consistency	constraint logic programming
+12895	9601	1	semantic web	resource description
+3346	5658	1	multitier architecture	load balancing
+13812	18810	1	linear map	isomorphism
+21717	18995	1	undirected	conditional random field
+8145	8701	1	sequence alignment	multiple sequence alignment
+3680	16935	1	vector space model	inverted index
+9504	1817	1	random variable	cumulative distribution function
+16658	1916	1	ops5	expert system
+16699	6075	1	data visualization	business intelligence
+11243	5442	1	2-cnf	2-sat
+19101	6614	1	deterministic algorithm	algorithm
+22316	15650	1	question answering	natural language processing
+15636	4923	1	pattern recognition	pattern matching
+17981	5987	1	mathematical logic	lambda calculus
+10615	19181	1	triangle inequality	inner product space
+20136	10403	1	statistics	bootstrap
+1427	21195	1	euclidean space	affine space
+6376	6416	1	forward-chaining	backward chaining
+7560	5683	1	logic programming	inductive logic programming
+18127	2666	1	uniform distance	compact
+7448	4874	1	hilbert space	density matrices
+2626	1427	1	metric space	euclidean space
+9789	13488	1	hippocampus	episodic
+14618	17009	1	non-monotonic logic	belief revision
+162	15643	1	memoization	lookup table
+10905	10595	1	robotics	motion planning
+13923	9678	1	supervised	learning to rank
+16178	3608	1	jpeg	huffman coding
+6276	8839	1	computer science	artificial intelligence
+11173	11406	1	principal component analysis	correspondence analysis
+11923	6580	1	tree	planar graph
+15262	10996	1	top-down parsers	formal grammar
+2583	12515	1	non-negative matrix factorization	document-term matrix
+5395	6920	1	sun microsystems	mysql
+5179	6435	1	phonology	phonetics
+1439	7101	1	web	malware
+15319	12523	1	matching	assignment problem
+11517	11213	1	linguistics	generative grammar
+7815	6416	1	inference	backward chaining
+20611	15636	1	template matching	pattern recognition
+22577	11999	1	romance languages	adverb
+15272	5895	1	wordnet	text analysis
+11836	3154	1	partial differential equation	numerical analysis
+268	4305	1	fortran	c programming language
+13543	1006	1	gamma distribution	exponential
+6022	20797	1	smt	example-based machine translation
+19917	4207	1	object database	database model
+13406	3953	1	virtual machine	smalltalk virtual machine
+5918	5113	1	normal distribution	estimator
+3719	1563	1	conditional probability distribution	conditional expectation
+17300	363	1	recursively enumerable set	computability theory
+14197	13360	1	fuzzy logic	control engineers
+6473	17134	1	xml	java
+6820	23224	1	markov random field	belief propagation
+5177	4393	1	lisp	common lisp's
+12506	16365	1	multiset	indicator function
+7491	7808	1	classifying	k-nearest neighbor
+4478	9401	1	martingale	markov chain
+22340	22371	1	ops series	inference engine
+23490	7787	1	np-complete	2-satisfiability
+12764	14196	1	sufficient dimension reduction	dimension reduction
+13151	42	1	transitive	partial order
+10404	22995	1	riemannian manifold	geodesic
+15268	2701	1	social bookmarking	folksonomy
+13406	5043	1	virtual machine	java programming language
+292	21840	1	local search	constraints
+4729	21731	1	evolutionary computation	artificial immune system
+15610	1123	1	ram	computer data storage
+1772	16542	1	k-medians clustering	cluster analysis
+20739	1619	1	analysis	function spaces
+1077	11202	1	uncertainties	decision theory
+502	20181	1	image processing	feature detection
+4126	11755	1	microprocessor	cmos
+18227	12418	1	systems biology	gene regulatory network
+23523	19223	1	regular language	regular expression
+13977	20045	1	supercomputer	linux
+21564	11444	1	reinforcement learning	machine learning
+7560	21023	1	logic programming	functional programming
+10690	20280	1	pspace	exptime
+19845	18586	1	timesten	in-memory database management
+2444	20189	1	stanford university	facebook
+2626	11050	1	metric space	curve
+9132	10607	1	transistor	bell labs
+10042	9703	1	robust regression	m-estimator
+3487	18330	1	type ii error	power
+20430	11096	1	ontologies	f-logic
+1575	8732	1	factor graph	bipartite graph
+20087	3125	1	database	data definition language
+10905	13301	1	robotics	degrees of freedom
+4305	10607	1	c programming language	bell labs
+9143	6614	1	program optimization	algorithm
+20136	6454	1	statistics	analysis of variance
+19716	12714	1	statistical inference	bayesian inference
+1373	4573	1	darpa	arpanet
+7472	11614	1	dirichlet process	dirichlet distribution
+11815	13881	1	computer architecture	assembly language
+19584	11517	1	semantics	linguistics
+18552	3167	1	spreading activation	connectionism
+3587	6469	1	cache controllers	content-addressable memory
+9227	10988	1	turing complete	programming language
+9632	14238	1	strategies	game
+20739	23130	1	analysis	functional analysis
+7886	15584	1	set theory	complement
+8855	10753	1	regression analysis	kriging
+13869	22301	1	hidden markov model	gesture recognition
+23085	14457	1	nearest neighbor search	k-nearest neighbor search
+7236	1891	1	email	domain name system
+265	11845	1	pspace-complete	boolean satisfiability
+8596	268	1	object-oriented	fortran
+12986	3243	1	linear algebra	basis
+18593	5860	1	pda	handwriting recognition
+11603	10996	1	formal language	formal grammar
+22745	10531	1	trifocal tensor	tensor
+17704	13912	1	syntactic	auxiliary verb
+11194	2253	1	receiver operating characteristic	binary classification
+15473	9035	1	transitive relation	reflexive relation
+6143	5642	1	discrete wavelet transform	discrete fourier transform
+20155	18622	1	relational algebra	optimization
+7896	4874	1	space	density matrices
+16325	22369	1	variance	probability density function
+8142	16061	1	rete algorithm	forward chaining
+12987	5184	1	operational semantics	denotational semantics
+12106	9574	1	models	algebraic structure
+21314	13542	1	interval estimation	confidence interval
+13977	7274	1	supercomputer	computer cluster
+8383	7560	1	prolog	logic programming
+15636	1076	1	pattern recognition	clustering
+17321	12144	1	occam's razor	bayes factor
+22796	23088	1	automatic garbage collection	c
+8131	12986	1	mathematics	linear algebra
+3535	23380	1	minimum message length	kolmogorov complexity
+3050	6075	1	metadata	business intelligence
+7765	20353	1	graph	connected
+6096	6980	1	line segment	line
+819	16574	1	lazy learning	instance-based learning
+11050	15140	1	curve	conic section
+3188	2201	1	natural number	mathematical induction
+3800	13971	1	hyperplane	decision boundary
+17995	16989	1	pagerank	google search
+2030	10988	1	programming paradigm	programming language
+8145	3632	1	sequence alignment	protein
+12750	18649	1	unified medical language system	semantic network
+13636	6167	1	poisson	exponential distribution
+19573	11984	1	odds ratio	logit
+4257	14830	1	depth-first search	breadth-first search
+14502	7448	1	wavelet	hilbert space
+12663	21443	1	estimation theory	bayes estimator
+11688	13245	1	software engineers	software development life cycle
+12911	1446	1	optimal design	fisher information
+593	7091	1	tree data structure	graph theory
+7544	12986	1	vector space	linear algebra
+14129	16958	1	polynomial function	continuous function
+2030	128	1	programming paradigm	logic language
+20278	20270	1	hypergraph	bipartite
+20136	6227	1	statistics	sociology
+20353	14146	1	connected	complete graph
+15958	20136	1	time series	statistics
+11990	19923	1	logic	if and only if
+12787	6473	1	xpath	xml
+10404	1427	1	riemannian manifold	euclidean space
+11922	8070	1	trec	information retrieval
+6580	17934	1	planar graph	graph isomorphism
+1564	15218	1	database management system	data modeling
+11368	2098	1	medical imaging	mri
+22227	19739	1	lazy evaluation	evaluation strategy
+3680	3163	1	vector space model	document similarities
+7124	10675	1	python	iterator
+5395	20045	1	sun microsystems	linux
+8248	7091	1	random graph theory	graph theory
+20374	4568	1	cognitive model	cognitive architecture
+2940	7560	1	xsb	logic programming
+9205	7560	1	negation as failure	logic programming
+7356	1254	1	web crawler	deep or invisible web
+19223	12662	1	regular expression	javascript
+11552	1076	1	data stream clustering	clustering
+21967	17362	1	image segmentation	clusters
+3148	15687	1	self-balancing tree	hash table
+13226	13542	1	standard deviation	confidence interval
+23568	6614	1	heuristic	algorithm
+649	18820	1	latent dirichlet allocation	generative model
+14291	21132	1	quantile function	normal
+573	12223	1	orthogonal frequency-division multiplexing	mimo
+4729	6276	1	evolutionary computation	computer science
+18089	21182	1	search algorithm	combinatorial optimization
+3167	20886	1	connectionism	cognitive psychology
+7835	6276	1	theoretical computer science	computer science
+15511	7448	1	inner product	hilbert space
+20251	7752	1	singular value decomposition	diagonal matrix
+18516	2957	1	orkut	list of google products
+21627	7236	1	malicious software	email
+8284	8839	1	probability	artificial intelligence
+16595	9291	1	levenshtein distance	edit distance
+23032	1909	1	best-first search	a* search
+20136	11808	1	statistics	markov process
+4370	13881	1	data structure	assembly language
+21334	8136	1	resolution	first-order logic
+10310	9512	1	supervised learning	feature selection
+10615	329	1	triangle inequality	lp space
+4568	6619	1	cognitive architecture	ai
+17672	1877	1	nonplanarity	complete bipartite graph
+21296	6765	1	voronoi tessellation	polyhedra
+11042	10967	1	dimension-based model	data warehouse
+22369	23455	1	probability density function	expected value
+5610	17497	1	knapsack problem	bin packing
+20753	15930	1	search engine	web directory
+4929	18548	1	linear programming	interior point
+11194	22980	1	receiver operating characteristic	f1 score
+7556	17703	1	asymptotic analysis	analysis of
+19358	21195	1	affine transformation	affine space
+11845	10420	1	boolean satisfiability	binary decision diagram
+17688	5721	1	paraconsistent logic	classical logic
+17497	1378	1	bin packing	approximation factor
+8695	14371	1	local consistency	constraint satisfaction
+2030	8596	1	programming paradigm	object-oriented
+6076	5219	1	parsers	head-driven phrase structure grammar
+17946	7040	1	support vector machine	predictive analytics
+14371	422	1	constraint satisfaction	constraint
+11581	11099	1	frame problem	fluent calculus
+1524	19382	1	entropy	compression
+12391	5971	1	development process	formal methods
+4929	21182	1	linear programming	combinatorial optimization
+13301	6454	1	degrees of freedom	analysis of variance
+5395	18739	1	sun microsystems	oracle
+14951	9954	1	parameterized complexity	computational complexity theory
+10930	17946	1	vladimir vapnik	support vector machine
+649	8070	1	latent dirichlet allocation	information retrieval
+14250	2938	1	minimax	loss
+21233	14395	1	web search engine	google search engine
+12069	7040	1	predictive model markup language	predictive analytics
+14197	15722	1	fuzzy logic	two-valued logic
+10033	10905	1	speech recognition	robotics
+8827	12614	1	workgroup	microsoft
+7951	14396	1	logical disjunction	logical conjunction
+11730	9601	1	owl	resource description
+22079	9419	1	operating system	kernel
+17678	22079	1	unix	operating system
+6350	4929	1	simplex algorithm	linear programming
+9164	209	1	postgresql	mvcc
+3908	23088	1	intermediate language	c
+20105	2110	1	ordinary differential equation	differential equation
+3007	23088	1	functions	c
+2060	17076	1	morpheme	inflection
+10955	7853	1	unicode	html 4
+2941	9967	1	xquery	query
+12926	21462	1	lie group	functor
+7886	6249	1	set theory	combinatorics
+22369	5918	1	probability density function	normal distribution
+233	7886	1	union	set theory
+5918	1817	1	normal distribution	cumulative distribution function
+13226	9504	1	standard deviation	random variable
+6074	9842	1	topological sorting	directed acyclic graph
+6276	6614	1	computer science	algorithm
+10779	15650	1	evaluation exercises on semantic evaluation	natural language processing
+8131	6249	1	mathematics	combinatorics
+15658	11597	1	reactive planning	planning
+11752	1832	1	decision tree	c4.5 algorithm
+4370	7103	1	data structure	efficiently
+11990	8839	1	logic	artificial intelligence
+9292	7018	1	regularization	inverse problem
+20287	1122	1	world wide web	web browser
+1953	21012	1	regex	perl
+6984	2694	1	bitmap index	bit array
+23583	9292	1	tikhonov regularization	regularization
+17981	18913	1	mathematical logic	calculus
+5179	11517	1	phonology	linguistics
+22509	20189	1	instant messaging	facebook
+11444	12476	1	machine learning	computational learning theory
+7815	6807	1	inference	analogy
+7124	23342	1	python	metaclass
+3409	23209	1	propositional calculus	entailment
+22369	1817	1	probability density function	cumulative distribution function
+17793	23191	1	random walk	markov chain monte carlo
+8131	10890	1	mathematics	dynamical system
+11990	3639	1	logic	epistemological
+23332	21462	1	tensor product	functor
+36	1079	1	usenet	spam
+20611	3628	1	template matching	cross-correlation
+11331	7253	1	model selection	minimum description length
+3580	4126	1	personal computer	microprocessor
+2732	7560	1	stable model semantics	logic programming
+6807	18754	1	analogy	abduction
+4886	15267	1	conjunctive normal form	3-sat
+12623	18526	1	nash equilibrium	game theory
+16005	16178	1	lossy	jpeg
+5968	13857	1	sentence extraction	automatic summarization
+19441	20231	1	scale-free network	computer network
+15753	10988	1	scripting language	programming language
+1369	4305	1	source code	c programming language
+15636	21074	1	pattern recognition	feature extraction
+15915	9730	1	graphs	discrete mathematics
+19181	7448	1	inner product space	hilbert space
+7091	14146	1	graph theory	complete graph
+20251	11173	1	singular value decomposition	principal component analysis
+9145	6340	1	quadratic programming	cplex
+7886	20822	1	set theory	axiom systems
+5395	2444	1	sun microsystems	stanford university
+59	8733	1	yahoo	flickr
+3580	11629	1	personal computer	local area network
+194	21439	1	model elimination	automated theorem proving
+9620	14019	1	quantum mechanics	probabilities
+20545	17134	1	university of california, berkeley	java
+8070	5550	1	information retrieval	document retrieval
+23059	2760	1	camera resectioning	augmented reality
+10988	3277	1	programming language	programs
+20123	5057	1	data model	conceptual data models
+6616	2694	1	bloom filter	bit array
+9632	18526	1	strategies	game theory
+20136	15710	1	statistics	resampling
+13609	4459	1	discrete	computational geometry
+13322	23029	1	radix sort	quicksort
+12614	22583	1	microsoft	microcomputer
+1369	17134	1	source code	java
+18089	21025	1	search algorithm	binary search tree
+12830	12614	1	os/2	microsoft
+16236	4439	1	operating systems	application programming interface
+559	8839	1	vision	artificial intelligence
+5190	18245	1	sun	sparc
+20760	3125	1	foreign key	data definition language
+3577	6249	1	probabilistic method	combinatorics
+19716	10108	1	statistical inference	likelihood
+18065	12476	1	probably approximately correct learning	computational learning theory
+7969	1164	1	rules of inference	proof theory
+11517	12567	1	linguistics	lexicography
+17868	18300	1	topology	manifold
+16174	21671	1	recursion	dynamic programming
+14463	6276	1	software engineering	computer science
+10988	18012	1	programming language	grammatical
+3860	7633	1	mml	bayesian network
+6461	16077	1	pdp-11	cpu
+17519	11845	1	decision problem	boolean satisfiability
+16465	21012	1	sql	perl
+8241	12926	1	representation theory	lie group
+5395	19999	1	sun microsystems	grid computing
+13151	22834	1	transitive	equivalence relation
+12916	828	1	protein structure prediction	bioinformatics
+17528	1446	1	information theory	fisher information
+20151	20251	1	symmetric matrix	singular value decomposition
+5971	6276	1	formal methods	computer science
+18346	9574	1	semiring	algebraic structure
+6858	11445	1	particle filter	importance sampling
+3428	23490	1	travelling salesman	np-complete
+19584	9264	1	semantics	montague grammar
+3188	10221	1	natural number	cardinal number
+16178	8726	1	jpeg	discrete cosine transform
+14463	5347	1	software engineering	architects
+18787	1770	1	rdf	relational model
+18649	624	1	semantic network	edges
+12905	4603	1	neural network	mathematical or computational model
+15710	5294	1	resampling	cross validation
+18655	19102	1	statistical physics	statistical mechanics
+765	11581	1	situation calculus	frame problem
+4715	20087	1	query language	database
+21239	5918	1	probability theory	normal distribution
+19316	7951	1	set-theoretic union	logical disjunction
+16514	1258	1	system of linear equations	matrix
+36	12614	1	usenet	microsoft
+19827	4886	1	horn clause	conjunctive normal form
+2563	20081	1	tabu search	metaheuristic
+9601	5394	1	resource description	linked data
+17927	1504	1	gzip	bzip2
+5152	23052	1	teleology	causality
+23263	21247	1	multi-task learning	inductive transfer
+17868	7091	1	topology	graph theory
+1524	2823	1	entropy	conditional entropy
+7737	1916	1	knowledge engineer	expert system
+4736	12694	1	recaptcha	optical character recognition
+7822	6191	1	pointwise mutual information	mutual information
+15272	8083	1	wordnet	ontology
+17995	15282	1	pagerank	hits algorithm
+3680	8070	1	vector space model	information retrieval
+23085	20622	1	nearest neighbor search	cbir
+584	19584	1	situation semantics	semantics
+4599	6945	1	homoscedasticity	heteroscedasticity
+10163	8330	1	earley parser	context-free grammar
+17751	11615	1	spider	search engine spamming
+11173	21851	1	principal component analysis	factor analysis
+11289	193	1	queueing theory	poisson distribution
+16465	13030	1	sql	db2
+6513	12027	1	deduction	analogical reasoning
+10052	1258	1	simultaneous equations	matrix
+1232	7765	1	multigraph	graph
+7356	16743	1	web crawler	html
+14407	14197	1	truth value	fuzzy logic
+16555	19181	1	orthogonality	inner product space
+2195	17650	1	influence diagram	bayesian network inference
+4126	16077	1	microprocessor	cpu
+502	13567	1	image processing	electrical engineering
+7356	13185	1	web crawler	focused crawler
+23029	22635	1	quicksort	worst case
+4126	1973	1	microprocessor	chip
+16682	21229	1	ℓp	dual space
+23490	11845	1	np-complete	boolean satisfiability
+12482	8330	1	phrase structure grammar	context-free grammar
+5395	5043	1	sun microsystems	java programming language
+14003	8658	1	spearman's rank correlation coefficient	non-parametric
+6720	15916	1	global serializability	concurrency control
+9512	21074	1	feature selection	feature extraction
+23455	1563	1	expected value	conditional expectation
+10531	20190	1	tensor	matrices
+12676	2988	1	probability distribution	histogram
+8383	9205	1	prolog	negation as failure
+13977	7250	1	supercomputer	cm
+23085	18618	1	nearest neighbor search	branch and bound
+8333	2975	1	trees	pseudoforest
+19800	5628	1	power law	heavy-tailed distribution
+9561	16750	1	web service	web server
+3376	13845	1	speech processing	linguistic
+7886	2911	1	set theory	mathematical analysis
+7560	369	1	logic programming	event calculus
+8383	19827	1	prolog	horn clause
+20519	13659	1	strategy	equilibrium
+13341	14098	1	multivalued dependency	functional dependency
+36	13945	1	usenet	spamming
+8827	8822	1	workgroup	microsoft corp
+17581	18526	1	prisoner's dilemma	game theory
+18089	8839	1	search algorithm	artificial intelligence
+20899	21501	1	sift	corner detection
+11990	6695	1	logic	inductive reasoning
+21408	8136	1	predicate logic	first-order logic
+22717	6473	1	xml database	xml
+20490	3358	1	twitter	microblogging
+9561	23331	1	web service	enterprise information integration
+20915	10420	1	boolean function	binary decision diagram
+13227	18098	1	spherical harmonics	n-sphere
+13406	8998	1	virtual machine	high-level programming language
+9748	3154	1	numerical linear algebra	numerical analysis
+16750	7356	1	web server	web crawler
+15983	23130	1	spectral theorem	functional analysis
+20115	12682	1	id3	decision tree learning
+16277	21442	1	dpll algorithm	deciding the satisfiability
+21919	14539	1	cross-validation	bootstrapping
+23151	8131	1	theorem	mathematics
+7091	15915	1	graph theory	graphs
+3632	17638	1	protein	molecular dynamics
+8674	9954	1	nexptime	computational complexity theory
+6341	21955	1	visual	visual cortex
+10880	17981	1	quantifier elimination	mathematical logic
+9504	18884	1	random variable	covariance matrix
+7355	1299	1	mixture model	mixture distribution
+9836	14115	1	magnetoencephalography	electroencephalography
+19515	2337	1	wavelet transform	spectrogram
+19934	22439	1	hash join	block nested loop
+22654	7832	1	performance of	logarithm
+10988	20519	1	programming language	strategy
+7832	16958	1	logarithm	continuous function
+6522	7864	1	data mining	customer relationship management
+11444	22166	1	machine learning	cheminformatics
+15418	9574	1	universal algebra	algebraic structure
+4662	4384	1	linear logic	classical
+20287	36	1	world wide web	usenet
+4662	11581	1	linear logic	frame problem
+16465	10371	1	sql	join
+3403	14505	1	computer program	central processing unit
+23079	20744	1	chess-playing programs	chess
+10567	8740	1	dot product	cross product
+6473	2134	1	xml	lexical
+12800	8330	1	parser	context-free grammar
+14250	20315	1	minimax	horizon effect
+12	18791	1	semi-supervised learning	co-training
+10575	9363	1	phenotype	genotype
+5642	8726	1	discrete fourier transform	discrete cosine transform
+6186	18739	1	stored procedure	oracle
+13181	12730	1	model theory	first order
+11348	7174	1	integer	equivalence class
+20251	23085	1	singular value decomposition	nearest neighbor search
+10301	22969	1	user modeling	personalization
+5177	9576	1	lisp	common lisp
+10151	20270	1	coloring	bipartite
+5445	17802	1	machine translation	computer-assisted translation
+11202	14371	1	decision theory	constraint satisfaction
+937	15144	1	convex optimization	convex function
+13977	17851	1	supercomputer	simd
+17604	20250	1	radial basis function	control
+15916	5416	1	concurrency control	concurrently
+6231	14844	1	uml	architecture
+16465	6920	1	sql	mysql
+3409	8136	1	propositional calculus	first-order logic
+10988	12077	1	programming language	abstractions
+13081	2666	1	simply ordered	compact
+1122	12662	1	web browser	javascript
+11752	12301	1	decision tree	c4.5
+13836	12682	1	id3 algorithm	decision tree learning
+1922	11517	1	psycholinguistics	linguistics
+11793	3327	1	reduplication	bengali
+5219	11213	1	head-driven phrase structure grammar	generative grammar
+7563	20197	1	visual odometry	optical flow
+962	22316	1	text retrieval conference	question answering
+7765	8656	1	graph	glossary of graph theory
+566	9574	1	monoid	algebraic structure
+22912	18787	1	topic maps	rdf
+20083	9576	1	multiple inheritance	common lisp
+15643	494	1	lookup table	linear interpolation
+5179	16453	1	phonology	phoneme
+16009	11845	1	maximum satisfiability	boolean satisfiability
+1386	9996	1	message passing	distributed computing
+16750	22079	1	web server	operating system
+13226	15857	1	standard deviation	root mean square
+14618	11539	1	non-monotonic logic	autoepistemic logic
+11538	6173	1	quadratic classifier	linear classifier
+7544	11897	1	vector space	r3
+3403	6614	1	computer program	algorithm
+21061	12284	1	views	relational database
+10742	23313	1	vertex cover	parameterized complexity theory
+9703	11650	1	m-estimator	estimating function
+3154	494	1	numerical analysis	linear interpolation
+9929	5958	1	context-sensitive grammar	computational linguistics
+8383	4404	1	prolog	dcg
+15272	22062	1	wordnet	synonym ring
+9197	5162	1	sybase	microsoft sql server
+8554	19358	1	self-similarity	affine transformation
+13977	9894	1	supercomputer	blue gene/l
+10988	17134	1	programming language	java
+16514	12986	1	system of linear equations	linear algebra
+3498	8297	1	stream processor	gpu
+11808	9401	1	markov process	markov chain
+13366	7159	1	stochastic optimization	monte carlo simulations
+1577	14505	1	cpu cache	central processing unit
+12619	11065	1	control flow	program
+15511	10567	1	inner product	dot product
+2784	11755	1	integrated circuit	cmos
+17678	19104	1	unix	shared memory
+21277	14377	1	rule of inference	modus ponens
+10301	15180	1	user modeling	identity management
+16033	9779	1	w3c web ontology language owl	description logic
+19339	12968	1	partition function	exponential family
+8701	50	1	multiple sequence alignment	dna
+17245	15470	1	statistical significance	p-value
+20287	16743	1	world wide web	html
+7560	7009	1	logic programming	abductive reasoning
+21784	6886	1	temporal logic	modal operator
+10608	2130	1	vax-11	lsi-11
+9197	331	1	sybase	sql anywhere
+182	18995	1	gene finding	conditional random field
+9264	12350	1	montague grammar	intensional logic
+5113	8027	1	estimator	bias
+16277	23066	1	dpll algorithm	theorem provers
+22227	5987	1	lazy evaluation	lambda calculus
+15753	7124	1	scripting language	python
+16465	1770	1	sql	relational model
+11536	11444	1	find patterns	machine learning
+3969	20048	1	convex hull	hull operator
+14180	17528	1	low-density parity-check code	information theory
+6283	965	1	recommender system	last.fm
+13075	636	1	euclidean n-space	dimension
+12800	6362	1	parser	chart parser
+737	21671	1	tree decomposition	dynamic programming
+19999	9996	1	grid computing	distributed computing
+16465	20845	1	sql	declarative
+21132	9872	1	normal	generalized normal
+10171	3657	1	metalanguage	formal system
+10967	6075	1	data warehouse	business intelligence
+3428	23450	1	travelling salesman	greedy algorithm
+16926	18884	1	gramian matrix	covariance matrix
+9664	5722	1	stereopsis	binocular disparity
+5113	12663	1	estimator	estimation theory
+20136	900	1	statistics	generalized linear model
+14826	5219	1	syntax	head-driven phrase structure grammar
+7544	7448	1	vector space	hilbert space
+16465	12284	1	sql	relational database
+10648	18931	1	tacit knowledge	concept map
+11173	6989	1	principal component analysis	independent component analysis
+17946	9145	1	support vector machine	quadratic programming
+15934	7091	1	spectral graph theory	graph theory
+20029	649	1	unobserved	latent dirichlet allocation
+12526	14377	1	unsound	modus ponens
+754	5958	1	linguists	computational linguistics
+13635	11688	1	software testing	software engineers
+3862	8330	1	cyk algorithm	context-free grammar
+4735	20886	1	working memory	cognitive psychology
+434	13636	1	poisson regression	poisson
+21990	17468	1	determinism	causal  determinism
+16465	9164	1	sql	postgresql
+12694	5860	1	optical character recognition	handwriting recognition
+16370	17995	1	power method	pagerank
+180	7091	1	probabilistic graph theory	graph theory
+8739	8136	1	resolution rule	first-order logic
+12	18120	1	semi-supervised learning	constrained clustering
+8554	16973	1	self-similarity	affine
+20190	1427	1	matrices	euclidean space
+6522	6276	1	data mining	computer science
+17528	1524	1	information theory	entropy
+4380	13746	1	minicomputer	cpus
+626	5026	1	nonlinear dimensionality reduction	kernel pca
+6842	20123	1	semantic data model	data model
+14244	2110	1	mathematical	differential equation
+14470	4011	1	social network	game theorist
+4220	6984	1	run-length encoding	bitmap index
+486	9172	1	kalman filter	dynamic bayesian network
+6458	16542	1	curse of dimensionality	cluster analysis
+8083	3932	1	ontology	mereology
+4735	16931	1	working memory	episodic memory
+8136	22834	1	first-order logic	equivalence relation
+20287	16750	1	world wide web	web server
+962	9115	1	text retrieval conference	ir
+23149	21443	1	empirical bayes	bayes estimator
+19198	1916	1	mycin	expert system
+2626	19361	1	metric space	lipschitz continuity
+17688	11990	1	paraconsistent logic	logic
+1059	20087	1	serializability	database
+11345	3678	1	signal processing	images
+18618	7513	1	branch and bound	alpha-beta pruning
+18578	16050	1	xslt	functional
+14618	7560	1	non-monotonic logic	logic programming
+20943	12905	1	neuroscience	neural network
+11202	14473	1	decision theory	bayesian probability
+19043	20287	1	world wide web consortium	world wide web
+19716	23318	1	statistical inference	epistemological uncertainty
+12208	5959	1	voronoi diagram	vector quantization
+16325	22673	1	variance	expectation
+12398	3838	1	conditional	bayes' theorem
+9164	6984	1	postgresql	bitmap index
+8131	9954	1	mathematics	computational complexity theory
+22459	5918	1	uniformly	normal distribution
+12911	1604	1	optimal design	convex minimization
+12926	4699	1	lie group	differentiable manifold
+6074	4257	1	topological sorting	depth-first search
+19441	1703	1	scale-free network	degree distribution
+21777	3925	1	statistical hypothesis testing	null hypothesis
+13825	20087	1	relational database model	database
+7232	12614	1	ms-dos	microsoft
+22130	8136	1	natural deduction	first-order logic
+18300	11050	1	manifold	curve
+12988	15105	1	viterbi algorithm	statistical parsing
+3580	20974	1	personal computer	computer terminal
+14098	8615	1	functional dependency	database normalization
+7544	6980	1	vector space	line
+11757	5113	1	shrinkage estimator	estimator
+21209	7633	1	bayesian	bayesian network
+21132	20724	1	normal	anovas
+21239	23455	1	probability theory	expected value
+19223	10988	1	regular expression	programming language
+7886	21888	1	set theory	binary relation
+19474	15424	1	language specification	compilation
+15650	23334	1	natural language processing	information extraction
+8855	434	1	regression analysis	poisson regression
+8462	900	1	maximum likelihood	generalized linear model
+4881	3376	1	speech synthesis	speech processing
+20036	22440	1	type theory	higher-order logic
+8635	16768	1	turing test	chinese room
+11331	19373	1	model selection	akaike information criterion
+22371	1916	1	inference engine	expert system
+8796	7356	1	search engines	web crawler
+7121	16706	1	shared nothing architecture	ibm db2
+6920	16706	1	mysql	ibm db2
+13869	18820	1	hidden markov model	generative model
+13151	21888	1	transitive	binary relation
+7544	13812	1	vector space	linear map
+19626	4568	1	intelligent agent	cognitive architecture
+23523	12993	1	regular language	chomsky hierarchy
+11603	8136	1	formal language	first-order logic
+6522	6075	1	data mining	business intelligence
+1064	8899	1	least squares regression	local regression
+22251	3632	1	proteomics	protein
+18578	6473	1	xslt	xml
+14014	7990	1	perceptron	artificial neural network
+17067	6180	1	treebank	text corpus
+10988	9549	1	programming language	control structures
+14250	14238	1	minimax	game
+23473	17995	1	power iteration	pagerank
+7531	6614	1	analysis and study of	algorithm
+8131	17981	1	mathematics	mathematical logic
+22171	20123	1	data semantics	data model
+15687	4370	1	hash table	data structure
+23314	6871	1	crawling	hyperlink
+21980	13181	1	elimination of quantifiers	model theory
+20768	17793	1	random processes	random walk
+19441	19800	1	scale-free network	power law
+5918	8506	1	normal distribution	cdf
+3428	21671	1	travelling salesman	dynamic programming
+15418	13181	1	universal algebra	model theory
+14003	15621	1	spearman's rank correlation coefficient	correlation and dependence
+14291	5918	1	quantile function	normal distribution
+7990	8839	1	artificial neural network	artificial intelligence
+3167	8839	1	connectionism	artificial intelligence
+6191	23492	1	mutual information	jaccard distance
+19223	4695	1	regular expression	grammars
+36	12601	1	usenet	peer-to-peer
+16750	12662	1	web server	javascript
+17981	11990	1	mathematical logic	logic
+20627	8971	1	jaccard index	cosine similarity
+14196	16542	1	dimension reduction	cluster analysis
+23163	7900	1	snapshot isolation	multiversion concurrency control
+2524	2861	1	modal logic	kripke semantics
+4731	6191	1	rand index	mutual information
+3652	9561	1	web services description language	web service
+16325	6454	1	variance	analysis of variance
+8841	649	1	mixture	latent dirichlet allocation
+17519	1678	1	decision problem	sat-solving
+4640	10399	1	geometric mean	arithmetic mean
+6260	12670	1	sensitivity and specificity	positive predictive value
+14291	1817	1	quantile function	cumulative distribution function
+7199	1504	1	.gz	bzip2
+6354	6047	1	lr parser	bottom-up
+929	9576	1	object-oriented programming	common lisp
+21494	3838	1	conditional probabilities	bayes' theorem
+1874	100	1	firewalls	denial-of-service attack
+795	9205	1	non-monotonic	negation as failure
+6473	9561	1	xml	web service
+10053	19700	1	von neumann	storage structure
+14826	11944	1	syntax	context-free grammars
+12629	17011	1	internet movie database	amazon.com
+18300	636	1	manifold	dimension
+3376	15650	1	speech processing	natural language processing
+1161	7919	1	coreference	anaphoric reference
+20036	16848	1	type theory	domain theory
+10578	17564	1	graphics processing unit	general purpose graphics processing unit
+7622	18330	1	polynomial	power
+9678	13516	1	learning to rank	gradient boosting
+9504	8838	1	random variable	convergence of random variables
+10955	1891	1	unicode	domain name system
+16851	19211	1	virtual memory	hardware memory devices
+9145	23064	1	quadratic programming	active set
+21239	22369	1	probability theory	probability density function
+15063	21801	1	projective geometry	lines
+21759	16178	1	red, green, and blue	jpeg
+20287	16487	1	world wide web	hypertext transfer protocol
+22944	11311	1	extract, transform, load	batch
+8131	6276	1	mathematics	computer science
+7571	18810	1	total order	isomorphism
+19584	17981	1	semantics	mathematical logic
+1890	8901	1	interval	vector
+6191	2823	1	mutual information	conditional entropy
+6473	9601	1	xml	resource description
+17245	21816	1	statistical significance	statistical power
+8771	7448	1	phase space	hilbert space
+4013	16656	1	rgb	color space
+18300	20054	1	manifold	differentiable structure
+6897	6184	1	gnutella	dht
+3284	19003	1	system identification	optimal experimental design
+10648	22163	1	tacit knowledge	descriptive knowledge
+20520	18526	1	utility	game theory
+17868	1427	1	topology	euclidean space
+4207	20087	1	database model	database
+23151	4780	1	theorem	modalities
+13623	8462	1	uniform	maximum likelihood
+362	21671	1	knapsack	dynamic programming
+2944	14826	1	wh-movement	syntax
+10679	12895	1	web 2.0	semantic web
+15650	2693	1	natural language processing	controlled natural language
+7544	6591	1	vector space	the vector space ℓp
+18820	15280	1	generative model	discriminative model
+14014	6173	1	perceptron	linear classifier
+12941	12030	1	oracle database	oracle corporation
+13869	14664	1	hidden markov model	gene prediction
+14250	6610	1	minimax	theory of simultaneous games
+22060	1909	1	admissible heuristic	a* search
+2291	16931	1	semantic	episodic memory
+7040	4903	1	predictive analytics	nearest neighbour
+8383	21003	1	prolog	definite clause grammar
+3007	22227	1	functions	lazy evaluation
+8210	18300	1	projective plane	manifold
+19003	1446	1	optimal experimental design	fisher information
+11603	8330	1	formal language	context-free grammar
+7283	7693	1	romance	portuguese
+14905	6173	1	statistical classification	linear classifier
+19440	8615	1	functionally dependent	database normalization
+19322	11999	1	part of speech	adverb
+17678	12614	1	unix	microsoft
+11987	5860	1	sketch recognition	handwriting recognition
+12895	16743	1	semantic web	html
+10615	14109	1	triangle inequality	norms
+12830	22079	1	os/2	operating system
+20910	23241	1	parsing	cfg
+11601	1395	1	q-learning	markov decision
+868	7781	1	polynomial hierarchy	p
+6685	11348	1	totally ordered set	integer
+3188	22002	1	natural number	finite
+1671	10967	1	dimensional approach	data warehouse
+4899	19986	1	tic-tac-toe	game tree
+17528	8839	1	information theory	artificial intelligence
+117	566	1	power set	monoid
+10151	8732	1	coloring	bipartite graph
+17370	17035	1	semantic translation	federated search
+10466	6075	1	text mining	business intelligence
+15218	20123	1	data modeling	data model
+3847	9907	1	winnow	online learning
+23306	5628	1	outlier	heavy-tailed distribution
+14294	13543	1	poisson process	gamma distribution
+5652	15923	1	dbscan	high-dimensional data
+21777	13542	1	statistical hypothesis testing	confidence interval
+4370	560	1	data structure	abstract data type
+117	4468	1	power set	empty set
+1161	19557	1	coreference	anaphora
+3623	14377	1	sound	modus ponens
+19003	6710	1	optimal experimental design	information
+6461	4305	1	pdp-11	c programming language
+1395	9401	1	markov decision	markov chain
+19515	6143	1	wavelet transform	discrete wavelet transform
+999	9561	1	extensible markup language	web service
+11345	3435	1	signal processing	computer vision
+1454	10108	1	likelihood-ratio test	likelihood
+16937	6510	1	homography	fundamental matrix
+12988	13869	1	viterbi algorithm	hidden markov model
+1435	7201	1	star schema	fact table
+20287	15930	1	world wide web	web directory
+21994	7990	1	multilayer perceptron	artificial neural network
+22399	15268	1	web annotation	social bookmarking
+1258	7091	1	matrix	graph theory
+566	21462	1	monoid	functor
+9656	19796	1	hypertext	brown university
+19181	1427	1	inner product space	euclidean space
+17215	12968	1	gamma	exponential family
+20172	8143	1	youtube	h.264/mpeg-4 avc
+11857	7448	1	linear functional	hilbert space
+2093	13416	1	one-way function	cryptography
+19756	11252	1	#p-complete	graph coloring
+7622	8131	1	polynomial	mathematics
+892	8726	1	dft	discrete cosine transform
+2626	3574	1	metric space	compact space
+15470	12714	1	p-value	bayesian inference
+20483	11001	1	reduplicated	ot
+20430	22051	1	ontologies	knowledge engineering
+9997	8837	1	multinomial	conjugate prior
+10446	23331	1	federated database system	enterprise information integration
+8674	9169	1	nexptime	complexity class
+358	11603	1	well-formed formula	formal language
+17946	11117	1	support vector machine	relevance vector machine
+14480	268	1	procedures	fortran
+19090	4305	1	matlab	c programming language
+17678	13842	1	unix	file system
+2626	13938	1	metric space	hausdorff distance
+6872	649	1	topic model	latent dirichlet allocation
+12895	3106	1	semantic web	ontology learning
+5041	13416	1	number theory	cryptography
+21239	17215	1	probability theory	gamma
+7560	2067	1	logic programming	john mccarthy
+15969	22922	1	xml schema	xml schema languages
+23181	9779	1	modal	description logic
+292	12788	1	local search	hill climbing
+19344	17261	1	problem of induction	deductive reasoning
+2639	18913	1	newton's method	calculus
+20389	17261	1	syllogism	deductive reasoning
+11603	22520	1	formal language	automaton
+18245	16137	1	sparc	open source
+2626	13717	1	metric space	domain
+10772	5445	1	transfer-based machine translation	machine translation
+15457	12714	1	naive bayes classifier	bayesian inference
+19782	16465	1	sql-92	sql
+13556	5721	1	relevance logic	classical logic
+10301	23525	1	user modeling	web personalization
+4380	895	1	minicomputer	mainframe computer
+5395	12030	1	sun microsystems	oracle corporation
+9530	12642	1	google scholar	arxiv
+12601	16462	1	peer-to-peer	node
+6522	8839	1	data mining	artificial intelligence
+15624	10644	1	library classification	categorization
+8563	4845	1	point estimation	bayesian methods
+8368	16525	1	subgraph isomorphism	graph rewriting
+16595	21671	1	levenshtein distance	dynamic programming
+1479	10906	1	stratification	sampling
+1085	8136	1	second-order logic	first-order logic
+18739	7864	1	oracle	customer relationship management
+20136	21239	1	statistics	probability theory
+10026	1909	1	monotone, or consistent	a* search
+12236	17070	1	trustrank	spam mass
+8083	22051	1	ontology	knowledge engineering
+19176	9842	1	transitive closure	directed acyclic graph
+20172	21817	1	youtube	user-generated content
+18691	11444	1	netflix	machine learning
+13051	11517	1	pragmatics	linguistics
+20793	10988	1	turing-complete	programming language
+16325	9504	1	variance	random variable
+20943	7855	1	neuroscience	neuroimaging
+1427	12793	1	euclidean space	euclidean geometry
+9664	12045	1	stereopsis	disparity
+10858	12614	1	microsoft word	microsoft
+21529	6614	1	backtracking	algorithm
+14215	420	1	countable set	cardinality
+6699	13124	1	inflects	finnish
+5162	12614	1	microsoft sql server	microsoft
+11289	9401	1	queueing theory	markov chain
+739	11074	1	genetic algorithm	evolutionary programming
+23088	1485	1	c	buffer overflow
+19165	12895	1	sparql	semantic web
+16105	15522	1	unsupervised learning	self-organizing map
+7124	2030	1	python	programming paradigm
+12601	22509	1	peer-to-peer	instant messaging
+13030	1967	1	db2	ibm
+12208	23085	1	voronoi diagram	nearest neighbor search
+6920	8733	1	mysql	flickr
+8297	2072	1	gpu	gpgpu
+20081	21182	1	metaheuristic	combinatorial optimization
+20910	11140	1	parsing	deterministic parsing
+564	12639	1	defeasible reasoning	deductive
+8145	828	1	sequence alignment	bioinformatics
+23390	50	1	nucleotide	dna
+10988	5177	1	programming language	lisp
+5918	13542	1	normal distribution	confidence interval
+7856	9213	1	software as a service	cloud computing
+14129	9371	1	polynomial function	continuous
+18578	2941	1	xslt	xquery
+7819	610	1	terminal	ascii
+9164	22234	1	postgresql	multi-version concurrency control
+21178	10399	1	geometric	arithmetic mean
+12073	1967	1	soa	ibm
+22583	13881	1	microcomputer	assembly language
+20899	23377	1	sift	corner detector
+6186	5162	1	stored procedure	microsoft sql server
+7091	11252	1	graph theory	graph coloring
+23455	4352	1	expected value	residuals
+3632	4891	1	protein	phylogenetic tree
+12714	8839	1	bayesian inference	artificial intelligence
+6007	4886	1	disjunctive normal form	conjunctive normal form
+20104	8839	1	humanoid robot	artificial intelligence
+12573	5355	1	weak classifier	adaboost
+12496	11845	1	complexity theory	boolean satisfiability
+16768	8839	1	chinese room	artificial intelligence
+16169	8425	1	marginal distribution	joint probability distribution
+10648	12555	1	tacit knowledge	knowledge management
+16325	13317	1	variance	cumulant
+5177	2067	1	lisp	john mccarthy
+17687	8462	1	structural equation modeling	maximum likelihood
+14197	5721	1	fuzzy logic	classical logic
+7900	5162	1	multiversion concurrency control	microsoft sql server
+13690	5918	1	statistical	normal distribution
+8131	2334	1	mathematics	axiomatic system
+12546	14919	1	distributed database management system	distributed database
+5177	21023	1	lisp	functional programming
+13406	22079	1	virtual machine	operating system
+5483	15140	1	ellipse	conic section
+1122	36	1	web browser	usenet
+17134	17090	1	java	compiler
+10543	11904	1	polytope	polyhedron
+7886	10949	1	set theory	model
+5300	12555	1	personal information management	knowledge management
+6516	21473	1	expression	dna microarray
+4520	17802	1	which segments belong together	computer-assisted translation
+12555	22051	1	knowledge management	knowledge engineering
+7544	1427	1	vector space	euclidean space
+19310	4502	1	data manipulation language	codasyl
+23490	9169	1	np-complete	complexity class
+11990	19273	1	logic	implication
+2171	16595	1	metric	levenshtein distance
+9132	2784	1	transistor	integrated circuit
+17134	4370	1	java	data structure
+22533	20886	1	memory	cognitive psychology
+23528	16745	1	searching	genetic programming
+20036	2020	1	type theory	type system
+10880	13181	1	quantifier elimination	model theory
+10749	21777	1	tests of significance	statistical hypothesis testing
+17671	12905	1	classification	neural network
+6899	11445	1	monte carlo	importance sampling
+1897	3779	1	lpboost	boosting
+16599	12045	1	parallax	disparity
+2649	11331	1	stepwise regression	model selection
+12355	10282	1	smalltalk	garbage collection
+18227	16374	1	systems biology	biostatistics
+20851	12788	1	local optimum	hill climbing
+23159	16756	1	probabilistic latent semantic analysis	fisher kernel
+6191	9512	1	mutual information	feature selection
+10634	5445	1	systran	machine translation
+233	12471	1	union	finite set
+5642	18262	1	discrete fourier transform	cosine
+7017	20744	1	endgames	chess
+4126	19988	1	microprocessor	alpha
+14250	11202	1	minimax	decision theory
+17528	5852	1	information theory	conditional mutual information
+16219	3245	1	wired glove	virtual reality
+19102	20985	1	statistical mechanics	correlation function
+21473	16542	1	dna microarray	cluster analysis
+6720	7760	1	global serializability	global
+4729	10730	1	evolutionary computation	evolutionary algorithm
+9239	10534	1	power of a test	statistical test
+18716	5971	1	verification	formal methods
+3188	23041	1	natural number	countable
+13181	2861	1	model theory	kripke semantics
+6435	11517	1	phonetics	linguistics
+10955	610	1	unicode	ascii
+20287	12614	1	world wide web	microsoft
+21269	1123	1	network-attached storage	computer data storage
+3428	739	1	travelling salesman	genetic algorithm
+15218	7512	1	data modeling	data dictionary
+17528	12663	1	information theory	estimation theory
+2831	7236	1	usenet news	email
+8210	15063	1	projective plane	projective geometry
+3154	6614	1	numerical analysis	algorithm
+11922	9115	1	trec	ir
+765	11099	1	situation calculus	fluent calculus
+20753	7356	1	search engine	web crawler
+19043	11730	1	world wide web consortium	owl
+21500	19741	1	stream processing	processor
+20910	14112	1	parsing	lexical analysis
+10404	4699	1	riemannian manifold	differentiable manifold
+1492	17416	1	tower of hanoi	recursive algorithm
+16764	20585	1	mahalanobis distance	bregman divergence
+21426	14769	1	stable model	answer set programming
+23085	7808	1	nearest neighbor search	k-nearest neighbor
+4773	13030	1	object-sql dbms	db2
+8333	7091	1	trees	graph theory
+8901	12979	1	vector	linear combination
+1199	16768	1	cognitive science	chinese room
+14606	21648	1	w3c	wsdl
+1770	5892	1	relational model	object-oriented databases
+20136	17331	1	statistics	gibbs sampling
+19847	18995	1	discriminative	conditional random field
+11517	6276	1	linguistics	computer science
+15658	22348	1	reactive planning	action selection
+23159	18197	1	probabilistic latent semantic analysis	latent variable
+23490	9954	1	np-complete	computational complexity theory
+17331	12714	1	gibbs sampling	bayesian inference
+14371	21529	1	constraint satisfaction	backtracking
+1967	15304	1	ibm	grid
+15650	5958	1	natural language processing	computational linguistics
+18331	21888	1	isomorphy	binary relation
+18899	929	1	subroutine	object-oriented programming
+19223	21012	1	regular expression	perl
+23191	9401	1	markov chain monte carlo	markov chain
+11834	22890	1	set cover	relaxation
+10808	20169	1	theory	structure
+15650	8839	1	natural language processing	artificial intelligence
+11120	18664	1	better off	pareto efficiency
+11536	12905	1	find patterns	neural network
+12979	3243	1	linear combination	basis
+19043	21422	1	world wide web consortium	css
+8839	18754	1	artificial intelligence	abduction
+8284	10972	1	probability	pierre-simon laplace
+6695	10681	1	inductive reasoning	case-based reasoning
+1922	5179	1	psycholinguistics	phonology
+193	13317	1	poisson distribution	cumulant
+7766	8683	1	flash	asics
+1967	9633	1	ibm	cell be microprocessor
+9351	22520	1	language	automaton
+14298	19683	1	rewriting	graph rewrite systems
+17096	11845	1	np-hard	boolean satisfiability
+358	11196	1	well-formed formula	syntactic entities
+7723	16958	1	topologies	continuous function
+21671	19092	1	dynamic programming	dijkstra's algorithm
+7491	9969	1	classifying	k-nearest neighbours
+17581	12623	1	prisoner's dilemma	nash equilibrium
+15983	7448	1	spectral theorem	hilbert space
+8563	21314	1	point estimation	interval estimation
+12895	5394	1	semantic web	linked data
+11074	10730	1	evolutionary programming	evolutionary algorithm
+20251	2162	1	singular value decomposition	null space
+10911	18197	1	latent variable model	latent variable
+8284	11202	1	probability	decision theory
+4879	11432	1	integral transform	fourier transform
+18883	21888	1	reflexive	binary relation
+22051	8839	1	knowledge engineering	artificial intelligence
+20545	4573	1	university of california, berkeley	arpanet
+16108	1909	1	consistent	a* search
+1369	17090	1	source code	compiler
+9748	1258	1	numerical linear algebra	matrix
+9750	13542	1	significant	confidence interval
+7838	10210	1	diacritic	arabic
+14197	8839	1	fuzzy logic	artificial intelligence
+16595	5455	1	levenshtein distance	dynamic time warping
+2373	18691	1	$1,000,000 prize	netflix
+3580	14200	1	personal computer	mainframe
+1109	21239	1	stochastic process	probability theory
+7765	13206	1	graph	directed graph
+5395	9164	1	sun microsystems	postgresql
+5237	22858	1	spearman	statistical dependence
+2653	11288	1	svd	latent semantic analysis
+7544	3969	1	vector space	convex hull
+22533	16931	1	memory	episodic memory
+14183	4459	1	randomized algorithm	computational geometry
+21012	13544	1	perl	glue language
+15753	5177	1	scripting language	lisp
+11397	9264	1	quantification	montague grammar
+17594	2130	1	vax	lsi-11
+12676	1955	1	probability distribution	log-normal distribution
+20124	14162	1	simulation	computational fluid dynamics
+12895	17275	1	semantic web	rdf/xml
+14152	12332	1	voice over ip	quality of service
+16750	19245	1	web server	ip address
+16053	22509	1	mobile phone	instant messaging
+17934	9954	1	graph isomorphism	computational complexity theory
+18434	6492	1	select	ms sql server
+12102	9336	1	multiple comparisons	false discovery rate
+895	1967	1	mainframe computer	ibm
+3963	2860	1	cross-covariance	matrix of covariances
+1199	8839	1	cognitive science	artificial intelligence
+8855	19178	1	regression analysis	least squares
+7521	2098	1	voxel	mri
+2732	11539	1	stable model semantics	autoepistemic logic
+19223	4923	1	regular expression	pattern matching
+22079	10607	1	operating system	bell labs
+20104	6063	1	humanoid robot	autonomous robot
+6871	16743	1	hyperlink	html
+20426	8143	1	motion-compensation	h.264/mpeg-4 avc
+16731	10967	1	extract, transform and load	data warehouse
+8131	5336	1	mathematics	complex analysis
+13923	15636	1	supervised	pattern recognition
+22995	3160	1	geodesic	calculus of variations
+7555	14396	1	universal quantification	logical conjunction
+18998	1613	1	mathematical model	computer simulation
+7355	3535	1	mixture model	minimum message length
+8383	18979	1	prolog	datalog
+6191	6989	1	mutual information	independent component analysis
+17215	11614	1	gamma	dirichlet distribution
+9929	12993	1	context-sensitive grammar	chomsky hierarchy
+10531	18510	1	tensor	differential geometry
+18853	10967	1	online transaction processing	data warehouse
+11003	2180	1	web ontology language	foaf
+11990	7815	1	logic	inference
+13767	12662	1	browser	javascript
+7835	2973	1	theoretical computer science	automata theory
+23149	14473	1	empirical bayes	bayesian probability
+8353	12355	1	dynamically typed	smalltalk
+11093	3435	1	machine vision	computer vision
+8183	12662	1	microsoft visual studio	javascript
+6186	6920	1	stored procedure	mysql
+17321	3535	1	occam's razor	minimum message length
+7555	11108	1	universal quantification	∧
+8145	21671	1	sequence alignment	dynamic programming
+23120	21990	1	generative processes	determinism
+649	10111	1	latent dirichlet allocation	dirichlet
+1109	17793	1	stochastic process	random walk
+13856	7556	1	asymptotic computational complexity	asymptotic analysis
+5300	20886	1	personal information management	cognitive psychology
+13206	2116	1	directed graph	acyclic digraph
+13227	20495	1	spherical harmonics	fourier series
+18238	8143	1	motion compensation	h.264/mpeg-4 avc
+17594	22079	1	vax	operating system
+15918	3800	1	projective space	hyperplane
+21239	18457	1	probability theory	monotonically non-decreasing
+3632	186	1	protein	ion channel
+11357	1564	1	object-relational database	database management system
+1055	23130	1	l^{\,p}-spaces	functional analysis
+17134	4856	1	java	corba
+14618	19526	1	non-monotonic logic	reasoning by default
+23149	3838	1	empirical bayes	bayes' theorem
+23331	224	1	enterprise information integration	data integration
+20613	16542	1	single-linkage clustering	cluster analysis
+19950	828	1	clustering algorithms	bioinformatics
+10310	1426	1	supervised learning	backpropagation
+8284	15896	1	probability	bayesians
+12895	21886	1	semantic web	friend of a friend
+12895	7987	1	semantic web	computational semantics
+15222	16743	1	html element	html
+12905	16346	1	neural network	parallel distributed processing
+20985	8482	1	correlation function	autocorrelation
+2520	12326	1	decision support environments	data warehousing
+3632	828	1	protein	bioinformatics
+17096	23490	1	np-hard	np-complete
+11173	626	1	principal component analysis	nonlinear dimensionality reduction
+11605	1395	1	partially observable markov decision	markov decision
+20287	21233	1	world wide web	web search engine
+12676	5918	1	probability distribution	normal distribution
+16750	19828	1	web server	web cache
+12	17331	1	semi-supervised learning	gibbs sampling
+11657	6483	1	constraint programming	constraint logic programming
+11923	7765	1	tree	graph
+14905	2253	1	statistical classification	binary classification
+6235	14971	1	moore's law	flash memory
+17946	15238	1	support vector machine	sequential minimal optimization
+10531	1258	1	tensor	matrix
+21012	23088	1	perl	c
+8304	10596	1	word error rate	f-measure
+6231	14463	1	uml	software engineering
+6899	9214	1	monte carlo	computer go
+2758	1123	1	random-access memory	computer data storage
+3969	8627	1	convex hull	convex combination
+7987	5958	1	computational semantics	computational linguistics
+6660	8070	1	xml-retrieval	information retrieval
+17071	9561	1	wsdl version 2.0	web service
+10787	12030	1	sql language	oracle corporation
+7560	19827	1	logic programming	horn clause
+1164	17981	1	proof theory	mathematical logic
+20490	4439	1	twitter	application programming interface
+895	11311	1	mainframe computer	batch
+3628	16522	1	cross-correlation	convolution
+15457	10708	1	naive bayes classifier	document classification
+11397	8136	1	quantification	first-order logic
+9954	124	1	computational complexity theory	combinatorial
+11984	900	1	logit	generalized linear model
+4612	1499	1	n-gram	bigram
+23163	1059	1	snapshot isolation	serializability
+12676	6167	1	probability distribution	exponential distribution
+17946	22342	1	support vector machine	margin classifier
+2941	12787	1	xquery	xpath
+14003	22858	1	spearman's rank correlation coefficient	statistical dependence
+9804	363	1	subrecursive hierarchies	computability theory
+4594	5445	1	corpus	machine translation
+1602	5113	1	robust statistics	estimator
+20705	7448	1	linear	hilbert space
+21191	20430	1	ontology engineering	ontologies
+10634	16109	1	systran	bilingual dictionary
+16856	17755	1	temporal difference learning	backgammon
+11345	12663	1	signal processing	estimation theory
+17245	1880	1	statistical significance	test
+18810	9574	1	isomorphism	algebraic structure
+6720	8013	1	global serializability	distributed transaction
+12979	12986	1	linear combination	linear algebra
+8658	357	1	non-parametric	kendall's tau
+3125	4502	1	data definition language	codasyl
+16137	1967	1	open source	ibm
+16502	7349	1	bacteria	amino acid
+36	19506	1	usenet	aol
+9620	5348	1	quantum mechanics	probabilistic
+5179	15864	1	phonology	optimality theory
+17981	10809	1	mathematical logic	boolean algebras
+12471	420	1	finite set	cardinality
+11432	16522	1	fourier transform	convolution
+3535	7253	1	minimum message length	minimum description length
+6899	17638	1	monte carlo	molecular dynamics
+413	10158	1	visual studio 2008	ado.net entity
+7857	20744	1	endgame	chess
+9655	20136	1	survival analysis	statistics
+15969	19965	1	xml schema	dtd
+8368	17934	1	subgraph isomorphism	graph isomorphism
+12355	23342	1	smalltalk	metaclass
+17879	1446	1	maximum likelihood estimate	fisher information
+16391	13761	1	valency	arity
+14107	3125	1	schema	data definition language
+13543	11614	1	gamma distribution	dirichlet distribution
+7755	268	1	modules	fortran
+20068	7633	1	markov blanket	bayesian network
+15636	6276	1	pattern recognition	computer science
+6717	22348	1	agent architecture	action selection
+11990	17261	1	logic	deductive reasoning
+10310	9678	1	supervised learning	learning to rank
+14014	11232	1	perceptron	kernel trick
+13406	15241	1	virtual machine	perl virtual machine
+626	6989	1	nonlinear dimensionality reduction	independent component analysis
+18810	22834	1	isomorphism	equivalence relation
+20036	6276	1	type theory	computer science
+2622	15557	1	network theory	network science
+13947	3779	1	bootstrap aggregating	boosting
+14905	9863	1	statistical classification	multiclass classification
+4053	20724	1	normality	anovas
+11597	8839	1	planning	artificial intelligence
+10277	18976	1	qr decomposition	matrix decomposition
+15969	4948	1	xml schema	document type definition
+929	14262	1	object-oriented programming	messaging
+7124	7734	1	python	object oriented
+12916	17638	1	protein structure prediction	molecular dynamics
+10055	1769	1	version space	rough set
+6167	23455	1	exponential distribution	expected value
+19344	6513	1	problem of induction	deduction
+16731	12326	1	extract, transform and load	data warehousing
+3403	17082	1	computer program	compiled
+15269	21064	1	planar	isomorphic
+7124	21012	1	python	perl
+14250	17760	1	minimax	computer chess
+2304	13274	1	mapreduce	bigtable
+18434	9164	1	select	postgresql
+21574	8330	1	stochastic context-free grammar	context-free grammar
+13943	20189	1	stanford	facebook
+9664	19364	1	stereopsis	correspondence problem
+1369	13881	1	source code	assembly language
+17505	867	1	indeterminism	deterministically
+18510	4699	1	differential geometry	differentiable manifold
+1916	8839	1	expert system	artificial intelligence
+19181	9362	1	inner product space	complete inner product space
+6120	15851	1	spatial database	spatial analysis
+21671	6362	1	dynamic programming	chart parser
+12601	12000	1	peer-to-peer	distributed hash table
+9145	937	1	quadratic programming	convex optimization
+929	19917	1	object-oriented programming	object database
+23151	20521	1	theorem	deductive system
+7544	18810	1	vector space	isomorphism
+6897	12000	1	gnutella	distributed hash table
+9876	14496	1	object relational mapping layer	object-oriented database management system
+10905	8839	1	robotics	artificial intelligence
+1457	8631	1	statistical techniques	computational biology
+22834	21525	1	equivalence relation	relation
+15650	22475	1	natural language processing	natural language generation
+5190	19999	1	sun	grid computing
+1085	11990	1	second-order logic	logic
+10033	14923	1	speech recognition	speech corpus
+1258	18884	1	matrix	covariance matrix
+1569	12714	1	loss function	bayesian inference
+12662	23088	1	javascript	c
+11730	9779	1	owl	description logic
+17792	7091	1	independent set	graph theory
+3551	16453	1	phonotactics	phoneme
+1085	10690	1	second-order logic	pspace
+11581	8839	1	frame problem	artificial intelligence
+17134	15222	1	java	html element
+12506	420	1	multiset	cardinality
+12482	20690	1	phrase structure grammar	grammar
+7893	8837	1	gaussian	conjugate prior
+10834	23130	1	orthonormal basis	functional analysis
+6580	1877	1	planar graph	complete bipartite graph
+10487	13047	1	tuple	cartesian product
+11232	19256	1	kernel trick	kernel methods
+20644	4929	1	pivoting	linear programming
+11836	20739	1	partial differential equation	analysis
+5025	1561	1	web crawling	internet archive
+20169	9574	1	structure	algebraic structure
+17505	21990	1	indeterminism	determinism
+7448	1427	1	hilbert space	euclidean space
+4352	18342	1	residuals	mean
+3632	50	1	protein	dna
+17321	7253	1	occam's razor	minimum description length
+15239	6614	1	algorithmic efficiency	algorithm
+7560	14769	1	logic programming	answer set programming
+5395	3620	1	sun microsystems	gnu general public license
+6180	19147	1	text corpus	british national corpus
+21074	885	1	feature extraction	edge detection
+3403	17090	1	computer program	compiler
+16743	8237	1	html	cascading style sheets
+18103	7513	1	search tree	alpha-beta pruning
+6276	1297	1	computer science	association for computing machinery
+7253	13911	1	minimum description length	compression of the data
+19572	19856	1	sorting algorithm	best, worst and average case
+3608	18315	1	huffman coding	data compression
+7723	9371	1	topologies	continuous
+935	19194	1	sneps	network
+8142	16658	1	rete algorithm	ops5
+6695	5683	1	inductive reasoning	inductive logic programming
+6529	50	1	molecular biology	dna
+7622	7832	1	polynomial	logarithm
+15864	11517	1	optimality theory	linguistics
+10690	9954	1	pspace	computational complexity theory
+18051	2879	1	multi-agent planning	automated planning and scheduling
+6841	1524	1	entropy encoding	entropy
+4856	4439	1	corba	application programming interface
+21500	16077	1	stream processing	cpu
+9387	8837	1	hyperparameter	conjugate prior
+10310	17671	1	supervised learning	classification
+5999	10154	1	syntactic ambiguity	ambiguity
+23313	5269	1	parameterized complexity theory	kernelization
+19541	19934	1	join algorithm	hash join
+10310	7990	1	supervised learning	artificial neural network
+12809	11887	1	the wall street journal	the new york times
+14888	711	1	information security	computer security
+7544	10513	1	vector space	spaces of p-integrable functions
+13406	12355	1	virtual machine	smalltalk
+21926	16178	1	rgb color model	jpeg
+16743	21422	1	html	css
+9601	21013	1	resource description	dbpedia
+7693	10210	1	portuguese	arabic
+16023	17113	1	product data management	computer-aided design
+14244	18510	1	mathematical	differential geometry
+11348	22113	1	integer	exponentiation
+363	6614	1	computability theory	algorithm
+19716	11628	1	statistical inference	hypothesis
+16009	18618	1	maximum satisfiability	branch and bound
+4499	21105	1	3nf	first normal form
+6191	17528	1	mutual information	information theory
+18197	649	1	latent variable	latent dirichlet allocation
+6473	16743	1	xml	html
+18089	7513	1	search algorithm	alpha-beta pruning
+268	17090	1	fortran	compiler
+20136	23070	1	statistics	pearson product-moment correlation coefficient
+20151	7752	1	symmetric matrix	diagonal matrix
+3166	7990	1	connectionist	artificial neural network
+15522	7001	1	self-organizing map	generative topographic map
+12676	12979	1	probability distribution	linear combination
+1369	15424	1	source code	compilation
+5177	10282	1	lisp	garbage collection
+8284	11309	1	probability	conditional probability
+10988	15424	1	programming language	compilation
+2524	19376	1	modal logic	kripkean
+15918	8210	1	projective space	projective plane
+16514	2162	1	system of linear equations	null space
+8070	6276	1	information retrieval	computer science
+21089	20844	1	ibm almaden research center	blue gene
+20910	17090	1	parsing	compiler
+18089	6283	1	search algorithm	recommender system
+13256	8482	1	correlogram	autocorrelation
+20059	19923	1	logical equivalence	if and only if
+20197	11902	1	optical flow	motion estimation
+21229	3243	1	dual space	basis
+20151	18304	1	symmetric matrix	quadratic form
+20753	18442	1	search engine	open directories
+14115	1199	1	electroencephalography	cognitive science
+1564	20087	1	database management system	database
+6231	8596	1	uml	object-oriented
+18526	20744	1	game theory	chess
+19149	20744	1	india	chess
+16465	1564	1	sql	database management system
+22968	22193	1	web search query	web query classification
+10849	7260	1	rigid body	center of mass
+15636	21209	1	pattern recognition	bayesian
+1122	16487	1	web browser	hypertext transfer protocol
+12905	7990	1	neural network	artificial neural network
+2030	21023	1	programming paradigm	functional programming
+1827	22133	1	consistent heuristic	admissible
+13977	23088	1	supercomputer	c
+8136	18689	1	first-order logic	domain of discourse
+20211	13881	1	high-level language	assembly language
+6276	828	1	computer science	bioinformatics
+20910	8330	1	parsing	context-free grammar
+7555	11397	1	universal quantification	quantification
+8928	9789	1	neuroscientists	hippocampus
+11003	12895	1	web ontology language	semantic web
+20205	21013	1	other related datasets	dbpedia
+20190	12986	1	matrices	linear algebra
+10988	8998	1	programming language	high-level programming language
+12935	1258	1	rotation	matrix
+17678	5565	1	unix	api
+17868	2626	1	topology	metric space
+20287	610	1	world wide web	ascii
+7544	19923	1	vector space	if and only if
+22459	20495	1	uniformly	fourier series
+8488	3139	1	load-balancing	two or more computers
+5395	18245	1	sun microsystems	sparc
+17594	20536	1	vax	alpha axp
+20280	9169	1	exptime	complexity class
+2563	6614	1	tabu search	algorithm
+13261	2019	1	principle of maximum entropy	logistic regression
+20793	8383	1	turing-complete	prolog
+9954	21969	1	computational complexity theory	co-np
+17851	16077	1	simd	cpu
+2626	21291	1	metric space	euclidean distance
+9779	8839	1	description logic	artificial intelligence
+21778	14197	1	probabilistic logic	fuzzy logic
+17913	15680	1	satisfiability	approximation algorithm
+2030	20407	1	programming paradigm	efficiency
+7018	2593	1	inverse problem	eeg
+16481	20836	1	scientific visualization	computer graphics
+21564	1395	1	reinforcement learning	markov decision
+15780	4729	1	swarm intelligence	evolutionary computation
+13030	18979	1	db2	datalog
+16453	13124	1	phoneme	finnish
+19102	1524	1	statistical mechanics	entropy
+18227	21473	1	systems biology	dna microarray
+19626	8839	1	intelligent agent	artificial intelligence
+21105	8615	1	first normal form	database normalization
+20172	10679	1	youtube	web 2.0
+6695	17261	1	inductive reasoning	deductive reasoning
+23361	20189	1	myspace	facebook
+17868	8131	1	topology	mathematics
+20910	11858	1	parsing	bottom-up parsing
+11348	22565	1	integer	countably infinite
+7780	3409	1	propositional formula	propositional calculus
+8150	22093	1	mp3	id3v1 and id3v2
+17671	11444	1	classification	machine learning
+10996	8330	1	formal grammar	context-free grammar
+6473	20287	1	xml	world wide web
+20490	6630	1	twitter	slang
+3829	13542	1	normally distributed	confidence interval
+14826	21841	1	syntax	lfg
+9842	19092	1	directed acyclic graph	dijkstra's algorithm
+7356	1561	1	web crawler	internet archive
+19361	16293	1	lipschitz continuity	continuity
+22577	17076	1	romance languages	inflection
+17134	11815	1	java	computer architecture
+5991	10730	1	neuroevolution	evolutionary algorithm
+22390	19737	1	arabic language	arabic alphabet
+7042	1877	1	spanning tree	complete bipartite graph
+11289	7924	1	queueing theory	poisson probability distribution
+3435	2760	1	computer vision	augmented reality
+11887	22307	1	the new york times	new york city
+21763	6614	1	selection algorithm	algorithm
+11984	2019	1	logit	logistic regression
+13609	6249	1	discrete	combinatorics
+1575	23224	1	factor graph	belief propagation
+6580	2263	1	planar graph	embedded
+7308	6614	1	binary search	algorithm
+10543	18300	1	polytope	manifold
+19483	23455	1	probability measure	expected value
+6341	11805	1	visual	perception of motion
+8508	13313	1	gb	digital information storage
+50	828	1	dna	bioinformatics
+8771	21163	1	phase space	degree of freedom
+2732	14769	1	stable model semantics	answer set programming
+10996	17090	1	formal grammar	compiler
+18418	20495	1	frequency domain	fourier series
+7544	12876	1	vector space	function space
+20287	1891	1	world wide web	domain name system
+11258	11999	1	interlingua	adverb
+5219	23288	1	head-driven phrase structure grammar	generalized phrase structure grammar
+8131	18300	1	mathematics	manifold
+10639	6777	1	denumerable  sets	number
+2019	1506	1	logistic regression	linear discriminant analysis
+8564	22353	1	context-free	classification as a special type
+13559	4126	1	pdp 11/03	microprocessor
+2067	9213	1	john mccarthy	cloud computing
+18597	11232	1	linear classifications	kernel trick
+6858	13869	1	particle filter	hidden markov model
+8259	1909	1	best-first	a* search
+21399	9205	1	stable	negation as failure
+22130	17261	1	natural deduction	deductive reasoning
+5904	11990	1	logical connective	logic
+21201	13416	1	encryption	cryptography
+17912	7179	1	immune system	bacterium
+1947	20045	1	macintosh	linux
+16325	13226	1	variance	standard deviation
+7746	3188	1	set theorists	natural number
+2541	1814	1	transaction processing performance council	transaction processing
+5157	17011	1	electronic commerce	amazon.com
+17981	6276	1	mathematical logic	computer science
+15680	6614	1	approximation algorithm	algorithm
+7124	12662	1	python	javascript
+12968	8837	1	exponential family	conjugate prior
+20649	17802	1	translation memory	computer-assisted translation
+22051	1916	1	knowledge engineering	expert system
+7356	17995	1	web crawler	pagerank
+4959	9166	1	online algorithm	job shop scheduling
+21239	1006	1	probability theory	exponential
+14654	3577	1	random graph	probabilistic method
+20461	15621	1	pearson correlation coefficient	correlation and dependence
+17760	18252	1	computer chess	brute force
+22717	12284	1	xml database	relational database
+6580	12414	1	planar graph	graph embedding
+4380	16077	1	minicomputer	cpu
+13416	6614	1	cryptography	algorithm
+22307	20961	1	new york city	metonyms
+1258	4005	1	matrix	document-term matrices
+17995	2867	1	pagerank	hits
+18418	3275	1	frequency domain	fourier
+19917	18892	1	object database	odmg
+20287	10679	1	world wide web	web 2.0
+8368	23490	1	subgraph isomorphism	np-complete
+6401	1258	1	rotation matrices	matrix
+21574	15105	1	stochastic context-free grammar	statistical parsing
+8462	3981	1	maximum likelihood	likelihood function
+13556	17688	1	relevance logic	paraconsistent logic
+13497	19286	1	subspace clustering	clustering algorithm
+21774	1916	1	rule base	expert system
+15363	4459	1	range searching	computational geometry
+14377	16061	1	modus ponens	forward chaining
+12916	13435	1	protein structure prediction	protein folding
+15457	3838	1	naive bayes classifier	bayes' theorem
+607	1827	1	heuristic function	consistent heuristic
+20501	50	1	gene expression	dna
+1564	10967	1	database management system	data warehouse
+10487	1770	1	tuple	relational model
+15253	12895	1	semantic web services	semantic web
+20151	15983	1	symmetric matrix	spectral theorem
+12799	22369	1	uniform distribution	probability density function
+13869	21671	1	hidden markov model	dynamic programming
+20769	22466	1	confirmatory data analysis	exploratory data analysis
+17314	4207	1	semi-structured	database model
+22350	3409	1	wff	propositional calculus
+17981	19923	1	mathematical logic	if and only if
+13406	11065	1	virtual machine	program
+16949	20123	1	logical schema	data model
+12870	11923	1	tree structure	tree
+8837	3838	1	conjugate prior	bayes' theorem
+8131	12785	1	mathematics	fractal geometry
+14576	21239	1	continuous uniform	probability theory
+17639	5445	1	natural language understanding	machine translation
+12869	12993	1	context-sensitive	chomsky hierarchy
+15658	23198	1	reactive planning	classical planning
+9748	12986	1	numerical linear algebra	linear algebra
+16848	5184	1	domain theory	denotational semantics
+19310	3125	1	data manipulation language	data definition language
+11730	12895	1	owl	semantic web
+10404	15511	1	riemannian manifold	inner product
+11990	11684	1	logic	deontic logic
+4689	179	1	n	hypercube
+8330	22353	1	context-free grammar	classification as a special type
+13977	16077	1	supercomputer	cpu
+21784	11990	1	temporal logic	logic
+11923	8732	1	tree	bipartite graph
+3154	2639	1	numerical analysis	newton's method
+20389	6695	1	syllogism	inductive reasoning
+13869	828	1	hidden markov model	bioinformatics
+14250	18526	1	minimax	game theory
+15915	6614	1	graphs	algorithm
+17113	20836	1	computer-aided design	computer graphics
+12	11444	1	semi-supervised learning	machine learning
+21990	19825	1	determinism	causally
+15457	6173	1	naive bayes classifier	linear classifier
+3050	6783	1	metadata	controlled vocabularies
+21025	6958	1	binary search tree	b-tree
+6473	4948	1	xml	document type definition
+1564	11741	1	database management system	concurrent user accesses
+15934	8772	1	spectral graph theory	graph theoretic
+20734	7832	1	taylor series	logarithm
+21791	5971	1	formal verification	formal methods
+13366	13780	1	stochastic optimization	stochastic approximation
+3154	12293	1	numerical analysis	finite difference
+4929	6614	1	linear programming	algorithm
+17877	18300	1	vector field	manifold
+1232	4563	1	multigraph	graph labeling
+12676	22369	1	probability distribution	probability density function
+20762	4573	1	arpa	arpanet
+4218	16926	1	mercer's theorem	gramian matrix
+4220	18315	1	run-length encoding	data compression
+7855	2109	1	neuroimaging	functional magnetic resonance imaging
+13406	3277	1	virtual machine	programs
+15687	12000	1	hash table	distributed hash table
+19747	7448	1	laplace operator	hilbert space
+3154	17703	1	numerical analysis	analysis of
+3613	711	1	firewall	computer security
+21398	9198	1	correlation clustering	biclustering
+4126	7819	1	microprocessor	terminal
+18089	6614	1	search algorithm	algorithm
+6200	7838	1	tilde	diacritic
+11730	21766	1	owl	swoogle
+10988	11065	1	programming language	program
+20287	1561	1	world wide web	internet archive
+1770	5357	1	relational model	relational database management system
+18439	9214	1	monte carlo tree search	computer go
+9504	21961	1	random variable	random matrices
+14618	6853	1	non-monotonic logic	default logic
+12662	22999	1	javascript	script
+20045	1967	1	linux	ibm
+22807	16434	1	memory for facts	hippocampal formation
+13624	9691	1	sequential	distance matrix
+18420	7472	1	nonparametric statistics	dirichlet process
+11836	11432	1	partial differential equation	fourier transform
+5904	20915	1	logical connective	boolean function
+4699	18842	1	differentiable manifold	diffeomorphism
+12236	1079	1	trustrank	spam
+21926	18897	1	rgb color model	digital camera
+18526	11202	1	game theory	decision theory
+13567	6276	1	electrical engineering	computer science
+6168	12861	1	ordered sets	equivalent
+13690	15470	1	statistical	p-value
+22834	7174	1	equivalence relation	equivalence class
+8131	10221	1	mathematics	cardinal number
+11855	8136	1	types	first-order logic
+14826	16568	1	syntax	categorial grammar
+13497	16542	1	subspace clustering	cluster analysis
+9164	10371	1	postgresql	join
+19176	10690	1	transitive closure	pspace
+12529	10578	1	nvidia	graphics processing unit
+36	12459	1	usenet	tb
+2563	6861	1	tabu search	simulated annealing
+10126	22246	1	query by humming	mpeg-7
+12102	13860	1	multiple comparisons	microarray
+6529	828	1	molecular biology	bioinformatics
+16851	17594	1	virtual memory	vax
+12355	9351	1	smalltalk	language
+1877	8732	1	complete bipartite graph	bipartite graph
+1258	5389	1	matrix	dual bases
+7815	20154	1	inference	linear regression
+8284	21778	1	probability	probabilistic logic
+13181	8136	1	model theory	first-order logic
+21073	6614	1	profiling	algorithm
+12942	7886	1	subset	set theory
+12003	18995	1	graphical	conditional random field
+16935	5550	1	inverted index	document retrieval
+11836	12293	1	partial differential equation	finite difference
+11517	14661	1	linguistics	discourse analysis
+20252	7091	1	topological graph theory	graph theory
+12601	8150	1	peer-to-peer	mp3
+486	2633	1	kalman filter	estimates
+23332	10531	1	tensor product	tensor
+6899	21446	1	monte carlo	monte carlo integration
+8131	1004	1	mathematics	infinitesimal calculus
+23490	17519	1	np-complete	decision problem
+21360	20495	1	harmonic analysis	fourier series
+15063	12012	1	projective geometry	euclidean
+9205	11539	1	negation as failure	autoepistemic logic
+17005	16542	1	k-medoids	cluster analysis
+59	19267	1	yahoo	altavista
+20045	17434	1	linux	graphical user interface
+15710	4412	1	resampling	non-parametric statistics
+12418	7633	1	gene regulatory network	bayesian network
+18774	7633	1	probabilistic graphical model	bayesian network
+19624	16743	1	structured document	html
+608	23088	1	cobol	c
+14782	15650	1	query expansion	natural language processing
+21582	20220	1	national science foundation	defense advanced research projects agency
+17519	8620	1	decision problem	co-np-complete
+2520	10967	1	decision support environments	data warehouse
+5395	16077	1	sun microsystems	cpu
+20489	1122	1	web feed	web browser
+18899	13881	1	subroutine	assembly language
+17973	13542	1	interval estimate	confidence interval
+13869	18995	1	hidden markov model	conditional random field
+7815	17261	1	inference	deductive reasoning
+514	13857	1	multi-document summarization	automatic summarization
+17262	20760	1	referential constraint	foreign key
+6473	10955	1	xml	unicode
+3403	14866	1	computer program	central processor
+20136	15533	1	statistics	sampling distribution
+16462	23063	1	node	network topology
+4568	6717	1	cognitive architecture	agent architecture
+12916	3632	1	protein structure prediction	protein
+7124	13544	1	python	glue language
+21233	19267	1	web search engine	altavista
+10671	21209	1	prior probability	bayesian
+18434	19310	1	select	data manipulation language
+19688	16453	1	underspecification	phoneme
+7693	13279	1	portuguese	inflect
+9876	19917	1	object relational mapping layer	object database
+20123	13342	1	data model	conceptual data model
+15812	12304	1	forest	polytree
+1164	22130	1	proof theory	natural deduction
+8855	23052	1	regression analysis	causality
+17946	6173	1	support vector machine	linear classifier
+13076	1524	1	entropy rate	entropy
+16178	16656	1	jpeg	color space
+17639	15650	1	natural language understanding	natural language processing
+1109	8284	1	stochastic process	probability
+21239	1817	1	probability theory	cumulative distribution function
+10033	23287	1	speech recognition	recognizing the speaker
+19716	7815	1	statistical inference	inference
+7544	20105	1	vector space	ordinary differential equation
+16989	9951	1	google search	google news
+5294	13947	1	cross validation	bootstrap aggregating
+19870	21023	1	spreadsheet	functional programming
+17981	7560	1	mathematical logic	logic programming
+17678	4305	1	unix	c programming language
+1059	15916	1	serializability	concurrency control
+8131	22987	1	mathematics	rigorous arguments
+21529	17800	1	backtracking	backjumping
+32	13301	1	errors	degrees of freedom
+17793	11808	1	random walk	markov process
+10988	3403	1	programming language	computer program
+14736	22387	1	propbank	framenet
+17792	12570	1	independent set	clique
+3701	7091	1	laplacian matrix	graph theory
+268	23088	1	fortran	c
+17134	2778	1	java	automatic garbage collector
+7900	15916	1	multiversion concurrency control	concurrency control
+717	16109	1	lexicographers	bilingual dictionary
+5445	8839	1	machine translation	artificial intelligence
+12682	6522	1	decision tree learning	data mining
+8131	17528	1	mathematics	information theory
+2910	16743	1	http	html
+9146	21671	1	longest common subsequence	dynamic programming
+12800	23241	1	parser	cfg
+6886	2524	1	modal operator	modal logic
+11067	3932	1	ontologists	mereology
+20151	18907	1	symmetric matrix	hessian
+10111	8837	1	dirichlet	conjugate prior
+2946	17035	1	metasearch engine	federated search
+10033	7194	1	speech recognition	language model
+14330	21025	1	binary tree	binary search tree
+15473	19176	1	transitive relation	transitive closure
+18787	18979	1	rdf	datalog
+17678	13881	1	unix	assembly language
+2030	9277	1	programming paradigm	oop
+7320	6974	1	visual perception	retina
+7765	8732	1	graph	bipartite graph
+11730	18787	1	owl	rdf
+117	420	1	power set	cardinality
+5177	9003	1	lisp	mccarthy
+607	22060	1	heuristic function	admissible heuristic
+7091	8656	1	graph theory	glossary of graph theory
+10679	14485	1	web 2.0	folksonomies
+14107	6473	1	schema	xml
+16061	8839	1	forward chaining	artificial intelligence
+23417	9213	1	service-oriented architecture	cloud computing
+593	14330	1	tree data structure	binary tree
+12749	9604	1	sorting	search
+2960	4729	1	self-organization	evolutionary computation
+21408	883	1	predicate logic	existential
+13543	6167	1	gamma distribution	exponential distribution
+10955	10210	1	unicode	arabic
+16514	5284	1	system of linear equations	iterative method
+184	11858	1	top-down parsing	bottom-up parsing
+14826	3657	1	syntax	formal system
+19194	10475	1	network	homophilic
+7855	11368	1	neuroimaging	medical imaging
+18879	7512	1	data type	data dictionary
+12614	7864	1	microsoft	customer relationship management
+13842	537	1	file system	file manager
+16743	3403	1	html	computer program
+1770	20155	1	relational model	relational algebra
+4594	16321	1	corpus	brown corpus
+929	11850	1	object-oriented programming	abstraction
+16465	11597	1	sql	planning
+9922	12714	1	bayesian interpretation of probability	bayesian inference
+18355	22638	1	national aeronautics and space administration	international space station
+22565	420	1	countably infinite	cardinality
+12676	13543	1	probability distribution	gamma distribution
+15983	20190	1	spectral theorem	matrices
+10578	2072	1	graphics processing unit	gpgpu
+6871	12410	1	hyperlink	link label
+20287	6871	1	world wide web	hyperlink
+10988	11850	1	programming language	abstraction
+9169	21969	1	complexity class	co-np
+7856	19999	1	software as a service	grid computing
+9057	13717	1	folded	domain
+11603	7187	1	formal language	decision procedure
+22442	15687	1	trie	hash table
+11445	7633	1	importance sampling	bayesian network
+16706	18979	1	ibm db2	datalog
+1916	7990	1	expert system	artificial neural network
+117	22565	1	power set	countably infinite
+11990	5958	1	logic	computational linguistics
+6820	18995	1	markov random field	conditional random field
+7544	4699	1	vector space	differentiable manifold
+42	12861	1	partial order	equivalent
+7040	12905	1	predictive analytics	neural network
+859	1575	1	graphical model	factor graph
+9164	6920	1	postgresql	mysql
+23450	21671	1	greedy algorithm	dynamic programming
+12614	20045	1	microsoft	linux
+1439	6871	1	web	hyperlink
+4502	608	1	codasyl	cobol
+3305	379	1	machine learning ensemble	bagging
+16325	18884	1	variance	covariance matrix
+14618	14769	1	non-monotonic logic	answer set programming
+10972	3676	1	pierre-simon laplace	bayesian interpretation
+10988	2134	1	programming language	lexical
+9363	50	1	genotype	dna
+16481	16699	1	scientific visualization	data visualization
+18300	21360	1	manifold	harmonic analysis
+4220	16178	1	run-length encoding	jpeg
+7544	749	1	vector space	norm
+22440	8136	1	higher-order logic	first-order logic
+19025	20123	1	function model	data model
+23191	17331	1	markov chain monte carlo	gibbs sampling
+8383	21671	1	prolog	dynamic programming
+13406	21012	1	virtual machine	perl
+16743	4948	1	html	document type definition
+17678	9419	1	unix	kernel
+3050	10967	1	metadata	data warehouse
+23151	7815	1	theorem	inference
+19194	12555	1	network	knowledge management
+11309	3838	1	conditional probability	bayes' theorem
+22313	21919	1	variable selection	cross-validation
+23417	4856	1	service-oriented architecture	corba
+5409	6522	1	decision trees	data mining
+19716	13542	1	statistical inference	confidence interval
+5572	16743	1	search and indexing	html
+7253	23076	1	minimum description length	compress the data
+7832	1955	1	logarithm	log-normal distribution
+11331	13731	1	model selection	bayesian information criterion
+2030	7560	1	programming paradigm	logic programming
+8241	6249	1	representation theory	combinatorics
+358	8136	1	well-formed formula	first-order logic
+2483	7765	1	graph rewrite operations	graph
+7448	12876	1	hilbert space	function space
+12895	2180	1	semantic web	foaf
+8131	453	1	mathematics	control theory
+8855	1559	1	regression analysis	residual
+8936	7512	1	type	data dictionary
+7560	19489	1	logic programming	abductive logic programming
+16595	18771	1	levenshtein distance	hamming distance
+16372	10084	1	netflix prize	collaborative filtering
+23085	6458	1	nearest neighbor search	curse of dimensionality
+559	15219	1	vision	binocular vision
+18770	20087	1	materialized view	database
+20280	135	1	exptime	2-exptime
+12787	19043	1	xpath	world wide web consortium
+268	2658	1	fortran	floating point
+21791	16223	1	formal verification	correctness
+8013	15916	1	distributed transaction	concurrency control
+21784	21791	1	temporal logic	formal verification
+8383	10988	1	prolog	programming language
+21967	1501	1	image segmentation	partition an image
+937	14293	1	convex optimization	convex
+7886	10221	1	set theory	cardinal number
+1944	5184	1	domains	denotational semantics
+18510	11050	1	differential geometry	curve
+10405	21074	1	hough transform	feature extraction
+21132	8837	1	normal	conjugate prior
+18982	20231	1	intranet	computer network
+11984	7832	1	logit	logarithm
+19226	16298	1	ebay	amazon
+5177	7403	1	lisp	automatic storage management
+12905	1199	1	neural network	cognitive science
+20278	8732	1	hypergraph	bipartite graph
+18573	6260	1	type i and type ii errors	sensitivity and specificity
+3628	8482	1	cross-correlation	autocorrelation
+14371	82	1	constraint satisfaction	conjunctive query
+4207	20123	1	database model	data model
+8678	1769	1	rule induction	rough set
+2771	6522	1	free weka software	data mining
+23450	6614	1	greedy algorithm	algorithm
+10988	6276	1	programming language	computer science
+59	2444	1	yahoo	stanford university
+649	11614	1	latent dirichlet allocation	dirichlet distribution
+11603	12496	1	formal language	complexity theory
+20136	13542	1	statistics	confidence interval
+3785	17	1	self-similar	fractal
+7886	3188	1	set theory	natural number
+5984	5357	1	relational theory	relational database management system
+9504	20190	1	random variable	matrices
+23455	15250	1	expected value	covariance matrices
+2201	6695	1	mathematical induction	inductive reasoning
+20993	10084	1	preference elicitation	collaborative filtering
+3002	21408	1	universal	predicate logic
+6235	2784	1	moore's law	integrated circuit
+19716	19619	1	statistical inference	frequentist
+12236	17833	1	trustrank	spamdexing
+19474	17090	1	language specification	compiler
+21525	14098	1	relation	functional dependency
+1524	13073	1	entropy	chemical reaction
+17245	8467	1	statistical significance	test of significance
+6365	268	1	object-based programming	fortran
+4644	3779	1	logitboost	boosting
+8799	20136	1	student's t-test	statistics
+16465	2466	1	sql	qbe
+17280	21990	1	generative philosophy	determinism
+18853	19823	1	online transaction processing	batch processing
+23490	17934	1	np-complete	graph isomorphism
+3435	8839	1	computer vision	artificial intelligence
+10988	17090	1	programming language	compiler
+1506	6173	1	linear discriminant analysis	linear classifier
+8083	2701	1	ontology	folksonomy
+16856	11601	1	temporal difference learning	q-learning
+7800	14293	1	hessian matrix	convex
+749	1427	1	norm	euclidean space
+17678	7819	1	unix	terminal
+12714	3838	1	bayesian inference	bayes' theorem
+14250	11923	1	minimax	tree
+859	23224	1	graphical model	belief propagation
+3420	6710	1	prior distribution	information
+19472	15348	1	formal concept analysis	conceptual clustering
+587	1199	1	epistemology	cognitive science
+10547	12555	1	metaknowledge	knowledge management
+3487	6260	1	type ii error	sensitivity and specificity
+265	9929	1	pspace-complete	context-sensitive grammar
+14470	2622	1	social network	network theory
+20734	5336	1	taylor series	complex analysis
+14197	453	1	fuzzy logic	control theory
+23417	20147	1	service-oriented architecture	middleware
+6354	8330	1	lr parser	context-free grammar
+5959	1705	1	vector quantization	density estimation
+12911	6710	1	optimal design	information
+59	20753	1	yahoo	search engine
+6967	10371	1	query optimizer	join
+9264	16568	1	montague grammar	categorial grammar
+16174	17	1	recursion	fractal
+56	4219	1	skewness	shape parameter
+9996	6276	1	distributed computing	computer science
+5918	13317	1	normal distribution	cumulant
+20036	3188	1	type theory	natural number
+3195	22468	1	scale space	anisotropic diffusion
+21239	16638	1	probability theory	almost surely
+6276	17703	1	computer science	analysis of
+17321	12714	1	occam's razor	bayesian inference
+20136	13226	1	statistics	standard deviation
+2941	2859	1	xquery	xpath 2.0
+16174	9070	1	recursion	linguist
+4352	13301	1	residuals	degrees of freedom
+18959	12326	1	etl	data warehousing
+2911	18913	1	mathematical analysis	calculus
+1740	3025	1	riemannian	shortest path
+5395	108	1	sun microsystems	soa/business integration
+20690	8330	1	grammar	context-free grammar
+20136	15851	1	statistics	spatial analysis
+1490	6149	1	ranking function	okapi bm25
+23361	965	1	myspace	last.fm
+21961	1258	1	random matrices	matrix
+8106	17639	1	phrase structure rules	natural language understanding
+850	3838	1	"unconditional	bayes' theorem
+10690	7781	1	pspace	p
+20136	17245	1	statistics	statistical significance
+741	9930	1	terminology extraction	semantic similarity
+19178	900	1	least squares	generalized linear model
+17594	19988	1	vax	alpha
+15248	8554	1	similar	self-similarity
+12284	20155	1	relational database	relational algebra
+5918	1006	1	normal distribution	exponential
+8131	13416	1	mathematics	cryptography
+4126	10607	1	microprocessor	bell labs
+21777	22466	1	statistical hypothesis testing	exploratory data analysis
+10310	15457	1	supervised learning	naive bayes classifier
+8139	1426	1	stochastic gradient descent	backpropagation
+19638	21105	1	third normal form	first normal form
+23084	4468	1	unions	empty set
+22834	420	1	equivalence relation	cardinality
+3188	14215	1	natural number	countable set
+12421	17995	1	simrank	pagerank
+23194	11258	1	romance language	interlingua
+11904	16884	1	polyhedron	graph terminology
+11003	14643	1	web ontology language	rdf schema
+20252	12414	1	topological graph theory	graph embedding
+11444	1199	1	machine learning	cognitive science
+3154	18976	1	numerical analysis	matrix decomposition
+3376	11517	1	speech processing	linguistics
+4218	11232	1	mercer's theorem	kernel trick
+15342	19869	1	spline	b-spline
+13543	8837	1	gamma distribution	conjugate prior
+20045	3613	1	linux	firewall
+16453	2060	1	phoneme	morpheme
+17995	9401	1	pagerank	markov chain
+7560	3739	1	logic programming	theorem-prover
+15424	9576	1	compilation	common lisp
+184	20910	1	top-down parsing	parsing
+5184	12034	1	denotational semantics	concurrent computation
+1258	9401	1	matrix	markov chain
+16222	14505	1	multi-core processor	central processing unit
+16277	19393	1	dpll algorithm	cnf-sat
+12979	8627	1	linear combination	convex combination
+358	17704	1	well-formed formula	syntactic
+21239	8838	1	probability theory	convergence of random variables
+20136	14205	1	statistics	tests
+18089	23568	1	search algorithm	heuristic
+1565	16931	1	semantic memory	episodic memory
+17230	23052	1	ontological entities	causality
+8462	9703	1	maximum likelihood	m-estimator
+6458	4889	1	curse of dimensionality	combinatorial explosion
+6235	13746	1	moore's law	cpus
+18245	22726	1	sparc	nextstep
+12800	10996	1	parser	formal grammar
+1085	22130	1	second-order logic	natural deduction
+16848	6276	1	domain theory	computer science
+8070	14518	1	information retrieval	cross-language information retrieval
+3025	1827	1	shortest path	consistent heuristic
+7746	12183	1	set theorists	natural
+17760	1989	1	computer chess	chess endgame
+17321	3860	1	occam's razor	mml
+16465	3125	1	sql	data definition language
+3376	6435	1	speech processing	phonetics
+1770	12284	1	relational model	relational database
+19102	19339	1	statistical mechanics	partition function
+8771	17638	1	phase space	molecular dynamics
+8080	13952	1	spell checker	grammar checker
+20181	885	1	feature detection	edge detection
+1258	20203	1	matrix	invertible
+20136	22192	1	statistics	correlation
+6920	3620	1	mysql	gnu general public license
+7795	20087	1	relational	database
+11603	12993	1	formal language	chomsky hierarchy
+15650	11517	1	natural language processing	linguistics
+4004	10567	1	abstract vector spaces	dot product
+23490	5610	1	np-complete	knapsack problem
+2821	15916	1	mutual exclusion	concurrency control
+10068	8330	1	lr	context-free grammar
+233	7951	1	union	logical disjunction
+16750	2190	1	web server	html document
+2988	1705	1	histogram	density estimation
+10988	17684	1	programming language	c language
+7560	6416	1	logic programming	backward chaining
+11581	369	1	frame problem	event calculus
+2859	15969	1	xpath 2.0	xml schema
+6260	2253	1	sensitivity and specificity	binary classification
+9893	1965	1	totally ordered	partially ordered set
+7571	1965	1	total order	partially ordered set
+20719	9703	1	robust	m-estimator
+16494	11614	1	multinomial distribution	dirichlet distribution
+16465	4950	1	sql	object query language
+9656	16743	1	hypertext	html
+2524	1866	1	modal logic	deontic
+7757	11684	1	paraconsistent	deontic logic
+12676	193	1	probability distribution	poisson distribution
+20136	4202	1	statistics	jackknife resampling
+14480	4370	1	procedures	data structure
+20151	4548	1	symmetric matrix	diagonalized
+17793	9401	1	random walk	markov chain
+6696	14063	1	surface web	deep web
+17464	7174	1	modulo	equivalence class
+9172	7633	1	dynamic bayesian network	bayesian network
+6967	14954	1	query optimizer	query optimization
+7517	7349	1	mrna	amino acid
+13435	3632	1	protein folding	protein
+433	18463	1	tree-adjoining grammar	lexical functional grammar
+17464	21064	1	modulo	isomorphic
+21671	6355	1	dynamic programming	cocke-younger-kasami 
+17909	8070	1	relevance feedback	information retrieval
+14004	18897	1	usb port	digital camera
+6350	6614	1	simplex algorithm	algorithm
+9842	1570	1	directed acyclic graph	dependency graph
+7544	9620	1	vector space	quantum mechanics
+14407	5904	1	truth value	logical connective
+22796	17684	1	automatic garbage collection	c language
+22133	1909	1	admissible	a* search
+10787	18739	1	sql language	oracle
+13181	15915	1	model theory	graphs
+6657	15916	1	two-phase commit protocol	concurrency control
+8971	11288	1	cosine similarity	latent semantic analysis
+2583	13135	1	non-negative matrix factorization	latent class model
+20569	21532	1	knowledge-based systems	decision support system
+3188	11348	1	natural number	integer
+13341	8615	1	multivalued dependency	database normalization
+16736	10996	1	parse	formal grammar
+14697	50	1	aligned	dna
+13226	7024	1	standard deviation	error function
+15918	15063	1	projective space	projective geometry
+12614	4439	1	microsoft	application programming interface
+18739	16706	1	oracle	ibm db2
+4021	16699	1	information graphics	data visualization
+6899	23191	1	monte carlo	markov chain monte carlo
+2524	9779	1	modal logic	description logic
+1369	20045	1	source code	linux
+15558	12555	1	networks	knowledge management
+14330	17368	1	binary tree	binary search trees
+2840	20430	1	ontology alignment	ontologies
+23095	4977	1	sri international	latex
+22079	5265	1	operating system	graphical with icons and a desktop
+2524	13907	1	modal logic	accessibility relation
+5284	13680	1	iterative method	conjugate gradient
+18810	21229	1	isomorphism	dual space
+1890	3651	1	interval	convex subset
+626	11022	1	nonlinear dimensionality reduction	multidimensional scaling
+17927	21283	1	gzip	file compression and decompression
+6899	12714	1	monte carlo	bayesian inference
+6765	4459	1	polyhedra	computational geometry
+1348	4265	1	monetdb	column-oriented dbms
+1067	4959	1	online machine learning	online algorithm
+12905	8839	1	neural network	artificial intelligence
+1443	10753	1	random field	kriging
+15648	21432	1	semantic mapper	semantic integration
+13047	21888	1	cartesian product	binary relation
+15780	1045	1	swarm intelligence	emergence
+19584	10988	1	semantics	programming language
+20495	5642	1	fourier series	discrete fourier transform
+14250	19986	1	minimax	game tree
+1348	4016	1	monetdb	column-oriented
+21817	8733	1	user-generated content	flickr
+23413	18770	1	view	materialized view
+11990	8124	1	logic	completeness
+12106	19716	1	models	statistical inference
+21723	6614	1	graph algorithms	algorithm
+1199	20886	1	cognitive science	cognitive psychology
+14387	12968	1	gibbs measure	exponential family
+10671	7253	1	prior probability	minimum description length
+19344	17321	1	problem of induction	occam's razor
+17946	11232	1	support vector machine	kernel trick
+14250	7513	1	minimax	alpha-beta pruning
+17981	14197	1	mathematical logic	fuzzy logic
+5395	23417	1	sun microsystems	service-oriented architecture
+21239	21132	1	probability theory	normal
+16137	18069	1	open source	crowdsourcing
+14470	15557	1	social network	network science
+15636	8901	1	pattern recognition	vector
+13943	19426	1	stanford	brown
+433	9929	1	tree-adjoining grammar	context-sensitive grammar
+23360	11444	1	weka	machine learning
+6276	20836	1	computer science	computer graphics
+10033	3376	1	speech recognition	speech processing
+122	4715	1	truly relational database management systems	query language
+17005	20164	1	k-medoids	k-medians
+21159	8136	1	conjunction	first-order logic
+19795	268	1	numeric computation	fortran
+9164	12248	1	postgresql	ingres
+7544	8241	1	vector space	representation theory
+3979	20154	1	partial least squares regression	linear regression
+20287	23361	1	world wide web	myspace
+15687	6616	1	hash table	bloom filter
+14196	6458	1	dimension reduction	curse of dimensionality
+11444	22616	1	machine learning	inductive bias
+17678	16137	1	unix	open source
+2741	3969	1	convex set	convex hull
+22079	23088	1	operating system	c
+1770	14098	1	relational model	functional dependency
+10973	22079	1	scheduler	operating system
+21547	1028	1	movielens	grouplens research
+10543	4929	1	polytope	linear programming
+21473	50	1	dna microarray	dna
+14003	22141	1	spearman's rank correlation coefficient	kendall tau rank correlation coefficient
+23181	4546	1	modal	linear temporal logic
+5190	15304	1	sun	grid
+17851	18670	1	simd	connection machine
+3632	7349	1	protein	amino acid
+18197	21851	1	latent variable	factor analysis
+13406	17134	1	virtual machine	java
+1770	8615	1	relational model	database normalization
+268	13881	1	fortran	assembly language
+6235	11195	1	moore's law	circuit
+3657	2334	1	formal system	axiomatic system
+11432	8482	1	fourier transform	autocorrelation
+5550	10708	1	document retrieval	document classification
+8070	23334	1	information retrieval	information extraction
+12515	4999	1	document-term matrix	bag of words model
+12284	12614	1	relational database	microsoft
+21955	15219	1	visual cortex	binocular vision
+435	929	1	subroutines	object-oriented programming
+20123	640	1	data model	conceptual schema
+5300	8070	1	personal information management	information retrieval
+13690	15851	1	statistical	spatial analysis
+21525	408	1	relation	optimize
+9219	2060	1	morphology	morpheme
+6063	9171	1	autonomous robot	aibo
+20136	16374	1	statistics	biostatistics
+6980	12793	1	line	euclidean geometry
+16592	8615	1	1nf	database normalization
+17678	5395	1	unix	sun microsystems
+15857	19178	1	root mean square	least squares
+6858	23191	1	particle filter	markov chain monte carlo
+10679	16743	1	web 2.0	html
+9780	6614	1	numerical algorithms	algorithm
+14502	14196	1	wavelet	dimension reduction
+11937	21439	1	first-order	automated theorem proving
+12421	21626	1	simrank	similarity measure
+19716	21132	1	statistical inference	normal
+14519	13869	1	hierarchical hidden markov model	hidden markov model
+12462	19747	1	poisson's equation	laplace operator
+12304	23224	1	polytree	belief propagation
+2911	18300	1	mathematical analysis	manifold
+10753	4850	1	kriging	gaussian process
+8136	15631	1	first-order logic	undecidable
+18596	15144	1	positive definite	convex function
+3327	10210	1	bengali	arabic
+7448	5861	1	hilbert space	double dual space
+12859	8482	1	white noise	autocorrelation
+7040	15636	1	predictive analytics	pattern recognition
+18434	6920	1	select	mysql
+12818	16768	1	physical symbol system	chinese room
+9996	13212	1	distributed computing	concurrent computing
+12942	4468	1	subset	empty set
+6984	19689	1	bitmap index	bitmap
+1613	20836	1	computer simulation	computer graphics
+10988	608	1	programming language	cobol
+20197	18690	1	optical flow	aperture problem
+12986	23130	1	linear algebra	functional analysis
+20172	17625	1	youtube	h.264
+21532	10967	1	decision support system	data warehouse
+10880	1447	1	quantifier elimination	decidable
+20943	22533	1	neuroscience	memory
+19880	16321	1	zipf's law	brown corpus
+3188	566	1	natural number	monoid
+2940	8383	1	xsb	prolog
+19245	1891	1	ip address	domain name system
+11232	4879	1	kernel trick	integral transform
+8481	7915	1	qr algorithm	eigenvalues and eigenvectors
+10310	21994	1	supervised learning	multilayer perceptron
+21955	484	1	visual cortex	receptive field
+13968	3838	1	unconditional probability	bayes' theorem
+23413	5492	1	view	partitioning
+3211	20288	1	terabyte	digital information
+19572	6614	1	sorting algorithm	algorithm
+19834	22307	1	zip code	new york city
+15864	11213	1	optimality theory	generative grammar
+12911	7707	1	optimal design	minimization
+929	608	1	object-oriented programming	cobol
+4891	8701	1	phylogenetic tree	multiple sequence alignment
+5357	1564	1	relational database management system	database management system
+8462	18884	1	maximum likelihood	covariance matrix
+23070	15621	1	pearson product-moment correlation coefficient	correlation and dependence
+17946	22050	1	support vector machine	classifying data
+15983	20251	1	spectral theorem	singular value decomposition
+16802	2693	1	controlled vocabulary	controlled natural language
+12988	21671	1	viterbi algorithm	dynamic programming
+21500	6550	1	stream processing	data stream mining
+23417	1452	1	service-oriented architecture	emml
+7040	7864	1	predictive analytics	customer relationship management
+20136	20999	1	statistics	unbiased estimates
+17144	3839	1	multiword expression	compound
+23523	11603	1	regular language	formal language
+20136	15702	1	statistics	mathematical discipline
+12987	1455	1	operational semantics	bisimulation
+23163	18518	1	snapshot isolation	serializable
+20976	486	1	linear dynamical system	kalman filter
+14197	7990	1	fuzzy logic	artificial neural network
+5162	8822	1	microsoft sql server	microsoft corp
+16000	8462	1	normally  distributed	maximum likelihood
+21439	12761	1	automated theorem proving	automated reasoning
+23151	21277	1	theorem	rule of inference
+2746	4546	1	temporal	linear temporal logic
+7571	3188	1	total order	natural number
+10487	20155	1	tuple	relational algebra
+9691	20944	1	distance matrix	adjacency matrices
+11288	4999	1	latent semantic analysis	bag of words model
+12676	16494	1	probability distribution	multinomial distribution
+13181	8131	1	model theory	mathematics
+15192	5562	1	polynomial-time approximation	apx
+7544	23130	1	vector space	functional analysis
+10310	11444	1	supervised learning	machine learning
+21574	3862	1	stochastic context-free grammar	cyk algorithm
+7571	21888	1	total order	binary relation
+17372	11432	1	magnetic resonance imaging	fourier transform
+14844	11850	1	architecture	abstraction
+265	10690	1	pspace-complete	pspace
+7091	4257	1	graph theory	depth-first search
+6522	1076	1	data mining	clustering
+13212	15916	1	concurrent computing	concurrency control
+559	1199	1	vision	cognitive science
+22749	7990	1	feedforward	artificial neural network
+9350	19156	1	wi-fi	lan
+15916	97	1	concurrency control	concurrency
+15171	7448	1	reproducing kernel hilbert space	hilbert space
+4501	17497	1	packing problem	bin packing
+8635	4464	1	turing test	natural language
+8131	9371	1	mathematics	continuous
+16105	12905	1	unsupervised learning	neural network
+16958	2666	1	continuous function	compact
+15636	11444	1	pattern recognition	machine learning
+8855	4352	1	regression analysis	residuals
+21777	15470	1	statistical hypothesis testing	p-value
+2444	12440	1	stanford university	stanford research institute
+7091	7765	1	graph theory	graph
+4881	10954	1	speech synthesis	speech recognizer
+17528	13416	1	information theory	cryptography
+11691	20087	1	online analytical processing	database
+859	18995	1	graphical model	conditional random field
+11357	19917	1	object-relational database	object database
+2030	23451	1	programming paradigm	declarative programming
+16009	7787	1	maximum satisfiability	2-satisfiability
+12947	15916	1	ss2pl	concurrency control
+12676	1299	1	probability distribution	mixture distribution
+8183	5162	1	microsoft visual studio	microsoft sql server
+12219	2019	1	multinomial logit	logistic regression
+1772	13025	1	k-medians clustering	k-means clustering
+4676	11517	1	universal grammar	linguistics
+3154	19090	1	numerical analysis	matlab
+12032	16374	1	quantitative	biostatistics
+12929	12144	1	hypothesis test	bayes factor
+10487	13761	1	tuple	arity
+15063	12793	1	projective geometry	euclidean geometry
+1829	13580	1	petri net	concurrent
+6858	486	1	particle filter	kalman filter
+22079	1947	1	operating system	macintosh
+22944	10967	1	extract, transform, load	data warehouse
+13370	15636	1	sequence labeling	pattern recognition
+6276	1199	1	computer science	cognitive science
+3886	1455	1	kripke models	bisimulation
+17851	20204	1	simd	cell
+9504	8284	1	random variable	probability
+3409	3402	1	propositional calculus	connective symbols
+11173	13025	1	principal component analysis	k-means clustering
+16745	10730	1	genetic programming	evolutionary algorithm
+15958	14196	1	time series	dimension reduction
+7253	12714	1	minimum description length	bayesian inference
+17671	16764	1	classification	mahalanobis distance
+7781	9169	1	p	complexity class
+892	18262	1	dft	cosine
+20910	3671	1	parsing	lexical analyser
+20389	19252	1	syllogism	inferred
+1122	12614	1	web browser	microsoft
+13836	11752	1	id3 algorithm	decision tree
+5526	15424	1	languages	compilation
+2273	13051	1	speech event	pragmatics
+1565	22533	1	semantic memory	memory
+3245	2760	1	virtual reality	augmented reality
+1062	12326	1	teradata	data warehousing
+2020	18879	1	type system	data type
+22442	13322	1	trie	radix sort
+18071	17321	1	william of ockham	occam's razor
+20136	8631	1	statistics	computational biology
+6974	484	1	retina	receptive field
+22820	16465	1	tuple calculus	sql
+2741	15144	1	convex set	convex function
+18959	10967	1	etl	data warehouse
+7544	10531	1	vector space	tensor
+16595	20499	1	levenshtein distance	approximate string matching
+20136	19064	1	statistics	multivariate statistics
+739	10730	1	genetic algorithm	evolutionary algorithm
+23473	9517	1	power iteration	page rank
+21239	13636	1	probability theory	poisson
+3696	16178	1	lossy compression	jpeg
+17519	9954	1	decision problem	computational complexity theory
+7832	8166	1	logarithm	entropy in information theory
+18596	12986	1	positive definite	linear algebra
+23088	13881	1	c	assembly language
+20050	16645	1	quantile	descriptive statistics
+10349	5971	1	specification	formal methods
+19832	11213	1	minimalist program	generative grammar
+15983	12986	1	spectral theorem	linear algebra
+11091	11093	1	segmentation	machine vision
+20169	13181	1	structure	model theory
+21432	224	1	semantic integration	data integration
+5660	20817	1	similarity matrix	distance matrices
+1258	15354	1	matrix	distance  matrix
+22834	21888	1	equivalence relation	binary relation
+4499	8615	1	3nf	database normalization
+8139	14439	1	stochastic gradient descent	gradient descent
+5154	2618	1	directory	open directory project
+20251	23037	1	singular value decomposition	latent semantic indexing
+17704	11603	1	syntactic	formal language
+22807	9789	1	memory for facts	hippocampus
+12905	4568	1	neural network	cognitive architecture
+19223	3991	1	regular expression	formal language theory
+18452	268	1	modular programming	fortran
+22227	21023	1	lazy evaluation	functional programming
+8139	13780	1	stochastic gradient descent	stochastic approximation
+7708	20087	1	database theory	database
+12802	10154	1	parsed	ambiguity
+9132	6235	1	transistor	moore's law
+22620	16542	1	kernel principal component analysis	cluster analysis
+17792	8732	1	independent set	bipartite graph
+15687	16613	1	hash table	array
+18649	2622	1	semantic network	network theory
+3829	4850	1	normally distributed	gaussian process
+8596	608	1	object-oriented	cobol
+8150	20115	1	mp3	id3
+19810	13746	1	memory hierarchy	cpus
+21392	15320	1	phonemic	american sign language
+7781	9954	1	p	computational complexity theory
+13845	16301	1	linguistic	lexical semantics
+13226	5918	1	standard deviation	normal distribution
+17532	12476	1	vc dimension	computational learning theory
+434	193	1	poisson regression	poisson distribution
+11817	6958	1	r-tree	b-tree
+11679	16018	1	six sigma	motorola
+19716	21777	1	statistical inference	statistical hypothesis testing
+14183	6614	1	randomized algorithm	algorithm
+16812	23568	1	heuristic evaluation	heuristic
+15983	19181	1	spectral theorem	inner product space
+22079	13842	1	operating system	file system
+12662	18016	1	javascript	html 4.01
+18578	9351	1	xslt	language
+9132	16018	1	transistor	motorola
+18300	4699	1	manifold	differentiable manifold
+5395	16137	1	sun microsystems	open source
+7886	12183	1	set theory	natural
+3244	21888	1	undirected graph	binary relation
+17678	10607	1	unix	bell labs
+6341	4143	1	visual	motion perception
+1258	18526	1	matrix	game theory
+3050	7512	1	metadata	data dictionary
+19181	10567	1	inner product space	dot product
+9930	6807	1	semantic similarity	analogy
+8183	12614	1	microsoft visual studio	microsoft
+11317	6614	1	computational geometric	algorithm
+17946	2253	1	support vector machine	binary classification
+3969	4459	1	convex hull	computational geometry
+10033	10468	1	speech recognition	multimodal interaction
+10931	14617	1	supremum	empty
+12895	18787	1	semantic web	rdf
+2524	9553	1	modal logic	dynamic logic
+18162	13181	1	structures	model theory
+10679	21817	1	web 2.0	user-generated content
+16009	5562	1	maximum satisfiability	apx
+8596	12662	1	object-oriented	javascript
+2784	16077	1	integrated circuit	cpu
+2067	8839	1	john mccarthy	artificial intelligence
+11000	5918	1	density functions	normal distribution
+3088	11213	1	lexical-functional grammar	generative grammar
+12284	20087	1	relational database	database
+23360	6522	1	weka	data mining
+5918	1588	1	normal distribution	erf
+8142	1916	1	rete algorithm	expert system
+997	162	1	top-down	memoization
+962	8070	1	text retrieval conference	information retrieval
+7832	19229	1	logarithm	powers
+12942	3188	1	subset	natural number
+22442	21025	1	trie	binary search tree
+6895	15650	1	corpora	natural language processing
+3632	5518	1	protein	messenger rna
+17096	9954	1	np-hard	computational complexity theory
+14244	18998	1	mathematical	mathematical model
+11432	20495	1	fourier transform	fourier series
+14368	1967	1	lotus notes	ibm
+19086	17946	1	vapnik	support vector machine
+12646	21777	1	type i error	statistical hypothesis testing
+21032	19626	1	agent	intelligent agent
+2875	15680	1	linear programming relaxation	approximation algorithm
+4463	21990	1	ontological	determinism
+8733	20189	1	flickr	facebook
+6899	5362	1	monte carlo	simulating
+489	7448	1	symmetric matrices	hilbert space
+161	7448	1	spectrum	hilbert space
+5380	6276	1	concurrency theory	computer science
+11184	15144	1	monotonically increasing	convex function
+6473	4439	1	xml	application programming interface
+12601	10587	1	peer-to-peer	distributed systems
+21239	8131	1	probability theory	mathematics
+10905	453	1	robotics	control theory
+14014	11347	1	perceptron	feedforward neural network
+8293	8324	1	wilcoxon signed-rank test	paired student's t-test
+20151	15140	1	symmetric matrix	conic section
+4871	937	1	lagrange multiplier	convex optimization
+17215	8837	1	gamma	conjugate prior
+4380	22583	1	minicomputer	microcomputer
+6695	12639	1	inductive reasoning	deductive
+8596	20083	1	object-oriented	multiple inheritance
+11990	5971	1	logic	formal methods
+16851	15603	1	virtual memory	kernels
+17497	15680	1	bin packing	approximation algorithm
+20490	20189	1	twitter	facebook
+6191	11054	1	mutual information	conditional entropies
+2666	8622	1	compact	boolean algebra
+20286	2618	1	web directories	open directory project
+3767	13051	1	speech act	pragmatics
+16325	9282	1	variance	normal law of errors
+17704	18107	1	syntactic	derive
+7838	3327	1	diacritic	bengali
+18481	18995	1	labeling	conditional random field
+10988	12993	1	programming language	chomsky hierarchy
+929	268	1	object-oriented programming	fortran
+193	6167	1	poisson distribution	exponential distribution
+8855	23070	1	regression analysis	pearson product-moment correlation coefficient
+14189	22439	1	nested loop join	block nested loop
+10681	6807	1	case-based reasoning	analogy
+13731	19373	1	bayesian information criterion	akaike information criterion
+13226	10399	1	standard deviation	arithmetic mean
+3843	10578	1	micro	graphics processing unit
+11331	12144	1	model selection	bayes factor
+16465	18434	1	sql	select
+1439	16989	1	web	google search
+1427	18913	1	euclidean space	calculus
+5041	5336	1	number theory	complex analysis
+20251	18976	1	singular value decomposition	matrix decomposition
+9003	8839	1	mccarthy	artificial intelligence
+20934	8839	1	search space	artificial intelligence
+14502	6143	1	wavelet	discrete wavelet transform
+12646	18330	1	type i error	power
+502	2760	1	image processing	augmented reality
+184	12802	1	top-down parsing	parsed
+4501	5610	1	packing problem	knapsack problem
+5546	3632	1	fold	protein
+21564	503	1	reinforcement learning	multi-armed bandit
+1454	12144	1	likelihood-ratio test	bayes factor
+4126	14844	1	microprocessor	architecture
+2020	23088	1	type system	c
+11845	5562	1	boolean satisfiability	apx
+8711	22348	1	reactive	action selection
+6580	7765	1	planar graph	graph
+3547	11196	1	formulas	syntactic entities
+10310	9917	1	supervised learning	neural networks
+233	15584	1	union	complement
+4126	11815	1	microprocessor	computer architecture
+5610	21182	1	knapsack problem	combinatorial optimization
+20136	14003	1	statistics	spearman's rank correlation coefficient
+23149	4845	1	empirical bayes	bayesian methods
+8241	7448	1	representation theory	hilbert space
+4463	3932	1	ontological	mereology
+12788	739	1	hill climbing	genetic algorithm
+1250	9290	1	random subspace	random forest
+10615	2626	1	triangle inequality	metric space
+12749	18089	1	sorting	search algorithm
+20210	9995	1	hierarchical clustering	dendrogram
+16325	21239	1	variance	probability theory
+18785	1059	1	two-phase locking	serializability
+20251	8481	1	singular value decomposition	qr algorithm
+19306	16465	1	sql/xml	sql
+20943	21582	1	neuroscience	national science foundation
+21859	8284	1	theory of probability	probability
+7555	557	1	universal quantification	existential quantification
+6354	11858	1	lr parser	bottom-up parsing
+10808	17981	1	theory	mathematical logic
+3152	23066	1	dpll	theorem provers
+20251	10277	1	singular value decomposition	qr decomposition
+2019	900	1	logistic regression	generalized linear model
+19642	16135	1	optimal control	control policies
+5445	5958	1	machine translation	computational linguistics
+739	828	1	genetic algorithm	bioinformatics
+11836	15140	1	partial differential equation	conic section
+12662	21023	1	javascript	functional programming
+8855	684	1	regression analysis	quantile regression
+11547	6807	1	induction	analogy
+13836	1832	1	id3 algorithm	c4.5 algorithm
+8248	16638	1	random graph theory	almost surely
+1369	17082	1	source code	compiled
+6580	14146	1	planar graph	complete graph
+9290	5409	1	random forest	decision trees
+20744	6614	1	chess	algorithm
+21791	21439	1	formal verification	automated theorem proving
+11573	5991	1	neuroevolution of augmenting topologies	neuroevolution
+6871	15222	1	hyperlink	html element
+10988	21023	1	programming language	functional programming
+6854	8839	1	local searches	artificial intelligence
+1076	9198	1	clustering	biclustering
+4911	8732	1	record linkage	bipartite graph
+2626	16595	1	metric space	levenshtein distance
+21397	19125	1	field-programmable gate array	application-specific integrated circuit
+20036	8136	1	type theory	first-order logic
+16514	18976	1	system of linear equations	matrix decomposition
+3608	6841	1	huffman coding	entropy encoding
+23576	20147	1	three-tier	middleware
+10967	6522	1	data warehouse	data mining
+10213	7952	1	ole db	sql server
+21315	8027	1	maximum likelihood estimator	bias
+6283	11913	1	recommender system	information filtering system
+3025	19092	1	shortest path	dijkstra's algorithm
+12676	8627	1	probability distribution	convex combination
+678	11953	1	standard normal	multivariate normal distribution
+11691	6075	1	online analytical processing	business intelligence
+9774	6989	1	whitening	independent component analysis
+50	16502	1	dna	bacteria
+2291	16743	1	semantic	html
+1369	3403	1	source code	computer program
+7040	21135	1	predictive analytics	naïve bayes
+12676	1817	1	probability distribution	cumulative distribution function
+1006	8837	1	exponential	conjugate prior
+16764	21291	1	mahalanobis distance	euclidean distance
+749	329	1	norm	lp space
+20251	1258	1	singular value decomposition	matrix
+9292	21620	1	regularization	bic
+17981	11547	1	mathematical logic	induction
+2626	1890	1	metric space	interval
+19584	16736	1	semantics	parse
+12916	13101	1	protein structure prediction	global optimization
+16624	224	1	extracts, transforms, and loads	data integration
+18787	21013	1	rdf	dbpedia
+6920	20045	1	mysql	linux
+14294	25	1	poisson process	exponentially distributed
+16325	6167	1	variance	exponential distribution
+10277	8481	1	qr decomposition	qr algorithm
+3414	13224	1	polysemy	metonymy
+7560	18979	1	logic programming	datalog
+15650	6276	1	natural language processing	computer science
+9954	6614	1	computational complexity theory	algorithm
+22130	17981	1	natural deduction	mathematical logic
+8383	23451	1	prolog	declarative programming
+6227	6316	1	sociology	network analysis
+7633	3838	1	bayesian network	bayes' theorem
+18169	10967	1	extract, transform, and load	data warehouse
+10466	9409	1	text mining	stop words
+8917	9401	1	random process	markov chain
+9290	15454	1	random forest	ensemble
+9836	12592	1	magnetoencephalography	functional mri
+9350	11629	1	wi-fi	local area network
+1698	15140	1	quadric	conic section
+10310	20981	1	supervised learning	concept learning
+1454	3981	1	likelihood-ratio test	likelihood function
+14014	3800	1	perceptron	hyperplane
+6136	1506	1	quadratic discriminant analysis	linear discriminant analysis
+12030	6920	1	oracle corporation	mysql
+16465	6975	1	sql	linq
+11065	19823	1	program	batch processing
+17671	6522	1	classification	data mining
+17556	3435	1	corners	computer vision
+3499	2941	1	xquery update facility	xquery
+22917	21671	1	recursive	dynamic programming
+12546	1564	1	distributed database management system	database management system
+18463	9112	1	lexical functional grammar	feature structure
+15268	16361	1	social bookmarking	citeulike
+5177	5987	1	lisp	lambda calculus
+1740	22995	1	riemannian	geodesic
+16325	2633	1	variance	estimates
+6458	3758	1	curse of dimensionality	clustering high-dimensional data
+15248	5483	1	similar	ellipse
+19870	12614	1	spreadsheet	microsoft
+3409	3657	1	propositional calculus	formal system
+23413	11850	1	view	abstraction
+18169	12326	1	extract, transform, and load	data warehousing
+15984	11444	1	regression	machine learning
+17946	10310	1	support vector machine	supervised learning
+18418	11432	1	frequency domain	fourier transform
+8297	20836	1	gpu	computer graphics
+9784	13047	1	n-tuple	cartesian product
+765	369	1	situation calculus	event calculus
+11923	12304	1	tree	polytree
+10405	885	1	hough transform	edge detection
+14473	3838	1	bayesian probability	bayes' theorem
+20910	6336	1	parsing	cyk parser
+22369	3981	1	probability density function	likelihood function
+17851	13881	1	simd	assembly language
+3981	2823	1	likelihood function	conditional entropy
+7622	6787	1	polynomial	exponents
+18353	12570	1	complete	clique
+11855	12662	1	types	javascript
+23062	10567	1	orthonormal bases	dot product
+15934	3701	1	spectral graph theory	laplacian matrix
+1770	4207	1	relational model	database model
+20627	18771	1	jaccard index	hamming distance
+1435	10967	1	star schema	data warehouse
+329	12876	1	lp space	function space
+23100	4929	1	operations research	linear programming
+11289	18513	1	queueing theory	queueing model
+11194	4066	1	receiver operating characteristic	precision and recall
+21766	18787	1	swoogle	rdf
+15764	14197	1	fuzzy set	fuzzy logic
+23178	16178	1	macroblock	jpeg
+17912	16502	1	immune system	bacteria
+23032	17152	1	best-first search	beam search
+1285	3188	1	ordering	natural number
+10310	13719	1	supervised learning	naive bayes
+21784	4546	1	temporal logic	linear temporal logic
+7355	13869	1	mixture model	hidden markov model
+13636	8837	1	poisson	conjugate prior
+7091	19683	1	graph theory	graph rewrite systems
+17090	23088	1	compiler	c
+10660	16931	1	semantic memories	episodic memory
+1770	13030	1	relational model	db2
+10310	12	1	supervised learning	semi-supervised learning
+18471	14736	1	verbnet	propbank
+13802	13869	1	alignment of bio-sequences	hidden markov model
+5395	15304	1	sun microsystems	grid
+18578	12787	1	xslt	xpath
+7124	23088	1	python	c
+12799	6167	1	uniform distribution	exponential distribution
+2957	12591	1	list of google products	web search
+13227	8387	1	spherical harmonics	fourier coefficients
+17851	2072	1	simd	gpgpu
+2732	14340	1	stable model semantics	logic programs
+18785	6657	1	two-phase locking	two-phase commit protocol
+1638	2344	1	windows media player	incremental search
+5319	10595	1	robotic manipulation	motion planning
+15958	22278	1	time series	moving average
+17981	363	1	mathematical logic	computability theory
+19043	19165	1	world wide web consortium	sparql
+19716	17528	1	statistical inference	information theory
+4013	16178	1	rgb	jpeg
+14014	13971	1	perceptron	decision boundary
+10988	268	1	programming language	fortran
+12942	117	1	subset	power set
+10405	21346	1	hough transform	edge detector
+11887	4736	1	the new york times	recaptcha
+1638	12614	1	windows media player	microsoft
+3981	12714	1	likelihood function	bayesian inference
+17245	21777	1	statistical significance	statistical hypothesis testing
+19917	6669	1	object database	object data management group
+6861	16663	1	simulated annealing	local optima
+7206	16053	1	personal digital assistant	mobile phone
+14407	5721	1	truth value	classical logic
+564	18609	1	defeasible reasoning	abductive
+14250	1569	1	minimax	loss function
+10686	5041	1	partitions	number theory
+16365	23455	1	indicator function	expected value
+7832	1006	1	logarithm	exponential
+12208	3969	1	voronoi diagram	convex hull
+17332	21919	1	overfitting	cross-validation
+1446	1524	1	fisher information	entropy
+16331	13869	1	part-of-speech tagging	hidden markov model
+17639	22475	1	natural language understanding	natural language generation
+4380	5290	1	minicomputer	mainframes
+19450	18315	1	huffman encoded	data compression
+15171	11232	1	reproducing kernel hilbert space	kernel trick
+2911	7448	1	mathematical analysis	hilbert space
+59	13368	1	yahoo	delicious
+22487	21473	1	expression analysis	dna microarray
+16018	16053	1	motorola	mobile phone
+12208	4459	1	voronoi diagram	computational geometry
+19107	4929	1	nonlinear programming	linear programming
+20251	5371	1	singular value decomposition	factorization
+21012	8596	1	perl	object-oriented
+9213	16298	1	cloud computing	amazon
+22079	17434	1	operating system	graphical user interface
+11331	3535	1	model selection	minimum message length
+11288	8070	1	latent semantic analysis	information retrieval
+19344	6695	1	problem of induction	inductive reasoning
+7808	16574	1	k-nearest neighbor	instance-based learning
+4929	21840	1	linear programming	constraints
+20136	8855	1	statistics	regression analysis
+14900	4929	1	simplex method	linear programming
+16465	19310	1	sql	data manipulation language
+20087	8152	1	database	nodes
+935	18649	1	sneps	semantic network
+10773	162	1	top-down parser	memoization
+16658	22371	1	ops5	inference engine
+631	5043	1	java database connectivity	java programming language
+2622	15915	1	network theory	graphs
+3365	1446	1	fisher information metric	fisher information
+22616	21209	1	inductive bias	bayesian
+1587	12714	1	frequentist inference	bayesian inference
+15650	11444	1	natural language processing	machine learning
+17528	5198	1	information theory	compressed
+15984	11953	1	regression	multivariate normal distribution
+1602	10403	1	robust statistics	bootstrap
+12529	8297	1	nvidia	gpu
+14371	11845	1	constraint satisfaction	boolean satisfiability
+4929	6340	1	linear programming	cplex
+13869	9172	1	hidden markov model	dynamic bayesian network
+5959	15522	1	vector quantization	self-organizing map
+20045	13881	1	linux	assembly language
+9054	1269	1	matching pursuit	greedy
+11345	13567	1	signal processing	electrical engineering
+19572	14672	1	sorting algorithm	merge sort
+9145	4929	1	quadratic programming	linear programming
+20083	17134	1	multiple inheritance	java
+1955	4640	1	log-normal distribution	geometric mean
+7091	1877	1	graph theory	complete bipartite graph
+13372	3167	1	emergent processes	connectionism
+9789	16931	1	hippocampus	episodic memory
+2988	14403	1	histogram	density estimate
+13869	17331	1	hidden markov model	gibbs sampling
+2941	8868	1	xquery	flwor
+22982	11309	1	posterior probability	conditional probability
+1686	5958	1	pos-taggers	computational linguistics
+15268	18069	1	social bookmarking	crowdsourcing
+7781	4929	1	p	linear programming
+6720	20018	1	global serializability	global transactions
+12304	9842	1	polytree	directed acyclic graph
+8855	4070	1	regression analysis	causal relationships
+12662	3484	1	javascript	ajax
+4126	22583	1	microprocessor	microcomputer
+19513	22348	1	dynamic planning	action selection
+6473	610	1	xml	ascii
+20136	8131	1	statistics	mathematics
+8383	14371	1	prolog	constraint satisfaction
+3358	22509	1	microblogging	instant messaging
+17594	6461	1	vax	pdp-11
+20910	10996	1	parsing	formal grammar
+16465	12248	1	sql	ingres
+12614	9419	1	microsoft	kernel
+10988	8330	1	programming language	context-free grammar
+929	10282	1	object-oriented programming	garbage collection
+20036	18879	1	type theory	data type
+16325	23455	1	variance	expected value
+8771	10890	1	phase space	dynamical system
+20210	16542	1	hierarchical clustering	cluster analysis
+1085	10490	1	second-order logic	effectiveness
+15272	18649	1	wordnet	semantic network
+21408	18689	1	predicate logic	domain of discourse
+7708	7327	1	database theory	conjunctive queries
+13690	21851	1	statistical	factor analysis
+11213	8330	1	generative grammar	context-free grammar
+8626	11357	1	object-relational mapping	object-relational database
+5987	3657	1	lambda calculus	formal system
+20744	17755	1	chess	backgammon
+15319	8732	1	matching	bipartite graph
+18618	6614	1	branch and bound	algorithm
+7781	20280	1	p	exptime
+23360	9512	1	weka	feature selection
+7355	3860	1	mixture model	mml
+16803	8136	1	skolem normal form	first-order logic
+5658	9213	1	load balancing	cloud computing
+18649	20232	1	semantic network	conceptual graph
