@@ -11,6 +11,6 @@ For the datasets, please dowanload them from http://arnetminer.org/citation and 
 Additionally, some MySQL tables for keeping Wiki surface forms and Wikification results are needed. Interesting readers can refer to their formats in folder "mysql_tables".
 
 
-Given these preparation done, to construct the network, sequentially run the python code from step0 to step9 (step5 in written in C++ to ensure efficiency).
+Given these preparation done, to construct the network, sequentially run the python code from step0 to step9 (step5 was written in C++ to ensure efficiency).
 
 Note to run Jate immediately after finish step2 in order to generate term extraction results from CValue.
