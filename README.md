@@ -8,7 +8,7 @@ Some necessary Python packages are also required mwparserfromhell, networkx and 
 
 For the datasets, please dowanload them from http://arnetminer.org/citation and http://dumps.wikimedia.org/enwiki/
 
-Additionally, some MySQL tables for keeping Wiki surface forms and Wikification results are needed. Interesting readers can refer to their formats from step0 and 3. 
+Additionally, some MySQL tables for keeping Wiki surface forms and Wikification results are needed. Interesting readers can refer to their formats in folder "mysql_tables".
 
 
 Given these preparation done, to construct the network, sequentially run the python code from step0 to step9.
